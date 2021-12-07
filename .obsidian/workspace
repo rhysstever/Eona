@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c3e8372bd1a627dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8af602fa24c5ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Continents/Ezavriel.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d737e0454432d1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f62a68918e0211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca465a7f7a67fed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d51fa29b4db3589e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "109c64a7db16d479",
+    "type": "split",
+    "children": [
+      {
+        "id": "8777fa7532decd67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b0630b2baf43b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Continents/Ezavriel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc8af602fa24c5ce",
+  "lastOpenFiles": [
+    "Continents/Ezavriel.md",
+    "Continents/Continent_Template.md"
+  ]
+}
