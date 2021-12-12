@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c3e8372bd1a627dd",
+    "id": "21083b427c5624b2",
     "type": "split",
     "children": [
       {
-        "id": "dc8af602fa24c5ce",
+        "id": "019e82949617f01e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Ezavriel.md",
+            "file": "Templates/Nation_Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Ezavriel.md",
+                "file": "Templates/Nation_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc8af602fa24c5ce",
+  "active": "019e82949617f01e",
   "lastOpenFiles": [
+    "Templates/Nation_Template.md",
+    "Templates/Organization_Template.md",
+    "Templates/Person_Template.md",
+    "Eona.md",
+    "Cities/Ithilmore.md",
+    "Cities/Zanapool.md",
     "Continents/Ezavriel.md",
+    "Nations/Kandallo.md",
     "Templates/Continent_Template.md",
-    "Eona.md"
+    "Templates/City_Template.md"
   ]
 }
