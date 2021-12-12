@@ -1,4 +1,4 @@
-<h1>Kandallo</h1>
-Description
+# Kandallo
+The northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]]. 
 
-The northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]].
+#Nation

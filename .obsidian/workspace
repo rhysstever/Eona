@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "019e82949617f01e",
+        "id": "e2159a7a90f236bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Nation_Template.md",
-            "mode": "source"
+            "file": "Continents/Ezavriel.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Nation_Template.md",
+                "file": "Continents/Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,58 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "f43d301b8880ffe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Continents/Ezavriel.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb423c353e78f93a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15ed7458809fa7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Continents/Ezavriel.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "019e82949617f01e",
+  "active": "e2159a7a90f236bc",
   "lastOpenFiles": [
-    "Templates/Nation_Template.md",
-    "Templates/Organization_Template.md",
-    "Templates/Person_Template.md",
-    "Eona.md",
-    "Cities/Ithilmore.md",
-    "Cities/Zanapool.md",
     "Continents/Ezavriel.md",
+    "Nations/Baohua.md",
+    "POIs/Willowdust Woods.md",
+    "Settlements/Ithilmore.md",
+    "Settlements/Khiton.md",
+    "Settlements/Zanapool.md",
+    "Eona.md",
+    "Nations/Taonia.md",
     "Nations/Kandallo.md",
-    "Templates/Continent_Template.md",
-    "Templates/City_Template.md"
+    "Nations/Yhorian Empire.md"
   ]
 }

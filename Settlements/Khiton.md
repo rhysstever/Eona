@@ -1,5 +1,5 @@
-# Name
-Description
+# Khiton
+Khiton is the capital of the [[Baohua]] nation. 
 
 ## Population
 Description

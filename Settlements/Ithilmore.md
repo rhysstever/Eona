@@ -1,5 +1,5 @@
-# Name
-Description
+# Ithilmore
+Ithilmore is the capital of [[Kandallo]].
 
 ## Population
 Description
@@ -16,4 +16,4 @@ Description
 ## Organizations
 Description
 
-#Settlement 
+#Settlement
