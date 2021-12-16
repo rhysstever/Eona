@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continents/Ezavriel.md",
-            "mode": "preview"
+            "file": "Nations/Baohua.md",
+            "mode": "source"
           }
         }
       }
@@ -59,6 +59,90 @@
     "type": "split",
     "children": [
       {
+        "id": "232f5b5eed3c011d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9af2271137137f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Nations/Baohua.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Continent",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Nation",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#Settlement",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#POI",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#Organization",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:#Person",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7983099209587536,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "8777fa7532decd67",
         "type": "tabs",
         "children": [
@@ -68,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Ezavriel.md",
+                "file": "Nations/Baohua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continents/Ezavriel.md",
+                "file": "Nations/Baohua.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,28 +192,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continents/Ezavriel.md"
+                "file": "Nations/Baohua.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483
   },
   "active": "e2159a7a90f236bc",
   "lastOpenFiles": [
-    "Continents/Ezavriel.md",
     "Nations/Baohua.md",
-    "POIs/Willowdust Woods.md",
+    "Nations/Kandallo.md",
+    "Nations/Taonia.md",
+    "Nations/Wayward Coast.md",
+    "Nations/Yhorian Empire.md",
+    "Eona.md",
+    "Continents/Ezavriel.md",
     "Settlements/Ithilmore.md",
     "Settlements/Khiton.md",
-    "Settlements/Zanapool.md",
-    "Eona.md",
-    "Nations/Taonia.md",
-    "Nations/Kandallo.md",
-    "Nations/Yhorian Empire.md"
+    "POIs/Willowdust Woods.md"
   ]
 }

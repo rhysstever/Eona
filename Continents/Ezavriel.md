@@ -1,7 +1,7 @@
 # Ezavriel
 
 ![[Ezavriel_Labeled.jpg]]
-Ezavriel is a warm continent in [[Eona]], location in its northern hemishere. 
+Ezavriel is a warm continent on [[Eona]], located in its northern hemisphere. 
 
 ## History
 History
@@ -16,7 +16,7 @@ Ezavriel is home to five distinct nations.
 To the northwest, the nation of [[Kandallo]] sits, nestled in the [[Willowdust Woods]].
 
 ### Taonia
-The [[Taonia]] Alliance is the centerpoint of Ezavriel. 
+The [[Taonia]] Alliance is the center point of Ezavriel. 
 
 ### Wayward Coast
 The [[Wayward Coast]] sits to the southwest of Ezavriel. 
