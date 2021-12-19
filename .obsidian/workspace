@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Baohua.md",
+            "file": "Continents/Ezavriel.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Continents/Ezavriel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7983099209587536,
+                  "scale": 0.6955257542209116,
                   "close": true
                 }
               }
@@ -152,14 +152,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Continents/Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -169,9 +169,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Continents/Ezavriel.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -192,11 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Baohua.md"
+                "file": "Continents/Ezavriel.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,15 +205,15 @@
   },
   "active": "e2159a7a90f236bc",
   "lastOpenFiles": [
-    "Nations/Baohua.md",
-    "Nations/Kandallo.md",
-    "Nations/Taonia.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Yhorian Empire.md",
-    "Eona.md",
     "Continents/Ezavriel.md",
+    "Eona.md",
+    "Nations/Taonia Alliance.md",
+    "Nations/Yhorian Empire.md",
+    "Nations/Wayward Coast.md",
+    "Nations/Kandallo.md",
+    "Nations/Baohua.md",
+    "Settlements/Yalos.md",
     "Settlements/Ithilmore.md",
-    "Settlements/Khiton.md",
-    "POIs/Willowdust Woods.md"
+    "Settlements/Zanapool.md"
   ]
 }

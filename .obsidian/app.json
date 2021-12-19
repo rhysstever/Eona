@@ -3,5 +3,6 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "Ezavriel"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
