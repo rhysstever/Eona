@@ -1,5 +1,5 @@
-# Yalos
-Yalos is a large port town within the [[Opirian Alliance]]. 
+# Yhora
+Yhora is a large city that is the capital of the [[Yhorian Empire]]. 
 
 ## Population
 Description

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e2159a7a90f236bc",
+        "id": "803fe75b5a3de7ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -203,17 +203,17 @@
     "direction": "horizontal",
     "width": 483
   },
-  "active": "e2159a7a90f236bc",
+  "active": "803fe75b5a3de7ee",
   "lastOpenFiles": [
     "Continents/Ezavriel.md",
-    "Eona.md",
-    "Nations/Taonia Alliance.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Kandallo.md",
-    "Nations/Baohua.md",
+    "Settlements/Opira.md",
     "Settlements/Yalos.md",
-    "Settlements/Ithilmore.md",
-    "Settlements/Zanapool.md"
+    "Nations/Opirian Alliance.md",
+    "Nations/Kandallo.md",
+    "Settlements/Esha.md",
+    "Templates/Settlement_Template.md",
+    "Templates/Person_Template.md",
+    "Nations/Baohua.md",
+    "Nations/Wayward Coast.md"
   ]
 }

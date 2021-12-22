@@ -1,5 +1,5 @@
-# Yalos
-Yalos is a large port town within the [[Opirian Alliance]]. 
+# Esha
+Esha is a coastal city and the capital of [[Wayward Coast]]. 
 
 ## Population
 Description
