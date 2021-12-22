@@ -7,11 +7,8 @@
         "id": "803fe75b5a3de7ee",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Continents/Ezavriel.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Continents/Ezavriel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continents/Ezavriel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Continents/Ezavriel.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -205,15 +197,15 @@
   },
   "active": "803fe75b5a3de7ee",
   "lastOpenFiles": [
-    "Continents/Ezavriel.md",
+    "Organizations/Opirian Alliance.md",
+    "Organizations/Kandallo.md",
+    "Organizations/Baohua.md",
+    "Organizations/Wayward Coast.md",
+    "Organizations/Yhorian Empire.md",
     "Settlements/Opira.md",
-    "Settlements/Yalos.md",
-    "Nations/Opirian Alliance.md",
-    "Nations/Kandallo.md",
-    "Settlements/Esha.md",
-    "Templates/Settlement_Template.md",
-    "Templates/Person_Template.md",
-    "Nations/Baohua.md",
-    "Nations/Wayward Coast.md"
+    "Settlements/Adaham.md",
+    "Settlements/Kanta.md",
+    "Settlements/Eighwood.md",
+    "Continents/Ezavriel.md"
   ]
 }

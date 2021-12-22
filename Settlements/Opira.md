@@ -11,7 +11,9 @@ Description
 Description
 
 ## Commerce
-Description
+- trades mostly with [[Port Qane]] and [[Yalos]]
+- some land routes with [[Yhorian Empire]]
+- rare sea routes with [[Ithilmore]]
 
 ## Organizations
 Description

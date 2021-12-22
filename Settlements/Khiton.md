@@ -11,7 +11,7 @@ Description
 Description
 
 ## Commerce
-Description
+- metals from [[Pyretide Islands]]
 
 ## Organizations
 Description

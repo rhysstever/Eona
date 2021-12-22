@@ -1,5 +1,5 @@
-# Esha
-Esha is a coastal city and the capital of [[Wayward Coast]]. 
+# Kanta
+Kanta is a large town within [[Yhorian Empire]]. It is on the southeast coast of [[Yhora]].
 
 ## Population
 Description
@@ -11,7 +11,7 @@ Description
 Description
 
 ## Commerce
-- fish from Wayward Isles
+Description
 
 ## Organizations
 Description

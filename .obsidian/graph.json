@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Continent",
       "color": {
         "a": 1,
-        "rgb": 14110800
-      }
-    },
-    {
-      "query": "tag:#Nation",
-      "color": {
-        "a": 1,
-        "rgb": 14713938
+        "rgb": 14701138
       }
     },
     {
       "query": "tag:#Settlement",
       "color": {
         "a": 1,
-        "rgb": 16514847
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Organization",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     },
     {
@@ -36,30 +36,23 @@
       }
     },
     {
-      "query": "tag:#Organization",
+      "query": "tag:#Person",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
-    },
-    {
-      "query": "tag:#Person",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 1,
-  "nodeSizeMultiplier": 1.00842696629213,
-  "lineSizeMultiplier": 1.00842696629213,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000036,
+  "scale": 0.9854677486057178,
   "close": false
 }

@@ -11,7 +11,7 @@ Description
 Description
 
 ## Commerce
-Description
+- mainly exports to [[Opira]] via ship
 
 ## Organizations
 Description

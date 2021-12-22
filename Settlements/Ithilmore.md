@@ -11,7 +11,9 @@ Description
 Description
 
 ## Commerce
-Description
+- rarely trades with nations
+- gets stone from northwest mountains
+- uses main river to bring goods into or out of the city
 
 ## Organizations
 Description

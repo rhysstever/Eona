@@ -11,7 +11,8 @@ Description
 Description
 
 ## Commerce
-Mine metals and stone. Uses top of river to float things out of mountain
+- exports mined metals and stone. Uses top of river to float things out of mountain into the sea, 
+- mostly to [[Yhora]]
 
 ## Organizations
 Description

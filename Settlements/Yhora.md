@@ -11,7 +11,9 @@ Description
 Description
 
 ## Commerce
-Description
+- center of trade of the [[Yhorian Empire]]
+- imports: lots of raw resources
+- exports: crafted weapons, furniture, trained soldiers
 
 ## Organizations
 Description
