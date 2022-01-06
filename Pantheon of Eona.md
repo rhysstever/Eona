@@ -3,23 +3,23 @@
 
 Deity | Alignment | Symbol
 ----- | --------- | ------
-Atal, deity of the sun and light | NG | Symbol
-Dten, deity of death | N | Symbol
-Eona, deity of creation | LG | Symbol
-Kremmel, deity of destruction | NE | Symbol
-Kyen, deity of vengeance | CN | Symbol
-Nokzol, deity of tyranny | LE | Symbol
-Ontaro, deity of civilization | LN | Symbol
-Oros, deity of the undead and decay | NE | Symbol
-Otarr, deity of war | N | Symbol
-Ovia, deity of life and growth | CG | Symbol
-Phyneara, deity of peace | NG | Symbol
-Sihiri, deity of magic | N | Symbol
-Thoros, deity of justice | LN | Symbol
-Unus, deity of knowledge | LN | Symbol
-Xitrix, deity of anarchy | CN | Symbol
-Yher, deity of the moon and darkness | NE | Symbol
-Zaas, deity of secrets | CE | Symbol
+Atal, deity of the sun and light | NG | A sun with twelve points
+Dten, deity of death | N | A tombstone with a scythe
+Eona, deity of creation | LG | A circle on a pedestal
+Kremmel, deity of destruction | NE | A circle with a splintering crack
+Kyen, deity of vengeance | CN | A globe stabbed with a dagger
+Nokzol, deity of tyranny | LE | Three pillar-like bars
+Ontaro, deity of civilization | LN | Four hands holding wrists
+Oros, deity of the undead and decay | NE | A partially corroded skull 
+Otarr, deity of war | N | Two crossed swords
+Ovia, deity of life and growth | CG | A tree with a thick canopy
+Phyneara, deity of peace | NG | A globe held between two hands
+Sihiri, deity of magic | N | A circle around three four-pointed stars
+Thoros, deity of justice | LN | A gavel inside a globe
+Unus, deity of knowledge | LN | An open tome
+Xitrix, deity of anarchy | CN | A circle with asymmetrical lines
+Yher, deity of the moon and darkness | NE | A vertical crescent moon
+Zaas, deity of secrets | CE | A dagger over a sealed letter
 
 ## Divinty Ties
 From these 17 deities, they are split into two main categories: Deities of Good and Evil, and Deities of Order and Chaos. In addition, each deity has a tie to another or two others. Deities of Good and Evil have three deities tied to each other, and Deities of Order and Chaos have a lawful deity and a chaotic counterpart. 
