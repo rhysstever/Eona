@@ -7,9 +7,6 @@ Goals
 ## Relationships
 Relationships
 
-## Ranks
-Ranks
-
 ## Key Figures
 People
 

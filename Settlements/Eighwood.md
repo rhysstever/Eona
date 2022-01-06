@@ -2,18 +2,18 @@
 A part of the [[Yhorian Empire]], Eighwood is the northmost settlement of [[Ezavriel]]. It is a large town, east of [[Yhora]] and north of [[Opira]].
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
-Description
+> TODO: Description
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 

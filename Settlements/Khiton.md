@@ -2,18 +2,18 @@
 Khiton is the capital of the [[Baohua]] nation. 
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+Khiton is surrounded and built into an extensive group of mesas that protrude from [[Hungry Expanse]]. 
 
 ## Commerce
 - metals from [[Pyretide Islands]]
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 

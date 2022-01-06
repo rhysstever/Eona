@@ -1,16 +1,13 @@
 # Wayward Coast
-The Wayward (WAI-WAR-D) Coast is a small nation on the south western tip of [[Ezavriel]]. 
+The Wayward (WAI-WAR-D) Coast is a small nation on the south western tip of [[Ezavriel]]. The nation controls many small islands throughout the ocean, including Wayward Isles. 
 
 ## Goals
-Goals
+> TODO: Goals
 
 ## Relationships
-Relationships
-
-## Ranks
-Ranks
+> TODO: Relationships
 
 ## Key Figures
-People
+> TODO: People
 
 #Organization

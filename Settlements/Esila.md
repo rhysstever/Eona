@@ -1,5 +1,5 @@
-# Port Qane
-Southeast of [[Opira]], Port Qane sits on the western coast of East [[Ezavriel]]. 
+# Esila
+Esila is a coastal city and the capital of [[Wayward Coast]]. 
 
 ## Population
 > TODO: Description
@@ -11,8 +11,7 @@ Southeast of [[Opira]], Port Qane sits on the western coast of East [[Ezavriel]]
 > TODO: Description
 
 ## Commerce
-- some imports from [[Khiton]]
-- trades to [[Opira]]
+- fish from the Wayward Isles
 
 ## Organizations
 > TODO: Description

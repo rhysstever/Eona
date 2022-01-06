@@ -2,18 +2,18 @@
 Adaham is a large town, east of [[Yhora]]. It is the gateway into the [[Yhorian Empire]] from the northeast of the continent. It sits in between the Sea of Yhor and the cluster of mountains that [[Zanapool]] is built into. 
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
-Description
+> TODO: Description
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 

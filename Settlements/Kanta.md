@@ -2,18 +2,18 @@
 Kanta is a large town within [[Yhorian Empire]]. It is on the southeast coast of [[Yhora]].
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
-Description
+> TODO: Description
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 

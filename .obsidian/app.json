@@ -2,7 +2,8 @@
   "promptDelete": false,
   "spellcheck": true,
   "spellcheckDictionary": [
-    "Ezavriel"
+    "Ezavriel",
+    "undead"
   ],
   "alwaysUpdateLinks": true
 }

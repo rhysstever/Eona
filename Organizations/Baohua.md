@@ -1,16 +1,13 @@
 # Baohua
-Baohua (B-OW-WHO-A) is a nation in the south eastern desert of [[Ezavriel]]. 
+Baohua (B-OW-WHO-A) is a nation in the south eastern desert of [[Ezavriel]]. Its capital is the mesa city [[Khiton]]. 
 
 ## Goals
-Goals
+> TODO: Goals
 
 ## Relationships
-Relationships
-
-## Ranks
-Ranks
+> TODO: Relationships
 
 ## Key Figures
-People
+> TODO: People
 
 #Organization

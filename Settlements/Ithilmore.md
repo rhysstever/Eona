@@ -2,13 +2,13 @@
 Ithilmore is the capital of [[Kandallo]].
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
 - rarely trades with nations
@@ -16,6 +16,6 @@ Description
 - uses main river to bring goods into or out of the city
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement

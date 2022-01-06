@@ -2,15 +2,12 @@
 The Yhorian (Y-OR-EE-AN) Empire is the largest nation in [[Ezavriel]]. 
 
 ## Goals
-Goals
+> TODO: Goals
 
 ## Relationships
-Relationships
-
-## Ranks
-Ranks
+> TODO: Relationships
 
 ## Key Figures
-People
+> TODO: People
 
 #Organization

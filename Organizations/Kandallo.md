@@ -2,15 +2,12 @@
 Kandallo (KAHN-DOL-O) is the northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]]. 
 
 ## Goals
-Goals
+> TODO: Goals
 
 ## Relationships
-Relationships
-
-## Ranks
-Ranks
+> TODO: Relationships
 
 ## Key Figures
-People
+> TODO: People
 
 #Organization

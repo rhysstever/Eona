@@ -7,8 +7,11 @@
         "id": "803fe75b5a3de7ee",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "POIs/Pyretide Islands.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "POIs/Pyretide Islands.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "POIs/Pyretide Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "POIs/Pyretide Islands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "POIs/Pyretide Islands.md"
+              }
             }
           }
         ],
@@ -193,19 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483
+    "width": 364
   },
   "active": "803fe75b5a3de7ee",
   "lastOpenFiles": [
-    "Organizations/Opirian Alliance.md",
-    "Organizations/Kandallo.md",
-    "Organizations/Baohua.md",
-    "Organizations/Wayward Coast.md",
-    "Organizations/Yhorian Empire.md",
-    "Settlements/Opira.md",
-    "Settlements/Adaham.md",
-    "Settlements/Kanta.md",
-    "Settlements/Eighwood.md",
-    "Continents/Ezavriel.md"
+    "POIs/Pyretide Islands.md",
+    "POIs/Mirthvale Swamp.md",
+    "POIs/Hungry Expanse.md",
+    "POIs/Faroot Island.md",
+    "POIs/Empty Valley.md",
+    "Eona.md",
+    "Continents/Ezavriel.md",
+    "Settlements/Esila.md",
+    "Templates/Settlement_Template.md",
+    "Organizations/Baohua.md"
   ]
 }

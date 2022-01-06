@@ -2,18 +2,18 @@
 Yalos is a large port town within the [[Opirian Alliance]]. 
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
 - mainly exports to [[Opira]] via ship
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 

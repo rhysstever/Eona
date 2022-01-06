@@ -2,13 +2,13 @@
 Yhora is a large city that is the capital of the [[Yhorian Empire]]. 
 
 ## Population
-Description
+> TODO: Description
 
 ## Government
-Description
+> TODO: Description
 
 ## Defense
-Description
+> TODO: Description
 
 ## Commerce
 - center of trade of the [[Yhorian Empire]]
@@ -16,6 +16,6 @@ Description
 - exports: crafted weapons, furniture, trained soldiers
 
 ## Organizations
-Description
+> TODO: Description
 
 #Settlement 
