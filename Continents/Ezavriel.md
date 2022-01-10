@@ -1,7 +1,7 @@
 ![[Ezavriel_Labeled.jpg]]
 
 # Ezavriel
-Ezavriel is a large, warm-climate continent, located in the northern hemisphere of [[Eona]]. It has two major two halves, connected by a single, central isthmus. 
+Ezavriel is a large, warm-climate continent, located in the northern hemisphere of [[Eona (World) | Eona]]. It has two major two halves, connected by a single, central isthmus. 
 
 ## History
 > TODO: History
@@ -51,4 +51,4 @@ The Willowdust Woods is a large forest in north western Ezavriel. It is known to
 ### Sea of Yhor
 The Sea of Yhor is the largest body of water in Ezavriel. The [[Yhorian Empire]] surrounds the sea. 
 
-#Continent
+#World

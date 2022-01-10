@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pantheon of Eona.md",
-            "mode": "source"
+            "file": "Prime Divines.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pantheon of Eona.md",
+                "file": "Prime Divines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pantheon of Eona.md",
+                "file": "Prime Divines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pantheon of Eona.md",
+                "file": "Prime Divines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pantheon of Eona.md"
+                "file": "Prime Divines.md"
               }
             }
           }
@@ -201,19 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364
+    "width": 302
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
-    "Pantheon of Eona.md",
+    "Prime Divines.md",
     "Continents/Ezavriel.md",
-    "Eona.md",
+    "Eona (World).md",
+    "Templates/Continent_Template.md",
     "POIs/Pyretide Islands.md",
     "POIs/Mirthvale Swamp.md",
     "POIs/Hungry Expanse.md",
     "POIs/Faroot Island.md",
     "POIs/Empty Valley.md",
-    "Settlements/Esila.md",
-    "Templates/Settlement_Template.md"
+    "Settlements/Esila.md"
   ]
 }

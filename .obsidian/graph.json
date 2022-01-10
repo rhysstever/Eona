@@ -8,73 +8,59 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Continent",
+      "query": "tag:#World",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#POI",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#Event",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#Person",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#Organization",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#Settlement",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 16750080
+      }
+    },
+    {
+      "query": "tag:#POI",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#Organization",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#Event",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#Person",
+      "color": {
+        "a": 1,
+        "rgb": 255
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 7362560
+        "rgb": 8323327
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
       }
     }
   ],
@@ -88,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9854677486057178,
+  "scale": 0.985467748605718,
   "close": false
 }
