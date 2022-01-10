@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Prime Divines.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -134,7 +134,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6955257542209116,
+                  "scale": 0.6955257542209117,
                   "close": true
                 }
               }
@@ -201,13 +201,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 449
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
     "Prime Divines.md",
-    "Continents/Ezavriel.md",
     "Eona (World).md",
+    "Continents/Ezavriel.md",
     "Templates/Continent_Template.md",
     "POIs/Pyretide Islands.md",
     "POIs/Mirthvale Swamp.md",
