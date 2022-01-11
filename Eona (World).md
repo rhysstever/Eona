@@ -9,6 +9,6 @@ The world
 > TODO: Overview history of world
 
 ## Religion
-The Pantheon of Eona is mainly known as the [[Prime Divines]] and contains 17 deities. They range from greater to lesser deities.
+The pantheon worshiped within Eona is known as the [[Prime Divines]]. It contains 17 deities, each harboring power in their own, unique domain. 
 
 #World
