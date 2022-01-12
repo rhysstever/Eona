@@ -79,48 +79,69 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
-                      "query": "tag:#Continent",
+                      "query": "tag:#World",
                       "color": {
                         "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#Nation",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
+                        "rgb": 16711680
                       }
                     },
                     {
                       "query": "tag:#Settlement",
                       "color": {
                         "a": 1,
-                        "rgb": 11657298
+                        "rgb": 16750080
                       }
                     },
                     {
                       "query": "tag:#POI",
                       "color": {
                         "a": 1,
-                        "rgb": 5431378
+                        "rgb": 16776960
                       }
                     },
                     {
                       "query": "tag:#Organization",
                       "color": {
                         "a": 1,
-                        "rgb": 5431473
+                        "rgb": 65280
+                      }
+                    },
+                    {
+                      "query": "tag:#Event",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65535
                       }
                     },
                     {
                       "query": "tag:#Person",
                       "color": {
                         "a": 1,
-                        "rgb": 5419488
+                        "rgb": 255
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8323327
+                      }
+                    },
+                    {
+                      "query": "tag:#Session_Notes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711935
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6568960
                       }
                     }
                   ],
@@ -201,19 +222,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449
+    "width": 415
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
     "Prime Divines.md",
+    "Campaigns/Campaign Name/Campaign Ideas.md",
+    "Campaigns/Campaign Name/Session Notes/_Session_Note_Template.md",
+    "Continents/Ezavriel.md",
+    "Organizations/Kandallo.md",
+    "CampaignName/Session Notes/Test Session.md",
     "Eona (World).md",
     "Settlements/_Settlement_Template.md",
     "Continents/_Continent_Template.md",
-    "Settlements/Zanapool.md",
-    "Settlements/Yhora.md",
-    "Settlements/Yalos.md",
-    "Settlements/Port Qane.md",
-    "Settlements/Opira.md",
-    "Settlements/Khiton.md"
+    "Settlements/Zanapool.md"
   ]
 }

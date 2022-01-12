@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#Session_Notes",
       "color": {
         "a": 1,
         "rgb": 16711935
@@ -67,7 +67,7 @@
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 6700032
+        "rgb": 6568960
       }
     }
   ],
