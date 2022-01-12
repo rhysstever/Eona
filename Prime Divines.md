@@ -50,10 +50,10 @@ Unus, deity of knowledge | Zaas, deity of secrets
 
 ## Deities
 ### Atal, deity of the sun and light
-Pronunciation: (uh-tal)
-Alignment: NG
-Symbol: An eight-pointed sun
-Suggested Domains: Life, Light, Nature, Tempest, Trickery
+Pronunciation: (uh-tal)  
+Alignment: NG  
+Symbol: An eight-pointed sun  
+Suggested Domains: Life, Light, Nature, Tempest, Trickery  
 
 ### Dten, deity of death
 Pronunciation: (den)<br>Alignment: N<br>Symbol: A crooked scythe<br>Possible Domains: Death, Grave
