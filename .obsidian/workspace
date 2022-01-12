@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
+            "file": "Deities of Eona.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
+                "file": "Deities of Eona.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
+                "file": "Deities of Eona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
+                "file": "Deities of Eona.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,12 +213,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md"
+                "file": "Deities of Eona.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,13 +226,13 @@
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
+    "Deities of Eona.md",
+    "Eona (World).md",
     "Campaigns/Whispers In Opira/Campaign Ideas.md",
-    "Prime Divines.md",
     "Campaigns/Whispers In Opira/Session Notes/_Session_Note_Template.md",
     "Continents/Ezavriel.md",
     "Organizations/Kandallo.md",
     "CampaignName/Session Notes/Test Session.md",
-    "Eona (World).md",
     "Settlements/_Settlement_Template.md",
     "Continents/_Continent_Template.md",
     "Settlements/Zanapool.md"
