@@ -56,51 +56,99 @@ Symbol: An eight-pointed sun
 Suggested Domains: Life, Light, Nature, Tempest, Trickery  
 
 ### Dten, deity of death
-Pronunciation: (den)<br>Alignment: N<br>Symbol: A crooked scythe<br>Possible Domains: Death, Grave
+Pronunciation: (den)  
+Alignment: N  
+Symbol: A crooked scythe  
+Possible Domains: Death, Grave  
 
 ### Eona, deity of creation
-Pronunciation: (EYE-own-a)<br>Alignment: LG<br>Symbol: A crossed sickle and blacksmith hammer<br>Possible Domains: Forge, Life, Light
+Pronunciation: (EYE-own-a)  
+Alignment: LG  
+Symbol: A crossed sickle and blacksmith hammer  
+Possible Domains: Forge, Life, Light  
 
 ### Kremmel, deity of destruction
-Pronunciation: (kr-em-mel)<br>Alignment: NE<br>Symbol: A crumbling pillar<br>Possible Domains: Death, Tempest, War
+Pronunciation: (kr-em-mel)  
+Alignment: NE  
+Symbol: A crumbling pillar  
+Possible Domains: Death, Tempest, War  
 
 ### Kyen, deity of vengeance
-Pronunciation: (KEE-yen)<br>Alignment: CN<br>Symbol: A mask and dagger<br>Possible Domains: Death, Trickery, Twilight
+Pronunciation: (KEE-yen)  
+Alignment: CN  
+Symbol: A mask and dagger  
+Possible Domains: Death, Trickery, Twilight  
 
 ### Meralin, deity of magic
-Pronunciation: (mEEr-a-lin)<br>Alignment: N<br>Symbol: A circle of two four-pointed stars<br>Possible Domains: Arcana, Knowledge
+Pronunciation: (mEEr-a-lin)  
+Alignment: N  
+Symbol: A circle of two four-pointed stars  
+Possible Domains: Arcana, Knowledge  
 
 ### Nokzol, deity of tyranny
-Pronunciation: (nock-zul)<br>Alignment: LE<br>Symbol: Crossed chains<br>Possible Domains: Order, Trickery
+Pronunciation: (nock-zul)  
+Alignment: LE  
+Symbol: Crossed chains  
+Possible Domains: Order, Trickery  
 
 ### Oros, deity of the undead and decay
-Pronunciation: (or-us)<br>Alignment: NE<br>Symbol: A partially corroded skull<br>Possible Domains: Death, Grave, Trickery
+Pronunciation: (or-us)  
+Alignment: NE  
+Symbol: A partially corroded skull  
+Possible Domains: Death, Grave, Trickery  
 
 ### Ovia, deity of life and growth
-Pronunciation: (oh-VEE-a)<br>Alignment: CG<br>Symbol: A tree with a thick canopy<br>Possible Domains: Life, Light, Nature, Tempest 
+Pronunciation: (oh-VEE-a)  
+Alignment: CG  
+Symbol: A tree with a thick canopy  
+Possible Domains: Life, Light, Nature, Tempest  
 
 ### Phyneara, deity of peace and love
-Pronunciation: (ph-in-EE-ra)<br>Alignment: NG<br>Symbol: A heart held between two hands<br>Possible Domains: Life, Peace
+Pronunciation: (ph-in-EE-ra)  
+Alignment: NG  
+Symbol: A heart held between two hands  
+Possible Domains: Life, Peace  
 
 ### Talo, deity of civilization
-Pronunciation: (tal-OH)<br>Alignment: LN<br>Symbol: Four hands holding wrists<br>Possible Domains: Forge, Order
+Pronunciation: (tal-OH)  
+Alignment: LN  
+Symbol: Four hands holding wrists  
+Possible Domains: Forge, Order  
 
 ### Thoros, deity of justice
-Pronunciation: (thor-ohs)<br>Alignment: LN<br>Symbol: A balanced scale<br>Possible Domains: Order
+Pronunciation: (thor-ohs)  
+Alignment: LN  
+Symbol: A balanced scale  
+Possible Domains: Order  
 
 ### Unus, deity of knowledge
-Pronunciation: (y-ew-nus)<br>Alignment: LN<br>Symbol: An open tome<br>Possible Domains: Arcana, Knowledge
+Pronunciation: (y-ew-nus)  
+Alignment: LN  
+Symbol: An open tome  
+Possible Domains: Arcana, Knowledge  
 
 ### Vhord, deity of war
-Pronunciation: (v-ord)<br>Alignment: N<br>Symbol: Two crossed swords<br>Possible Domains: Forge, War
+Pronunciation: (v-ord)  
+Alignment: N  
+Symbol: Two crossed swords  
+Possible Domains: Forge, War  
 
 ### Xitrix, deity of anarchy
-Pronunciation: (zit-tr-ix)<br>Alignment: CN<br>Symbol: Eight arrows pointing away from the center<br>Possible Domains: Trickery, War
+Pronunciation: (zit-tr-ix)  
+Alignment: CN  
+Symbol: Eight arrows pointing away from the center  
+Possible Domains: Trickery, War  
 
 ### Yher, deity of the moon and darkness
-Pronunciation: (yer)<br>Alignment: NE<br>Symbol: A crescent moon<br>Possible Domains: Nature, Tempest, Trickery, Twilight
+Pronunciation: (yer)  
+Alignment: NE  
+Symbol: A crescent moon  
+Possible Domains: Nature, Tempest, Trickery, Twilight  
 
 ### Zaas, deity of secrets
-Pronunciation: (z-as)<br>Alignment: CE<br>Symbol: A blood-splattered envelope<br>Possible Domains: Knowledge, Trickery, Twilight
+Pronunciation: (z-as)  
+Alignment: CE  
+Symbol: A blood-splattered envelope  
+Possible Domains: Knowledge, Trickery, Twilight  
 
 #World
