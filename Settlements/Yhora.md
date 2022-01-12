@@ -5,7 +5,9 @@ Yhora is a large city that is the capital of the [[Yhorian Empire]].
 > TODO: Description
 
 ## Government
-> TODO: Description
+- Monarchy: the Yhora family
+
+> TODO: More in depth
 
 ## Defense
 > TODO: Description

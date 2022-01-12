@@ -207,13 +207,13 @@
   "lastOpenFiles": [
     "Prime Divines.md",
     "Eona (World).md",
-    "Continents/Ezavriel.md",
-    "Templates/Continent_Template.md",
-    "POIs/Pyretide Islands.md",
-    "POIs/Mirthvale Swamp.md",
-    "POIs/Hungry Expanse.md",
-    "POIs/Faroot Island.md",
-    "POIs/Empty Valley.md",
-    "Settlements/Esila.md"
+    "Settlements/_Settlement_Template.md",
+    "Continents/_Continent_Template.md",
+    "Settlements/Zanapool.md",
+    "Settlements/Yhora.md",
+    "Settlements/Yalos.md",
+    "Settlements/Port Qane.md",
+    "Settlements/Opira.md",
+    "Settlements/Khiton.md"
   ]
 }

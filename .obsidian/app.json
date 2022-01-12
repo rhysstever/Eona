@@ -6,5 +6,8 @@
     "undead",
     "br"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "strictLineBreaks": true
 }
