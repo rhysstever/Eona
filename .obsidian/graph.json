@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#Campaign",
       "color": {
         "a": 1,
         "rgb": 8323327

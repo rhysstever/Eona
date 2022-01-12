@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prime Divines.md",
+            "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prime Divines.md",
+                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prime Divines.md",
+                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prime Divines.md",
+                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prime Divines.md"
+                "file": "Campaigns/Whispers In Opira/Campaign Ideas.md"
               }
             }
           }
@@ -226,9 +226,9 @@
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
+    "Campaigns/Whispers In Opira/Campaign Ideas.md",
     "Prime Divines.md",
-    "Campaigns/Campaign Name/Campaign Ideas.md",
-    "Campaigns/Campaign Name/Session Notes/_Session_Note_Template.md",
+    "Campaigns/Whispers In Opira/Session Notes/_Session_Note_Template.md",
     "Continents/Ezavriel.md",
     "Organizations/Kandallo.md",
     "CampaignName/Session Notes/Test Session.md",

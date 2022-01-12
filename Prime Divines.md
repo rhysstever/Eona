@@ -8,7 +8,7 @@ Deity | Alignment | Symbol
 Atal, deity of the sun and light | NG | An eight-pointed sun
 Eona, deity of creation | LG | A crossed sickle and blacksmith hammer
 Kremmel, deity of destruction | NE | A crumbling pillar
-Kyen, deity of vengence | CN | A mask and dagger
+Kyen, deity of vengeance | CN | A mask and dagger
 Meralin, deity of magic | N | A circle of two four-pointed stars
 Nokzol, deity of tyranny | LE | Crossed chains
 Oros, deity of the undead and decay | NE | A partially corroded skull 
@@ -23,7 +23,7 @@ Zaas, deity of secrets | CE | A blood-splattered envelope
 --- | Lawful | Neutral | Chaotic
 --- | ------ | ------- | -------
 **Good** | Eona, deity of creation | Atal, deity of sun and light <br><br> Unus, deity of knowledge | Ovaira, deity of life and growth
-**Neutral** | Thoros, deity of justice | Meralin, deity of magic <br><br> Vhord, deity of war <br><br> Yher, deity of death and darkness | Kyen, deity of vengence
+**Neutral** | Thoros, deity of justice | Meralin, deity of magic <br><br> Vhord, deity of war <br><br> Yher, deity of death and darkness | Kyen, deity of vengeance
 **Evil** | Nokzol, deity of tyranny | Kremmel, deity of destruction <br><br> Oros, deity of the undead and decay | Zaas, deity of secrets
 
 ## Deities List
@@ -51,7 +51,7 @@ Symbol: A crumbling pillar
 Possible Domains: Death, Tempest, War  
 Titles: the Relentless Slayer  
 
-### Kyen, deity of vengence
+### Kyen, deity of vengeance
 #### About
 Pronunciation: (KEE-yen)  
 Alignment: CN  
