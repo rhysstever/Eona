@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deities of Eona.md",
+            "file": "Campaigns/Whispers In Opira/Session 0.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "Campaigns/Whispers In Opira/Session 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "Campaigns/Whispers In Opira/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "Campaigns/Whispers In Opira/Session 0.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities of Eona.md"
+                "file": "Campaigns/Whispers In Opira/Session 0.md"
               }
             }
           }
@@ -226,15 +226,15 @@
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
+    "Campaigns/Whispers In Opira/Session 0.md",
+    "Campaigns/Whispers In Opira/Campaign Ideas.md",
+    "Town Crier Announcements.md",
+    "Images/Ezavriel Maps/Ezavriel_Labeled.jpg",
+    "Images/Ezavriel Maps/Ezavriel_Structures.jpg",
     "Deities of Eona.md",
     "Eona (World).md",
-    "Campaigns/Whispers In Opira/Campaign Ideas.md",
     "Campaigns/Whispers In Opira/Session Notes/_Session_Note_Template.md",
     "Continents/Ezavriel.md",
-    "Organizations/Kandallo.md",
-    "CampaignName/Session Notes/Test Session.md",
-    "Settlements/_Settlement_Template.md",
-    "Continents/_Continent_Template.md",
-    "Settlements/Zanapool.md"
+    "Organizations/Kandallo.md"
   ]
 }

@@ -2,15 +2,23 @@
 This is a page for me to jot possible ideas I have to use for this campaign
 
 ---
-# DO NOT READ THIS IF YOU ARE A PLAYER
+# DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS IF YOU ARE A PLAYER
+# DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS IF YOU ARE A PLAYER
+# DO NOT READ THIS
+---
+
+---
+# DO NOT READ THIS
+---
+
+---
+# DO NOT READ THIS
 ---
 
 ## The Meeting of the Five Nations
