@@ -7,7 +7,7 @@ All points and topics I want to cover in the initial
 - First session when? (how much time to create character)
 - Session length: ~3 hours
 - In-person, will cancel if someone cant make the session
-
+ 
 ## Table Expectations 
 - Semi-serious (mainly for time), no session can be "wasted"
 - No meta-gaming
@@ -20,14 +20,17 @@ All points and topics I want to cover in the initial
 	- Ask players
 		- ???
 - No discrimination world based on race, gender, sexual orientation
-	- Only discrimination will be based on class and religion (less)  
+	- Only discrimination will be based on social class and religion (less)  
 
 ## Campaign Framework
-- Setting: Eona > Ezavriel > Opira
-- City-based/Urban setting
+- Setting
+	- Medium fantasy, very little tech
+	- Eona > Ezavriel > Opira
+	- City-based/Urban setting
 - More rp and social interaction, less combat
 - Mystery genre
 - Starting level, perceived ending level: 5 --> ~8
+- Short campaign = less character development :(
 
 ## House Rules
 - Rolls only count if they are on the table
