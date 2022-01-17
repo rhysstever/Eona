@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Campaigns/Whispers In Opira/Session 0.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -219,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,8 +227,8 @@
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
     "Campaigns/Whispers In Opira/Session 0.md",
-    "Campaigns/Whispers In Opira/Campaign Ideas.md",
     "Deities of Eona.md",
+    "Campaigns/Whispers In Opira/Campaign Ideas.md",
     "Town Crier Announcements.md",
     "Images/Ezavriel Maps/Ezavriel_Labeled.jpg",
     "Images/Ezavriel Maps/Ezavriel_Structures.jpg",

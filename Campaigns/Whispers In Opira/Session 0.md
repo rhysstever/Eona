@@ -1,5 +1,5 @@
 # Session 0
-All points and topics I want to cover in the initial 
+All points and topics I want to cover in the initial session
 
 ## Scheduling
 - Length: spring semester, ideally 6-8 sessions --> faster-paced
@@ -7,23 +7,23 @@ All points and topics I want to cover in the initial
 - First session when? (how much time to create character)
 - Session length: ~3 hours
 - In-person, will cancel if someone cant make the session
- 
+
 ## Table Expectations 
-- Tone: Semi-serious (mainly for time), no session can be "wasted"
-- Ettiquette
+- Tone
+	- Semi-serious (mainly for time), no session can be "wasted"
+- Etiquette
 	- No meta-gaming
 	- Respect everyone's characters
 	- Respect me: the time I've put into this story, world, etc
 	- Boundaries
 		- Respect 
 		- No discrimination world based on race, gender, sexual orientation
-			- Only discrimination will be based on social class and religion (less)
-		- Players'
+			- Only discrimination will be based on social class and religion (less) 
+		- Players' 
 			- ???
 	- Pet peeves
-		- Mine
-			- Asking for a specific check "Can do a nature check?"; exception being insight
-			- Unprompted rolls for a check you decided you should make ""
+		- Asking for a specific check "Can do a nature check?"; exception being insight
+		- Unprompted rolls for a check you decided you should make ""
 		- Players'
 			- ???
 
@@ -43,9 +43,9 @@ All points and topics I want to cover in the initial
 ## House Rules
 - Rolls only count if they are on the table
 - Leveling: milestone
-- Encumbrance
+- Variant encumbrance
 - Ammunition
-- Crits: Normal dmg + max amount of each die
+- Critical hits: Normal dmg + max amount of each die
 - Advantage: flanking (on hexes)
 
 #Campaign 
