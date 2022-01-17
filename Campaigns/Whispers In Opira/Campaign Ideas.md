@@ -29,6 +29,7 @@ This is a page for me to jot possible ideas I have to use for this campaign
 	- Casts a delayed fireball using subtle spell
 		- Can been seen with bat excrement and sulfur on their hands 
 	- Blows up the entire room, killing many, maiming the few rest
+- PCs are in the room --> become suspects and must clear their name
 
 
 #Campaign

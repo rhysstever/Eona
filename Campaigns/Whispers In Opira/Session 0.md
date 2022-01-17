@@ -9,18 +9,23 @@ All points and topics I want to cover in the initial
 - In-person, will cancel if someone cant make the session
  
 ## Table Expectations 
-- Semi-serious (mainly for time), no session can be "wasted"
-- No meta-gaming
-- Respect everyone's characters
-- Respect the time I've put into this story, world, etc
-- Respect everyone's boundaries
-- Pet peeves
-	- Mine
-		- Asking for a specific check "Can do a nature check"; exception being insight
-	- Ask players
-		- ???
-- No discrimination world based on race, gender, sexual orientation
-	- Only discrimination will be based on social class and religion (less)  
+- Tone: Semi-serious (mainly for time), no session can be "wasted"
+- Ettiquette
+	- No meta-gaming
+	- Respect everyone's characters
+	- Respect me: the time I've put into this story, world, etc
+	- Boundaries
+		- Respect 
+		- No discrimination world based on race, gender, sexual orientation
+			- Only discrimination will be based on social class and religion (less)
+		- Players'
+			- ???
+	- Pet peeves
+		- Mine
+			- Asking for a specific check "Can do a nature check?"; exception being insight
+			- Unprompted rolls for a check you decided you should make ""
+		- Players'
+			- ???
 
 ## Campaign Framework
 - Setting
@@ -28,8 +33,11 @@ All points and topics I want to cover in the initial
 	- Eona > Ezavriel > Opira
 	- City-based/Urban setting
 - More rp and social interaction, less combat
+	- Rules will be a little different, esp with social interaction
 - Mystery genre
-- Starting level, perceived ending level: 5 --> ~8
+- Character Creation
+	- Starting level, perceived ending level: 5 --> ~8
+	- Stats are rolled: 4d6, removing the lowest 
 - Short campaign = less character development :(
 
 ## House Rules

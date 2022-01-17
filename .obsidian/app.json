@@ -9,5 +9,7 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "showLineNumber": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
