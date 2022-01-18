@@ -9,6 +9,6 @@ The world
 > TODO: Overview history of world
 
 ## Religion
-The pantheon worshiped within Eona is known as the [[Deities of Eona]]. It contains 17 deities, each harboring power in their own, unique domain. 
+The [[Deities of Eona]] is the pantheon worshipped within the world. It contains 17 deities, each harboring power in their own, unique domain. 
 
 #World

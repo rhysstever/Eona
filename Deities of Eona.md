@@ -3,133 +3,147 @@
 There are 13 greater deities within the pantheon. They have either been "born" into the role or spent centuries rising from a lesser one. No mortal has ever and will never met a greater deity. Any interactions with a greater deity come in the form of signs and visions. 
 
 Because no one has ever met a greater deity, no one knows what they look like. Artists will always depict them faceless, usually covered up by something. For example, Atal, deity of the sun and light is commonly shown with the sun as their head. Furthermore, each greater deity is considered non-binary and, thus, is inaccurate to be called a god or goddess. 
+
 ### List
-Deity | Alignment | Symbol
------ | --------- | ------
-Atal, deity of the sun and light | NG | An eight-pointed sun
-Eona, deity of creation | LG | A crossed sickle and blacksmith hammer
-Kremmel, deity of destruction | NE | A crumbling pillar
-Kyen, deity of vengeance and anarchy | CN | A mask and dagger
-Meralin, deity of magic | N | A circle of two four-pointed stars
-Nokzol, deity of tyranny | LE | Crossed chains
-Oros, deity of the undead and decay | NE | A partially corroded skull 
-Ovaira, deity of life and growth | CG | A tree with a thick canopy
-Thoros, deity of justice | LN | A balanced scale
-Unus, deity of knowledge | NG | An open tome
-Vhord, deity of war | N | Two crossed swords over a shield
-Yher, deity of death and darkness | N | The moon and scythe
-Zaas, deity of secrets | CE | A blood-splattered envelope
+Deity | Representation | Alignment | Symbol
+----- | -------------- | --------- | ------
+Atal the All-Bright | the sun and light | NG | An eight-pointed sun
+Eona the Creator | the world and creation | LG | A crossed sickle and blacksmith hammer
+Kremmel the City Slayer | destruction | NE | A crumbling pillar
+Kyen the Blood-driven | vengeance and anarchy | CN | A mask and dagger
+Meralin the Wild Mage | magic | N | A circle of two four-pointed stars
+Nokzol the Oppressor | tyranny | LE | Crossed chains
+Oros the Undying Deity | the undead and decay | NE | A partially corroded skull 
+Ovaira the Lifebringer | life and growth | CG | A tree with a thick canopy
+Thoros the Ultimate Judge | justice | LN | A balanced scale
+Unus the All-Knowing | knowledge | NG | An open tome
+Vhord the Warrior | war | N | Two crossed swords over a shield
+Yher the Dark One | death and darkness | N | The moon and scythe
+Zaas the Whispered One | secrets | CE | A blood-splattered envelope
 
 ### Alignment
 --- | Lawful | Neutral | Chaotic
 --- | ------ | ------- | -------
-**Good** | Eona, deity of creation | Atal, deity of sun and light <br><br> Unus, deity of knowledge | Ovaira, deity of life and growth
-**Neutral** | Thoros, deity of justice | Meralin, deity of magic <br><br> Vhord, deity of war <br><br> Yher, deity of death and darkness | Kyen, deity of vengeance and anarchy
-**Evil** | Nokzol, deity of tyranny | Kremmel, deity of destruction <br><br> Oros, deity of the undead and decay | Zaas, deity of secrets
+**Good** | Eona the Creator | Atal the All-Bright <br><br> Unus the All-Knowing | Ovaira the Lifebringer
+**Neutral** | Thoros the Ultimate Judge | Meralin the Wild Mage <br><br> Vhord the Warrior <br><br> Yher the Dark One | Kyen the Blood-driven
+**Evil** | Nokzol the Opressor | Kremmel the City Slayer <br><br> Oros the Undying One | Zaas the Whispered Ones
 
 ## Deities List
-### Atal, greater deity of the sun and light
-#### About
-Pronunciation: (uh-tal)  
-Alignment: NG  
-Symbol: An eight-pointed sun  
-Suggested Domains: Life, Light, Nature, Tempest, Trickery  
-Titles: the Shining One, the All-Bright  
+### Atal the All-Bright
+**Pronunciation:** (uh-tal)  
+**Alignment:** NG  
+**Symbol:** An eight-pointed sun  
+**Suggested Domains:** Life, Light, Nature, Tempest, Trickery  
+**Other Titles:**  
 
-### Eona, greater deity of creation
-#### About
-Pronunciation: (EYE-own-a)  
-Alignment: LG  
-Symbol: A crossed sickle and blacksmith hammer  
-Possible Domains: Forge, Life, Light  
-Titles: the World Builder, the First  
+Atal is a greater deity of the sun and light. 
 
-### Kremmel, greater deity of destruction
-#### About
-Pronunciation: (kr-em-mel)  
-Alignment: NE  
-Symbol: A crumbling pillar  
-Possible Domains: Death, Tempest, War  
-Titles: the Relentless Slayer  
+### Eona the Creator
+**Pronunciation:** (EYE-own-a)  
+**Alignment:** LG  
+**Symbol:** A crossed sickle and blacksmith hammer  
+**Possible Domains:** Forge, Life, Light  
+**Other Titles:** the First  
 
-### Kyen, greater deity of vengeance and anarchy
-#### About
-Pronunciation: (KEE-yen)  
-Alignment: CN  
-Symbol: A mask and dagger  
-Possible Domains: Death, Trickery, Twilight  
-Titles: the Blood-driven, the Selfish  
+Eona is a greater deity of the world and creation. 
 
-### Meralin, greater deity of magic
-#### About
-Pronunciation: (mEEr-a-lin)  
-Alignment: N  
-Symbol: A circle of two four-pointed stars  
-Possible Domains: Arcana, Knowledge  
-Titles: the Wild Sorcerer  
+### Kremmel the City Slayer
+**Pronunciation:** (kr-em-mel)  
+**Alignment:** NE  
+**Symbol:** A crumbling pillar  
+**Possible Domains:** Death, Tempest, War  
+**Other Titles:** the Leveler  
 
-### Nokzol, greater deity of tyranny
-#### About
-Pronunciation: (nock-zul)  
-Alignment: LE  
-Symbol: Crossed chains  
-Possible Domains: Order, Trickery  
-Titles: the Oppressor, the Undoubted One  
+Kremmel is a greater deity of destruction.
 
-### Oros, greater deity of the undead and decay
-#### About
-Pronunciation: (or-us)  
-Alignment: NE  
-Symbol: A partially corroded skull  
-Possible Domains: Death, Grave, Trickery  
-Titles: the Undying Deity   
+### Kyen the Blood-driven
+**Pronunciation:** (KEE-yen)  
+**Alignment:** CN  
+**Symbol:** A mask and dagger  
+**Possible Domains:** Death, Trickery, Twilight  
+**Other Titles:** the Selfish  
 
-### Ovaira, greater deity of life and growth
-#### About
-Pronunciation: (oh-v-AIR-a)  
-Alignment: CG  
-Symbol: A tree with a thick canopy  
-Possible Domains: Life, Light, Nature, Tempest  
-Titles: the Lifebringer  
+Kyen is a greater deity of vengeance and anarchy.
 
-### Thoros, greater deity of justice
-#### About
-Pronunciation: (thor-ohs)  
-Alignment: LN  
-Symbol: A balanced scale  
-Possible Domains: Order  
-Titles: the Noble, the Ultimate Judge  
+### Meralin the Wild Mage
+**Pronunciation:** (mEEr-a-lin)  
+**Alignment:** N  
+**Symbol:** A circle of two four-pointed stars  
+**Possible Domains:** Arcana, Knowledge  
+**Other Titles:**    
 
-### Unus, greater deity of knowledge
-#### About
-Pronunciation: (y-ew-nus)  
-Alignment: NG  
-Symbol: An open tome  
-Possible Domains: Arcana, Knowledge  
-Titles: the All-Knowing  
+Meralin is a greater deity of magic. 
 
-### Vhord, greater deity of war
-#### About
-Pronunciation: (v-ord)  
-Alignment: N  
-Symbol: Two crossed swords  
-Possible Domains: Forge, War  
-Titles: the Warrior, the Master Smith  
+### Nokzol the Oppressor
+**Pronunciation:** (nock-zul)  
+**Alignment:** LE  
+**Symbol:** Crossed chains  
+**Possible Domains:** Order, Trickery  
+**Other Titles:** the Undoubted One  
 
-### Yher, greater deity of death and darkness
-#### About
-Pronunciation: (yer)  
-Alignment: N  
-Symbol: A crescent moon  
-Possible Domains: Death, Nature, Tempest, Twilight  
-Titles: the Dark One, the Final Visitor  
+Nokzol is a greater deity of tyranny. 
 
-### Zaas, greater deity of secrets
-#### About
-Pronunciation: (z-as)  
-Alignment: CE  
-Symbol: A blood-splattered envelope  
-Possible Domains: Knowledge, Trickery, Twilight  
-Titles: the Whispered One, the Snake  
+### Oros the Undying Deity
+**Pronunciation:** (or-us)  
+**Alignment:** NE  
+**Symbol:** A partially corroded skull  
+**Possible Domains:** Death, Grave, Trickery  
+**Other Titles:** the Undying Deity   
+
+Oros is a greater deity of the undead and decay. 
+
+### Ovaira the Lifebringer
+**Pronunciation:** (oh-v-AIR-a)  
+**Alignment:** CG  
+**Symbol:** A tree with a thick canopy  
+**Possible Domains:** Life, Light, Nature, Tempest  
+**Other Titles:** the Lifebringer  
+
+Ovaira is a greater deity of life and growth. 
+
+### Thoros the Ultimate Judge
+**Pronunciation:** (thor-ohs)  
+**Alignment:** LN  
+**Symbol:** A balanced scale  
+**Possible Domains:** Order  
+**Other Titles:** the Noble  
+
+Thoros is a greater deity of justice. 
+
+### Unus the All-Knowing
+**Pronunciation:** (y-ew-nus)  
+**Alignment:** NG  
+**Symbol:** An open tome  
+**Possible Domains:** Arcana, Knowledge  
+**Other Titles:**   
+
+Unus is a greater deity of knowledge. 
+
+### Vhord the Warrior
+**Pronunciation:** (v-ord)  
+**Alignment:** N  
+**Symbol:** Two crossed swords  
+**Possible Domains:** Forge, War  
+**Other Titles:** the Master Smith  
+
+Vhord is a greater deity of war. 
+
+### Yher the Dark One
+**Pronunciation:** (yer)  
+**Alignment:** N  
+**Symbol:** A crescent moon  
+**Possible Domains:** Death, Nature, Tempest, Twilight  
+**Other Titles:** the Final Visitor  
+
+Yher is a greater deity of death and darkness. 
+
+### Zaas the Whispered One
+**Pronunciation:** (z-as)  
+**Alignment:** CE  
+**Symbol:** A blood-splattered envelope  
+**Possible Domains:** Knowledge, Trickery, Twilight  
+**Other Titles:** 
+
+Zaas is a greater deity of secrets. 
 
 #World
