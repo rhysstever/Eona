@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deities of Eona.md",
-            "mode": "preview",
+            "file": "People/Sontar Raloran.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "People/Sontar Raloran.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "People/Sontar Raloran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities of Eona.md",
+                "file": "People/Sontar Raloran.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities of Eona.md"
+                "file": "People/Sontar Raloran.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
+    "People/Sontar Raloran.md",
+    "People/Lionel Goldentail.md",
+    "People/Jason Stonewall.md",
+    "People/_Person_Template.md",
     "Deities of Eona.md",
+    "Campaigns/Whispers In Opira/Session 0.md",
     "Organizations/Opirian Alliance.md",
     "Organizations/Yhorian Empire.md",
     "Organizations/Kandallo.md",
-    "Organizations/Baohua.md",
-    "Organizations/Black Rose.md",
-    "Organizations/_Organization_Template.md",
-    "Organizations/Wayward Coast.md",
-    "POIs/Empty Valley.md",
-    "POIs/_POI_Template.md"
+    "Organizations/Baohua.md"
   ]
 }
