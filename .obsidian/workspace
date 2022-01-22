@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Myrdin Craynore.md",
+            "file": "Organizations/Yhorian Empire.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Myrdin Craynore.md",
+                "file": "Organizations/Yhorian Empire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Myrdin Craynore.md",
+                "file": "Organizations/Yhorian Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Myrdin Craynore.md",
+                "file": "Organizations/Yhorian Empire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Myrdin Craynore.md"
+                "file": "Organizations/Yhorian Empire.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "86ef3e496581c3f2",
   "lastOpenFiles": [
-    "People/Myrdin Craynore.md",
-    "People/Lionel Goldentail.md",
-    "People/Sontar Raloran.md",
-    "People/Jason Stonewall.md",
-    "Campaigns/Whispers In Opira/Session 0.md",
-    "People/_Person_Template.md",
-    "Deities of Eona.md",
-    "Organizations/Opirian Alliance.md",
     "Organizations/Yhorian Empire.md",
-    "Organizations/Kandallo.md"
+    "Organizations/Opirian Alliance.md",
+    "Organizations/Wayward Coast.md",
+    "People/Jason Stonewall.md",
+    "People/Lionel Goldentail.md",
+    "People/Myrdin Craynore.md",
+    "People/Sontar Raloran.md",
+    "Organizations/Kandallo.md",
+    "Organizations/Black Rose.md",
+    "Organizations/Baohua.md"
   ]
 }

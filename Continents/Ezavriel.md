@@ -22,7 +22,7 @@ The [[Opirian Alliance]] lays in the center of Ezavriel. The alliance is an agre
 Considered the smallest nation, the [[Wayward Coast]] sits to the southwest of Ezavriel. The nation controls the Wayward Isles, a spatter of small islands off the western coast of Ezavriel, including the seas around them. It's capital and largest port is [[Esila]], located at the base on the peninsula that pokes out of the southwestern tip of Ezavriel. 
 
 ### Yhorian Empire
-The [[Yhorian Empire]] is the most predominate nation of Ezavriel. It takes up the upper half of eastern Ezavriel. The empire regulates all trade throughout the territory, ensuring any business ultimately benefits the capital, [[Yhora]].
+The [[Yhorian Empire]] is the most predominate nation of Ezavriel. It takes up the upper half of eastern Ezavriel. The empire regulates all trade throughout the territory, ensuring any business ultimately benefits the capital, [[Yhora (City)]].
 
 ## Points of Interest
 There are many key locations throughout the continent. Whether they are well-known historical sites or large geographical locations, any notable ones are detailed below. 

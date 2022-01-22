@@ -12,7 +12,7 @@ Zanapool is a large town in the [[Yhorian Empire]].
 
 ## Commerce
 - exports mined metals and stone. Uses top of river to float things out of mountain into the sea, 
-- mostly to [[Yhora]]
+- mostly to [[Yhora (City)]]
 
 ## Organizations
 > TODO: Description
