@@ -4,7 +4,7 @@ The Opirian (OH-PEER-EE-AN) Alliance is a collection of ports in the center of [
 Within the Opirian Alliance, the approved deities include: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovaira the Lifebringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. 
 
 ## Goals
-> TODO: Goals
+- Financially strengthen each of the major port settlements
 
 ## Relationships
 > TODO: Relationships

@@ -1,21 +1,21 @@
 # Yhora
-Yhora is a large city that is the capital of the [[Yhorian Empire]]. 
+Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at the mount of [[Ezavriel#Sea of Yhor | Sea of Yhor]] 
 
 ## Population
 > TODO: Description
 
 ## Government
-- Monarchy: the Yhora family
-
-> TODO: More in depth
+The Yhora family has maintained a monarchy for almost two millennia. They are 
 
 ## Defense
-> TODO: Description
+- City completely surrounded by stone walls
+- Yhorian guard (city guard) has a decent presence throughout Yhora and other towns in the [[Yhorian Empire]]
 
 ## Commerce
-- center of trade of the [[Yhorian Empire]]
-- imports: lots of raw resources
-- exports: crafted weapons, furniture, trained soldiers
+- Center of trade of the [[Yhorian Empire]]
+- Imports from nearby towns and other nation capitals
+- Economic rivals with [[Opirian Alliance]] despite importing from them 
+- Exports manufactured goods and trained soldiers to smaller settlements
 
 ## Organizations
 > TODO: Description

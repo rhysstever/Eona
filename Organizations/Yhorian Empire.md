@@ -11,27 +11,22 @@ The approved deities of the Yhorian Empire include: Eona the Creator, Atal the S
 > TODO: Relationships
 
 ## Key Figures
-### King Xuan Vander Yhora III
+### King Xuan Vander Yhora
 - Middle-aged male high elf
 - Younger brother to [[Yhorian Empire#Thestros Yhora Master of Coin | Thestros Yhora]]
-- 
 
 ### Queen Nalankilli Yhora
 - Middle-aged female high elf 
-- 
 
-### Thestros Yhora, Master of Coin
+### Thestros Yhora III, Master of Coin
 - Middle-aged male high elf
 - Older brother of [[Yhorian Empire#King Xuan Vander Yhora III | King Xuan Vander III]]
-- 
 
 ### Du Menak, Assistant of Coin
 - Young adult male human 
 - Assistant of [[Yhorian Empire#Thestros Yhora Master of Coin | Thestros Yhora]]
-- 
 
 ### Yolanda Mei, Master of Transport 
 - Middle-aged female dragonborn
-- 
 
 #Organization
