@@ -16,7 +16,4 @@ Opira is governed by a partial republic. The elected officials also represent th
 - Some land routes to [[Eighwood]]
 - A few sea routes with [[Ithilmore]]
 
-## Organizations
-> TODO: Description
-
 #Settlement 

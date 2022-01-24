@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Sontar Raloran.md",
+            "file": "Organizations/Black Rose.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Sontar Raloran.md",
+                "file": "Organizations/Black Rose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Sontar Raloran.md",
+                "file": "Organizations/Black Rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Sontar Raloran.md",
+                "file": "Organizations/Black Rose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Sontar Raloran.md"
+                "file": "Organizations/Black Rose.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "d98eba38bfa1ac23",
   "lastOpenFiles": [
-    "People/Sontar Raloran.md",
-    "POIs/Empty Valley.md",
-    "POIs/Pyretide Islands.md",
-    "POIs/Mirthvale Swamp.md",
-    "POIs/Hungry Expanse.md",
-    "POIs/Faroot Island.md",
-    "Settlements/Adaham.md",
-    "Settlements/Eighwood.md",
+    "Organizations/Black Rose.md",
+    "Settlements/Yhora (City).md",
+    "Organizations/Yhorian Empire.md",
+    "Settlements/Ithilmore.md",
     "Settlements/Esila.md",
-    "Settlements/Ithilmore.md"
+    "Settlements/Eighwood.md",
+    "Settlements/Adaham.md",
+    "Organizations/Kandallo.md",
+    "Settlements/Opira.md",
+    "Settlements/Port Qane.md"
   ]
 }
