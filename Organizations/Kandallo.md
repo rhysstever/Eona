@@ -9,6 +9,14 @@ Kandallo (KAHN-DOL-O) is the northwest nation of [[Ezavriel]]. Its capital is [[
 > TODO: Relationships
 
 ## Key Figures
-> TODO: People
+### , Elder of Light
+
+### , Elder of Creation
+
+### , Elder of Magic
+
+### , Elder of Life
+
+### , Elder of Knowledge
 
 #Organization

@@ -1,5 +1,5 @@
 # Yhora
-Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at the mount of [[Ezavriel#Sea of Yhor | Sea of Yhor]] 
+Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at the mouth of [[Ezavriel#Sea of Yhor | Sea of Yhor]]. 
 
 ## Population
 > TODO: Description
@@ -7,7 +7,7 @@ Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at 
 ### Highgarden
 
 ## Government
-The Yhora family has maintained a monarchy for almost two millennia. They are 
+The Yhora family has maintained a monarchy for over two millennia. They are 
 
 ## Defense
 - City completely surrounded by stone walls

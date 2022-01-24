@@ -180,7 +180,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -228,14 +228,14 @@
   "active": "d98eba38bfa1ac23",
   "lastOpenFiles": [
     "Organizations/Black Rose.md",
-    "Settlements/Yhora (City).md",
-    "Organizations/Yhorian Empire.md",
     "Settlements/Ithilmore.md",
-    "Settlements/Esila.md",
-    "Settlements/Eighwood.md",
-    "Settlements/Adaham.md",
     "Organizations/Kandallo.md",
-    "Settlements/Opira.md",
-    "Settlements/Port Qane.md"
+    "Organizations/Council of Elders of Kandallo.md",
+    "Organizations/Baohua.md",
+    "Organizations/Opirian Alliance.md",
+    "Settlements/Yhora (City).md",
+    "Settlements/Yalos.md",
+    "Organizations/Yhorian Empire.md",
+    "People/PCs/Lionel Goldentail.md"
   ]
 }
