@@ -7,7 +7,7 @@ Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at 
 ### Highgarden
 
 ## Government
-The Yhora family has maintained a monarchy for over two millennia. They are 
+The Yhora family has maintained a monarchy for over two millennia. 
 
 ## Defense
 - City completely surrounded by stone walls
