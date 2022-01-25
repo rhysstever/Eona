@@ -4,8 +4,8 @@ The Yhorian (y-OR-EE-an) Empire is the largest and most dominate nation in [[Eza
 The approved deities of the Yhorian Empire include: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovaira the Lifebringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. 
 
 ## Goals
-- 
-- Expand the Yhorian rule to all 
+- Support the Yhorian Empire so its citizens can prosper
+- Expand the Yhorian rule
 - Give back to the royal family
 
 ## Relationships
@@ -25,6 +25,6 @@ Male High Elf, True Neutral
 Male Human, Neutral Good
 
 ### Yolanda Mei, Master of Transport 
-Female dragonborn, Lawful Neutral
+Female Dragonborn, Lawful Neutral
 
 #Organization

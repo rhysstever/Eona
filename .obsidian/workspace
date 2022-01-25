@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Yhorian Empire.md",
+            "file": "Continents/Ezavriel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Continents/Ezavriel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Continents/Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Continents/Ezavriel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Yhorian Empire.md"
+                "file": "Continents/Ezavriel.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "95ddd17a8edb8a59",
   "lastOpenFiles": [
+    "Continents/Ezavriel.md",
+    "POIs/Hungry Expanse.md",
+    "POIs/Pyretide Islands.md",
+    "POIs/Mirthvale Swamp.md",
+    "POIs/Faroot Island.md",
+    "POIs/Empty Valley.md",
     "Nations/Yhorian Empire.md",
     "Nations/Wayward Coast.md",
-    "People/NPCs/Thestros Yhora III.md",
-    "People/NPCs/Du Menak.md",
-    "People/NPCs/_NPC_Template.md",
-    "Organizations/_Organization_Template.md",
-    "Organizations/Black Rose.md",
     "Nations/Opirian Alliance.md",
-    "Nations/Kandallo.md",
-    "Nations/Baohua.md"
+    "Nations/Kandallo.md"
   ]
 }

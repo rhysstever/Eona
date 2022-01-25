@@ -22,9 +22,13 @@ Agents of the Black Rose will receive missions to carry out. They are divided in
 The Black Rose has several fingers in the [[Yhorian Empire]]. Many members of the Yhora family and other prominent families have heard the name, but most know it as the lavish inn located in the [[Yhora (City)#Highgarden | Highgarden District]]. Only a handful have had dealings with them, usually in the form of providing information that they've acquired in their high seat in society.
 
 ## Key Figures
-### Jason Stonewall
+### [[Jason Stonewall]]
+Agent
 
-### Myrdin Craynore
+### [[Myrdin Craynore]]
+Agent
 
+### [[Thestros Yhora III]]
+Informant
 
 #Organization

@@ -10,18 +10,18 @@ Kandallo (KAHN-DOL-O) is the northwest nation of [[Ezavriel]]. Its capital is [[
 
 ## Key Figures
 ### Aywin Atallin, Elder of Light
-Non-binary human druid, Lawful Good
+Non-binary Human Druid, Lawful Good
 
 ### Mirabella Gentlethorn, Elder of Creation
-Female orc druid, Neutral Good
+Female Orc Druid, Neutral Good
 
 ### Rolin Sparkleweaver, Elder of Magic
-Male gnome druid, Neutral Good
+Male Gnome Druid, Neutral Good
 
 ### Nylin Nahleere, Elder of Life
-Female high elf cleric, Lawful Good
+Female High Elf Cleric, Lawful Good
 
 ### Ailin Wanderfoot, Elder of Knowledge
-Non-binary wood elf wizard, Lawful Good
+Non-binary Wood Elf Wizard, Lawful Good
 
 #Organization
