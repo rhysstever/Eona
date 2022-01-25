@@ -24,9 +24,7 @@ Female Tabaxi, True Neutral
 Male Triton, True Neutral
 
 > TODO: Other reps
-> ### , Representative of [[Opira]]
-> ### , Representative of [[Opira]]
-> ### , Representative of [[Yalos]]
-> ### , Representative of [[Port Qane]]
+> 2 more representative of [[Opira]]
+> 1 more representative of [[Yalos]] and [[Port Qane]]
 
 #Organization 

@@ -1,7 +1,7 @@
 # Baohua
 Baohua (B-OW-WHO-A) is a nation in the south eastern desert of [[Ezavriel]]. Its capital is the mesa city [[Khiton]] and is where its chief . 
 
-> TODO: General culture 
+The Baohuan people deeply cherish their land, history, and customs. Initially meeting someone from Baohua, one would assume they are standoffish. Further contact would reveal, however, that they are a rather proud and stoic people. They rarely show expression, even to those closest to them.
 
 ## Goals
 - Allow the people of Baohua to prosper
@@ -22,5 +22,7 @@ Female Firbolg Druid
 
 ### Kior Solarclaw, Hand to the Chief
 Male Leonin Barbarian-Druid
+
+> TODO: Lesser entities 
 
 #Organization
