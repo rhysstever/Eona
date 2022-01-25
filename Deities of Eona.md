@@ -4,6 +4,8 @@ There are 13 greater deities within the pantheon. They have either been "born" i
 
 Because no one has ever met a greater deity, no one knows what they look like. Artists will always depict them faceless, usually covered up by something. For example, Atal, deity of the sun and light is commonly shown with the sun as their head. Furthermore, each greater deity is considered non-binary and, thus, is inaccurate to be called a god or goddess. 
 
+Within most nations of [[Ezavriel]], the approved deities include: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovaira the Lifebringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. If other deities are allowed or some already listed are not allowed, they will be specified. 
+
 ### List
 Deity | Representation | Alignment | Symbol
 ----- | -------------- | --------- | ------
