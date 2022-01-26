@@ -25,7 +25,7 @@ Male Gnome Druid, Neutral Good
 ### Nylin Nahleere, Elder of Life
 Female Furbolg Cleric, Lawful Good
 
-### Wanderfoot, Elder of Knowledge
+### Ailin Wanderfoot, Elder of Knowledge
 Non-binary Wood Elf Wizard, Lawful Good
 
 #Organization
