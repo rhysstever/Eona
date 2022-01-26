@@ -19,15 +19,15 @@ Oros the Undying Deity | the undead and decay | NE | A partially corroded skull
 Ovaira the Lifebringer | life and growth | CG | A tree with a thick canopy
 Thoros the Ultimate Judge | justice | LN | A balanced scale
 Unus the All-Knowing | knowledge | NG | An open tome
-Vhord the Warrior | war | N | Two crossed swords over a shield
+Vhord the Warrior | war | LN | Two crossed swords over a shield
 Yher the Dark One | death and darkness | N | The moon and scythe
 Zaas the Whispered One | secrets | CE | A blood-splattered envelope
 
-### Alignment
+### Alignments
 --- | Lawful | Neutral | Chaotic
 --- | ------ | ------- | -------
 **Good** | Eona the Creator | Atal the All-Bright <br><br> Unus the All-Knowing | Ovaira the Lifebringer
-**Neutral** | Thoros the Ultimate Judge | Meralin the Wild Mage <br><br> Vhord the Warrior <br><br> Yher the Dark One | Kyen the Blood-driven
+**Neutral** | Thoros the Ultimate Judge<br><br> Vhord the Warrior | Meralin the Wild Mage <br><br> Yher the Dark One | Kyen the Blood-driven
 **Evil** | Nokzol the Opressor | Kremmel the City Slayer <br><br> Oros the Undying One | Zaas the Whispered Ones
 
 ## Deities List

@@ -1,7 +1,7 @@
 # Kandallo
 Kandallo (KAHN-DOL-O) is the northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]] and that is where the Council of Elders meet.
 
-Kandallans value imagination and free-spiritedness. Due to Kandallo's location, the nation faces occasional extreme weather from the North Sea. This requires many settlements, even Ithilmore, to rebuild. While most cultures could not sustain such rebuilding, the Kandallans have learned over the generations to use the Willowdust Woods as a natural protection.  
+Kandallans value imagination and free-spiritedness. Due to Kandallo's location, the nation faces occasional extreme weather from the North Sea. This requires many settlements, even [[Ithilmore]], to rebuild. While most cultures could not sustain such rebuilding, the Kandallans have learned over the generations to use the Willowdust Woods as a natural protection.  
 
 ## Goals
 - Preserve the life and history of the Kandallian people
@@ -23,9 +23,9 @@ Female Orc Druid, Neutral Good
 Male Gnome Druid, Neutral Good
 
 ### Nylin Nahleere, Elder of Life
-Female High Elf Cleric, Lawful Good
+Female Furbolg Cleric, Lawful Good
 
-### Ailin Wanderfoot, Elder of Knowledge
+### Wanderfoot, Elder of Knowledge
 Non-binary Wood Elf Wizard, Lawful Good
 
 #Organization

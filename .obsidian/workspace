@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/PCs/Arthic Daeren.md",
+            "file": "Nations/Kandallo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/PCs/Arthic Daeren.md",
+                "file": "Nations/Kandallo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/PCs/Arthic Daeren.md",
+                "file": "Nations/Kandallo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/PCs/Arthic Daeren.md",
+                "file": "Nations/Kandallo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/PCs/Arthic Daeren.md"
+                "file": "Nations/Kandallo.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "8e584da294d09aa8",
   "lastOpenFiles": [
+    "Nations/Kandallo.md",
+    "Deities of Eona.md",
+    "Continents/Ezavriel.md",
+    "Continents/_Continent_Template.md",
+    "Campaigns/Whispers In Opira/Campaign Ideas.md",
     "People/PCs/Arthic Daeren.md",
     "People/PCs/Jason Stonewall.md",
     "People/NPCs/Valor Daeren.md",
     "People/NPCs/Thestros Yhora III.md",
-    "People/PCs/Myrdin Craynore.md",
-    "People/PCs/Lionel Goldentail.md",
-    "Nations/Yhorian Empire.md",
-    "People/PCs/Sontar Raloran.md",
-    "People/PCs/_PC_Template.md",
-    "Eona (World).md"
+    "People/PCs/Myrdin Craynore.md"
   ]
 }
