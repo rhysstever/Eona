@@ -23,10 +23,15 @@ Female High Elf, Lawful Neutral
 ### [[Thestros Yhora III]], Master of Coin
 Male High Elf, True Neutral
 
-### [[Du Menak]], Assistant of Coin
-Male Human, Neutral Good
+### [[Valor Daeren]], Assistant of Coin
+Male High Elf, Neutral Good
 
 ### Yolanda Mei, Master of Transport 
 Female Dragonborn, Lawful Neutral
+
+> TODO: 
+> - Master of Knowledge
+> - Master of Defense
+> - Master of Magic
 
 #Organization
