@@ -5,6 +5,10 @@ Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at 
 > TODO: Description
 
 ### Highgarden
+Highgarden is the upper-class district of the city. Wealthy noble houses construct their grand dwellings here. 
+
+### Merchant's Crossing
+A large open square with several promenades extending out of it
 
 ## Government
 The Yhora family has maintained a monarchy for over two millennia. 

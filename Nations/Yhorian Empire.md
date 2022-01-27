@@ -26,7 +26,7 @@ Male High Elf, True Neutral
 ### [[Valor Daeren]], Assistant of Coin
 Male High Elf, Neutral Good
 
-### Yolanda Mei, Master of Transport 
+### [[Yolanda Mei]], Master of Transport 
 Female Dragonborn, Lawful Neutral
 
 > TODO: 
