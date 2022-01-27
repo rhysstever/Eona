@@ -1,5 +1,4 @@
 # Jason Stonewall
-## About
 - River's PC
 - Wood Elf Assassin Rogue
 - A member of the [[Black Rose]]

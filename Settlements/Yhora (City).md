@@ -8,7 +8,7 @@ Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at 
 Highgarden is the upper-class district of the city. Wealthy noble houses construct their grand dwellings here. 
 
 ### Merchant's Crossing
-A large open square with several promenades extending out of it
+A large open square with several promenades extending out from it. The square itself, is filled with stalls and stands. Each promenade is lined with more permanent shops and businesses. 
 
 ## Government
 The Yhora family has maintained a monarchy for over two millennia. 

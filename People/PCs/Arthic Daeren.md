@@ -1,5 +1,4 @@
 # Arthic “R” Daeren
-## About
 - Meghan's PC
 - Half Elf Thief Rogue
 - Younger half-sister to [[Valor Daeren]]

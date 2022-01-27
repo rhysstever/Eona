@@ -1,5 +1,4 @@
 # Myrdin Craynore
-## About
 - Corey's PC
 - Wood-Elf College of Lore Bard / Rogue 
 - Second-heir of House Craynore, a prominent noble family in the [[Yhorian Empire]]
