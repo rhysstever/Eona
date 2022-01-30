@@ -1,5 +1,4 @@
 # Valor Daeren, Assistant of Coin of Yhora
-## About
 - Male High Elf
 - Assistant of Coin of the [[Yhorian Empire]] (assistant to [[Thestros Yhora III]])
 - Brother to [[Arthic Daeren]]
@@ -24,6 +23,6 @@
 
 
 ## History
-
+> TODO: History
 
 #Person
