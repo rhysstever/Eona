@@ -30,7 +30,7 @@ All points and topics I want to cover in the initial session
 ## Campaign Framework
 - Setting
 	- Medium fantasy, very little tech
-	- Eona > Ezavriel > Opira
+	- Eona > [[Ezavriel]] > [[Opira]]
 	- City-based/Urban setting
 - More rp and social interaction, less combat
 	- Rules will be a little different, esp with social interaction

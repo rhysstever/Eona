@@ -19,13 +19,13 @@ Non-binary Human Druid, Lawful Good
 ### Mirabella Gentlethorn, Elder of Creation
 Female Orc Druid, Neutral Good
 
-### Rolin Sparkleweaver, Elder of Magic
-Male Gnome Druid, Neutral Good
+### [[Rolin Sparkleweaver]], Elder of Magic
+Male Gnome, Neutral Good
 
-### Nylin Nahleere, Elder of Life
-Female Furbolg Cleric, Lawful Good
+### [[Nylin Nahleere]], Elder of Life
+Female Furbolg, Lawful Good
 
-### Ailin Wanderfoot, Elder of Knowledge
-Non-binary Wood Elf Wizard, Lawful Good
+### [[Ailin Wanderfoot]], Elder of Knowledge
+Non-binary Wood Elf, Lawful Good
 
 #Organization

@@ -14,13 +14,13 @@ Elected officials of the republic are respected by most citizens. They are trust
 The Opirian Alliance is placed in the center of [[Ezavriel]]. This makes cross-continental trade by other nations almost impossible without dealing with the alliance. Ports cities and towns in the alliance usually act as a middle figure between nations, and thus, can take their cut of the overall deal. Other nations begrudgingly agree, as otherwise no trade would happen at all.
 
 ## Key Figures
-### Uga, Representative of [[Opira]]
+### [[Uga]], Representative of [[Opira]]
 Female Lizardfolk, True Neutral
 
-### Cloud in the Sky (Sky), Representative of [[Port Qane]]
+### [[Cloud in the Sky]] (Sky), Representative of [[Port Qane]]
 Female Tabaxi, True Neutral
 
-### Zuhrus Razanath, Representative of [[Yalos]]
+### [[Zuhrus Razanath]], Representative of [[Yalos]]
 Male Triton, True Neutral
 
 > TODO: Other reps

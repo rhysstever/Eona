@@ -16,14 +16,14 @@ Most citizens of the Wayward Coast follow the teachings of [[Deities of Eona#Ata
 Most nations regard the Wayward Coast as a distant, small land of sailors. Other governments will meet with and show respect to the Empress, but the Wayward Coast is frequently left out of decisions due to their distance from the other capitals.  
 
 ## Key Figures
-### Empress Lur, the Sun-touched
-Female Human Cleric
+### [[Empress Lur]], the Sun-touched
+Female Human
 
-### Archpriest Voola
-Male Orc Cleric
+### [[Archpriest Voola]]
+Male Orc
 
-### Archpriest Fano
-Female Human Cleric
+### [[Archpriest Fano]]
+Female Human
 
 > TODO: Positions under the Archpriests
 
