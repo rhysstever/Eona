@@ -1,4 +1,4 @@
-# Lionel Goldentail
+# Xerthanos Sparklecloak
 - Mark's PC
 - Leonin Order of Scribes Wizard
 - Court wizard assistant from [[Ithilmore]] of [[Kandallo]]

@@ -16,11 +16,11 @@
 	- 6 soldiers of the Yhorian guard
 
 ## Across the North Sea
-- PCs: [[Lionel Goldentail]] and [[Sontar Raloran]]
+- PCs: [[Xerthanos Sparklecloak]] and [[Sontar Raloran]]
 - Assistants gathered with the Elders and are told of the meeting
 - Small ship sails down the Kandallan River into the North Sea
 	- [[Rolin Sparkleweaver]], Elder of Magic
-	- [[Lionel Goldentail]], Assistant to the Elder of Magic
+	- [[Xerthanos Sparklecloak]], Assistant to the Elder of Magic
 	- [[Ailin Wanderfoot]], Elder of Knowledge
 	- [[Sontar Raloran]], Assistant to the Elder of Knowledge 
 	- 4 Kandallan guards (barbarians)
