@@ -1,5 +1,4 @@
-# Session 1
-
+# Session 1: Gathering in [[Opira]]
 ## Leaving the Empire
 - PCs: [[Myrdin Craynore]], [[Jason Stonewall]], and [[Arthic Daeren]]
 - Myrdin and Jason receive their assignments from the [[Black Rose]]
@@ -13,17 +12,17 @@
 	- [[Yolanda Mei]], Master of Transport
 	- [[Myrdin Craynore]], Court Bard
 	- [[Jason Stonewall]], Bodyguard
-	- 6 soldiers of the Yhorian guard
+	- Yhorian guard soldiers
 
-## Across the North Sea
+## Leaving the Tree
 - PCs: [[Xerthanos Sparklecloak]] and [[Sontar Raloran]]
 - Assistants gathered with the Elders and are told of the meeting
-- Small ship sails down the Kandallan River into the North Sea
+- Small ship sails from [[Ithilmore]] to [[Opira]], via the Kandallan River and the North Sea
 	- [[Rolin Sparkleweaver]], Elder of Magic
-	- [[Xerthanos Sparklecloak]], Assistant to the Elder of Magic
 	- [[Ailin Wanderfoot]], Elder of Knowledge
+	- [[Xerthanos Sparklecloak]], Assistant to the Elder of Magic
 	- [[Sontar Raloran]], Assistant to the Elder of Knowledge 
-	- 4 Kandallan guards (barbarians)
+	- Kandallan guards (some druids, some barbarians)
 
 
 #Campaign 
