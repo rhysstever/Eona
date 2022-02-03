@@ -4,6 +4,16 @@ Ithilmore is a large shire built around a massive tree that resides in the heart
 ## Population
 > TODO: Description
 
+### Shops
+#### Tree Tap
+A bar on the trunk of the tree, near the bottom
+
+#### Taphouse
+A tavern, slightly fancier than the Tree Tap, that sits above it and scaling up the tree
+
+#### Gory Hole
+A brothel of large partners; ran by a minotaur
+
 ## Government
 Ithilmore is governed by the ruling body of [[Kandallo]]: the Council of Elders. Each councilmember is 
 

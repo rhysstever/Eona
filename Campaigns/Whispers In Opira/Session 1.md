@@ -1,6 +1,6 @@
 # Session 1: Gathering in [[Opira]]
 ## Leaving the Empire
-- PCs: [[Myrdin Craynore]], [[Jason Stonewall]], and [[Arthic Daeren]]
+- Players: Meghan, Corey, and River
 - Myrdin and Jason receive their assignments from the [[Black Rose]]
 	- Gives Jason papers to show he will be protecting the caravan
 - Meet the officials (including Arthic)
@@ -15,7 +15,7 @@
 	- Yhorian guard soldiers
 
 ## Leaving the Tree
-- PCs: [[Xerthanos Sparklecloak]] and [[Sontar Raloran]]
+- Players: Kobie and Mark
 - Assistants gathered with the Elders and are told of the meeting
 - Small ship sails from [[Ithilmore]] to [[Opira]], via the Kandallan River and the North Sea
 	- [[Rolin Sparkleweaver]], Elder of Magic
