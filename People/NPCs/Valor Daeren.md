@@ -6,7 +6,6 @@
 ## Appearance
 > TODO: Appearance 
 
-
 ## Personality
 > TODO: Personality 
 

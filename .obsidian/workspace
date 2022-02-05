@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "46a890286d8e12a0",
+        "id": "4928ff65330de327",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "People/NPCs/Valor Daeren.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "565e685d640f8637",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Campaigns/Whispers In Opira/Session 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "People/NPCs/Valor Daeren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/NPCs/Valor Daeren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/NPCs/Valor Daeren.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/NPCs/Valor Daeren.md"
+              }
             }
           }
         ],
@@ -217,17 +238,17 @@
     "width": 525,
     "collapsed": true
   },
-  "active": "46a890286d8e12a0",
+  "active": "4928ff65330de327",
   "lastOpenFiles": [
-    "Misc/Overview Organization.md",
+    "People/NPCs/Valor Daeren.md",
     "Campaigns/Whispers In Opira/Session 1.md",
-    "Continents/Ezavriel.md",
-    "Campaigns/Whispers In Opira/Campaign Ideas.md",
-    "Deities of Eona.md",
-    "Settlements/Ithilmore.md",
+    "Nations/Wayward Coast.md",
+    "Nations/Baohua.md",
     "Nations/Kandallo.md",
-    "Campaigns/Whispers In Opira/Session 0.md",
-    "People/PCs/Sontar Raloran.md",
-    "People/PCs/Xerthanos Sparklecloak.md"
+    "Nations/Opirian Alliance.md",
+    "Nations/Yhorian Empire.md",
+    "Settlements/Yhora (City).md",
+    "People/NPCs/Yolanda Mei.md",
+    "POIs/Faroot Island.md"
   ]
 }

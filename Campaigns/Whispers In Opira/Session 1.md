@@ -1,6 +1,6 @@
 # Session 1: Gathering in [[Opira]]
 ## Leaving the Empire
-- Players: Meghan, Corey, and River
+- Players: Corey, River, and Meghan
 - Myrdin and Jason receive their assignments from the [[Black Rose]]
 	- Gives Jason papers to show he will be protecting the caravan
 - Meet the officials (including Arthic)
