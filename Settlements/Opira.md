@@ -11,7 +11,9 @@ Opira is a large port city and the capital of the [[Opirian Alliance]]. It lays 
 	- Inner nation ports: [[Port Qane]] and [[Yalos]]
 	- Nations: [[Wayward Coast]], [[Baohua]]
 
-### 
+### Vendor's Row
+- Trade district
+- Long roads that cut through the city
 
 ### Keep Opira
 - Opirian representatives live and govern the city
