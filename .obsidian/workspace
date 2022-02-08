@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4928ff65330de327",
+        "id": "0c8558fc358e69b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/NPCs/Valor Daeren.md",
+            "file": "Settlements/Opira.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "565e685d640f8637",
+        "id": "a3e863ce0f203d20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Whispers In Opira/Session 1.md",
+            "file": "Settlements/Opira.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 324
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/NPCs/Valor Daeren.md",
+                "file": "Settlements/Opira.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/NPCs/Valor Daeren.md",
+                "file": "Settlements/Opira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/NPCs/Valor Daeren.md",
+                "file": "Settlements/Opira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/NPCs/Valor Daeren.md"
+                "file": "Settlements/Opira.md"
               }
             }
           }
@@ -235,20 +235,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525,
-    "collapsed": true
+    "width": 525
   },
-  "active": "4928ff65330de327",
+  "active": "a3e863ce0f203d20",
   "lastOpenFiles": [
-    "People/NPCs/Valor Daeren.md",
-    "Campaigns/Whispers In Opira/Session 1.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Baohua.md",
-    "Nations/Kandallo.md",
-    "Nations/Opirian Alliance.md",
-    "Nations/Yhorian Empire.md",
-    "Settlements/Yhora (City).md",
-    "People/NPCs/Yolanda Mei.md",
-    "POIs/Faroot Island.md"
+    "Settlements/Opira.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
+    "Shops/Stone's Stones.md",
+    "People/PCs/Arthic Daeren.md",
+    "Settlements/Ithilmore.md",
+    "Shops/_Shop_Template.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Leaving Home.md",
+    "Campaigns/Whispers In Opira/Session Notes/_Session_Note_Template.md",
+    "Campaigns/Whispers In Opira/Campaign Ideas.md",
+    "Campaigns/Whispers In Opira/Session 0.md"
   ]
 }

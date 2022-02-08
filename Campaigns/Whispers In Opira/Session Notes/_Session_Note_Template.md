@@ -1,8 +1,7 @@
-# Session_Note_Template
+# Session_Name
 
 Date: MM/DD/YYYY
-
-## Overview
+Players: 
 
 Overview
 

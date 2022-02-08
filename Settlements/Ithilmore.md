@@ -2,7 +2,22 @@
 Ithilmore is a large shire built around a massive tree that resides in the heart of the [[Ezavriel#Willowdust Woods | Willowdust Woods]]. It is the capital of [[Kandallo]]. 
 
 ## Population
-> TODO: Description
+### Up the Trunk
+- Upper class, descendants of initial founders
+- Government: Elder Council Room, Elder homes
+
+### Near the Base
+- Middle class
+- Popular shops/taverns/inns
+- Descendants that settled early on
+
+### Around the Base
+- Lower middle class
+- Shop owners/workers
+
+### In the Grove
+- Lower class
+- Farmers, unskilled workers
 
 ### Shops
 #### Tree Tap

@@ -1,6 +1,8 @@
-# Session 1: Gathering in [[Opira]]
+# Session 1: Leaving Home
 ## Leaving the Empire
-- Players: Corey, River, and Meghan
+Date: 2/4/2022  
+Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), and [[Arthic Daeren]] (Meghan)
+
 - Myrdin and Jason receive their assignments from the [[Black Rose]]
 	- Gives Jason papers to show he will be protecting the caravan
 - Meet the officials (including Arthic)
@@ -15,7 +17,9 @@
 	- Yhorian guard soldiers
 
 ## Leaving the Tree
-- Players: Kobie and Mark
+Date: 2/2/2022  
+Players: [[Sontar Raloran]] (Kobie) and [[Xerthanos Sparklecloak]] (Mark)
+
 - Assistants gathered with the Elders and are told of the meeting
 - Small ship sails from [[Ithilmore]] to [[Opira]], via the Kandallan River and the North Sea
 	- [[Rolin Sparkleweaver]], Elder of Magic
@@ -24,5 +28,4 @@
 	- [[Sontar Raloran]], Assistant to the Elder of Knowledge 
 	- Kandallan guards (some druids, some barbarians)
 
-
-#Campaign 
+#Session_Notes  

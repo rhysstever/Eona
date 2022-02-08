@@ -2,7 +2,20 @@
 Opira is a large port city and the capital of the [[Opirian Alliance]]. It lays on the main, central isthmus of [[Ezavriel]]. 
 
 ## Population
-> TODO: Description
+### Northern Docks
+- Sea routes through the North Sea
+	- Nations: [[Kandallo]] and  [[Yhorian Empire]]
+
+### Southern Docks
+- Sea routes through the Tranquil Gulf/Endless Sea
+	- Inner nation ports: [[Port Qane]] and [[Yalos]]
+	- Nations: [[Wayward Coast]], [[Baohua]]
+
+### 
+
+### Keep Opira
+- Opirian representatives live and govern the city
+- All [[Opirian Alliance]] representatives meet to govern the nation
 
 ## Government
 Opira is governed by a partial republic. The elected officials also represent the city when the full republic gathers to discuss matters for an entire [[Opirian Alliance]]. 
