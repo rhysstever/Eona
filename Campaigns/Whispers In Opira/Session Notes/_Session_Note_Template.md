@@ -1,6 +1,6 @@
 # Session_Name
 
-Date: MM/DD/YYYY
+Date: MM/DD/YYYY  
 Players: 
 
 ## Overview

@@ -1,5 +1,5 @@
 # Yolanda Mei, Master of Transport of Yhora
-- Female Dragonborn
+- Female Silver (Cold) Dragonborn
 - Master of Transport of the [[Yhorian Empire]]
 
 ## Appearance
@@ -7,6 +7,7 @@
 
 ## Personality
 > TODO: Personality
+
 ### Ideals
 
 

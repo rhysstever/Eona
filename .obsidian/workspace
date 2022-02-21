@@ -9,9 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "09858250a26aa9d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "5222b16c626dc7da",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Images/WiO_Explosion.png"
           }
         }
       }
@@ -69,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md"
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md"
               }
             }
           }
@@ -223,19 +245,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435
+    "width": 435,
+    "collapsed": true
   },
   "active": "7f41901b80c26d41",
   "lastOpenFiles": [
-    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Leaving Home.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Fallout.md",
-    "Organizations/Order of Whispers.md",
-    "Organizations/_Organization_Template.md",
     "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Heated Discussion.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
+    "People/NPCs/Yolanda Mei.md",
     "Images/WiO_Explosion.png",
-    "Events/Discovery of the Khitonian River.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Yhorian Empire.md"
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Leaving Home.md",
+    "Campaigns/Whispers In Opira/Session Notes/_Session_Note_Template.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 0.md",
+    "Organizations/Order of Whispers.md",
+    "Organizations/_Organization_Template.md"
   ]
 }
