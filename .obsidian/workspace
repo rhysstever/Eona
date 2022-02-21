@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -223,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435,
-    "collapsed": true
+    "width": 435
   },
   "active": "7f41901b80c26d41",
   "lastOpenFiles": [
     "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
-    "Deities of Eona.md",
-    "Nations/Opirian Alliance.md",
-    "People/NPCs/Uga.md",
-    "Settlements/Yhora (City).md",
-    "Settlements/Opira.md",
-    "Shops/Stone's Stones.md",
-    "Nations/Yhorian Empire.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Leaving Home.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Fallout.md",
+    "Organizations/Order of Whispers.md",
+    "Organizations/_Organization_Template.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Images/WiO_Explosion.png",
+    "Events/Discovery of the Khitonian River.md",
     "Nations/Wayward Coast.md",
-    "Nations/Kandallo.md"
+    "Nations/Yhorian Empire.md"
   ]
 }

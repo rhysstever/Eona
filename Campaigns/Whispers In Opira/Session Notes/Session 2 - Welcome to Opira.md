@@ -34,6 +34,8 @@ Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), [[Arthic Daer
 - Xerthanos resets his alarm for overnight and Myrdin sets a screaming alarm
 
 ## The Meeting
+Led by [[Uga]]
+
 Introductions 
 - Opirian Alliance: [[Uga]], [[Cloud in the Sky]], and [[Zuhrus Razanath]]
 - Yhorian Empire: [[Thestros Yhora III]], [[Valor Daeren]], and [[Yolanda Mei]]
@@ -41,8 +43,12 @@ Introductions
 - Baohua: [[Keysys Starriver]] and [[Kior Solarclaw]]
 - Wayward Coast: [[Archpriest Fano]] and [[Archpriest Voola]]
 
-Proposal of Opirian Canal
+Proposal of the Opirian Canal
+- Opira asks for investments from other nations
+- Yhorian Empire pledges investment (via [[Thestros Yhora III]])
 
 Incident
+- Meeting resumes after lunch break
+- As Uga opens discussion again, a large fireball goes off
 
 #Session_Notes

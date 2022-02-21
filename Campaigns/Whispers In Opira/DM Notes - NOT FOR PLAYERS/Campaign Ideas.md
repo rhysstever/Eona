@@ -2,23 +2,39 @@
 This is a page for me to jot possible ideas I have to use for this campaign
 
 ---
-# DO NOT READ THIS
+# PLAYERS, DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS
+# PLAYERS, DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS
+# PLAYERS, DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS
+# PLAYERS, DO NOT READ THIS
 ---
 
 ---
-# DO NOT READ THIS
+# PLAYERS, DO NOT READ THIS
+---
+
+---
+# PLAYERS, DO NOT READ THIS
+---
+
+---
+# PLAYERS, DO NOT READ THIS
+---
+
+---
+# PLAYERS, DO NOT READ THIS
+---
+
+---
+# PLAYERS, DO NOT READ THIS
 ---
 
 ## The Meeting of the Five Nations
@@ -30,12 +46,14 @@ This is a page for me to jot possible ideas I have to use for this campaign
 		- Can been seen with bat excrement and sulfur on their hands 
 	- Blows up the entire room, killing many, maiming the few rest
 - PCs are in the room
-- Room doors barred
-	- The guards posted on outside of the room are gone
+- The guards posted on outside of the room are gone
+
+## After the Incident 
+- Casualties 
+	- 
 
 ## Finding the Culprits
-- List of attendees has been updated 
-	- Only difference: addition of one name: Sorcerer_Cult_Member_Name
+- List of attendees has been altered 
 - 
 
 #Campaign
