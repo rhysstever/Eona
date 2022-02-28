@@ -1,6 +1,6 @@
 # Cloud in the Sky (Sky)
 ## About
-- Female Tabaxi
+- Female Tabaxi Bard
 - Representative of [[Port Qane]]
 
 ## Appearance

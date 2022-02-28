@@ -50,26 +50,8 @@ This is a page for me to jot possible ideas I have to use for this campaign
 
 ## Explosion 
 - Casualties 
-	- OP: Uga
-	- OP: Cloud
-	- OP: Zuhrus
-	- YE: Thestros
-	- YE: Yolanda
-	- YE: Valor
-	- YE: R
-	- K: Rolin
-	- K: Xerthanos
-	- K: Ailin
-	- K: Sontar
-	- B: Keyeys
-	- B: Kior
-	- WC: Fano
-	- WC: Voola
-- 
-- Other explosion at 
 
 ## Finding the Culprits
-- List of attendees has been altered 
-- 
+
 
 #Campaign

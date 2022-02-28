@@ -1,6 +1,6 @@
 # Zuhrus Razanath
 ## About
-- Male Triton
+- Male Triton Cleric
 - Representative of [[Yalos]]
 
 ## Appearance

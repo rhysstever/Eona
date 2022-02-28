@@ -1,6 +1,6 @@
 # Uga
 ## About
-- Female Lizardfolk
+- Female Lizardfolk Monk
 - Elected official of [[Opirian Alliance]]
 - Representative of [[Opira]]
 
