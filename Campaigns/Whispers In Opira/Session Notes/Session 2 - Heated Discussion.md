@@ -22,7 +22,12 @@ Dex Save total: dmg amount (fire)
 4-: 115
 
 ### Casualties 
-https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp1GY/edit?usp=sharing
+All: https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp1GY/edit?usp=sharing
+
+PCs: 
+- Jason and Myrdin hurt
+- R falls unconscious but is healed by Myrdin
+- Sontar and Xerthanos are killed
 
 ## Recovery
 - Unconscious are tended to by those that can heal

@@ -1,27 +1,15 @@
 {
   "main": {
-    "id": "21083b427c5624b2",
+    "id": "725322eb3d532d5b",
     "type": "split",
     "children": [
       {
-        "id": "451be020f0c7153f",
+        "id": "b24ee21399bbaf92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Deities of Eona.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0904a0487a101bf6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
+            "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
             "mode": "source",
             "source": false
           }
@@ -31,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d737e0454432d1e8",
+    "id": "91540bc65032bdbd",
     "type": "split",
     "children": [
       {
-        "id": "30f62a68918e0211",
+        "id": "5e3e621c83e6aac6",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca465a7f7a67fed",
+            "id": "034fa1307a03d089",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +35,7 @@
             }
           },
           {
-            "id": "d51fa29b4db3589e",
+            "id": "e702a10e511f8f20",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,152 +53,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 300
   },
   "right": {
-    "id": "109c64a7db16d479",
+    "id": "601d2d5d6ba876df",
     "type": "split",
     "children": [
       {
-        "id": "232f5b5eed3c011d",
+        "id": "3d927d3e83be4e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "be9af2271137137f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#World",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#Settlement",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16750080
-                      }
-                    },
-                    {
-                      "query": "tag:#POI",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16776960
-                      }
-                    },
-                    {
-                      "query": "tag:#Organization",
-                      "color": {
-                        "a": 1,
-                        "rgb": 65280
-                      }
-                    },
-                    {
-                      "query": "tag:#Event",
-                      "color": {
-                        "a": 1,
-                        "rgb": 65535
-                      }
-                    },
-                    {
-                      "query": "tag:#Person",
-                      "color": {
-                        "a": 1,
-                        "rgb": 255
-                      }
-                    },
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8323327
-                      }
-                    },
-                    {
-                      "query": "tag:#Session_Notes",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711935
-                      }
-                    },
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6568960
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6955257542209117,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8777fa7532decd67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62b0630b2baf43b0",
+            "id": "51c2adc547431eb6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f43d301b8880ffe1",
+            "id": "2060aa50ed92fae3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eb423c353e78f93a",
+            "id": "4b4469828fcdc14d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,34 +104,30 @@
             }
           },
           {
-            "id": "15ed7458809fa7d4",
+            "id": "e65348747f3a20eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md"
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435,
+    "width": 300,
     "collapsed": true
   },
-  "active": "0904a0487a101bf6",
+  "active": "b24ee21399bbaf92",
   "lastOpenFiles": [
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-    "Religion/Deities of Eona.md",
-    "Religion/Eternal Athenaeum.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Heated Discussions.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 0 - Campaign Expectations.md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
-    "Images/WiO_Explosion.png",
-    "Nations/Opirian Alliance.md"
+    "Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md"
   ]
 }
