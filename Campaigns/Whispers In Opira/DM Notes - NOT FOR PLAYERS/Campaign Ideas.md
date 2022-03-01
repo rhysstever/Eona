@@ -48,10 +48,8 @@ This is a page for me to jot possible ideas I have to use for this campaign
 - PCs are in the room
 - The guards posted on outside of the room are gone
 
-## Explosion 
-- Casualties 
-
-## Finding the Culprits
-
+## Finding the Culprit(s)
+- Asking about who checked the meeting room before
+	- Folen Carro was the mage who checked the room
 
 #Campaign

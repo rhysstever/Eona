@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "60abd640ed72a644",
+        "id": "944034b09dfca948",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -226,17 +226,17 @@
     "width": 435,
     "collapsed": true
   },
-  "active": "60abd640ed72a644",
+  "active": "944034b09dfca948",
   "lastOpenFiles": [
     "Campaigns/Whispers In Opira/Session Notes/Session 3 - Heated Discussion.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Deities of Eona.md",
     "Images/WiO_Explosion.png",
-    "Images/Ezavriel Maps/Ezavriel_Labeled_Political.jpg",
     "Campaigns/Whispers In Opira/Session Notes/Session 2 - Welcome to Opira.md",
-    "People/NPCs/Valor Daeren.md",
-    "People/NPCs/Zuhrus Razanath.md",
+    "Nations/Opirian Alliance.md",
     "People/NPCs/Uga.md",
-    "People/NPCs/Thestros Yhora III.md",
-    "People/NPCs/Cloud in the Sky.md",
-    "People/NPCs/Yolanda Mei.md"
+    "Settlements/Yhora (City).md",
+    "Settlements/Opira.md",
+    "Shops/Stone's Stones.md"
   ]
 }

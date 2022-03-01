@@ -5,11 +5,11 @@ Players: [[Myrdin Craynore]], [[Jason Stonewall]], [[Arthic Daeren]], [[Sontar R
 
 ## Explosion
 ### Actions
-- Myrdin: Shielding [[Thestros Yhora III]]
-- Jason: Shielding [[Thestros Yhora III]]
+- Myrdin: Shields [[Thestros Yhora III]]
+- Jason: Shields [[Thestros Yhora III]]
 - R: Hides under table
-- Sontar: Shielding [[Ailin Wanderfoot]]
-- Xerthanos: Shielding [[Rolin Sparkleweaver]] and casting absorb elements
+- Sontar: Shields [[Ailin Wanderfoot]]
+- Xerthanos: Shields [[Rolin Sparkleweaver]] and casting absorb elements
 
 ### Damage
 Total: 12d6 + 2 x 10 x 1d6 = 32d6 --> 115 fire damage
@@ -25,8 +25,7 @@ Dex Save total: dmg amount (fire)
 https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp1GY/edit?usp=sharing
 
 ## Recovery
-- Dead & Unconscious taken away 
-- Unconscious treated in medical ward
+- Unconscious are tended to by those that can heal
 	- [[Thestros Yhora III]]
 	- [[Keysys Starriver]]
 	- [[Kior Solarclaw]] 
@@ -36,9 +35,12 @@ https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp
 	- [[Valor Daeren]]
 	- [[Yolanda Mei]]
 
-## Searching for Clues
-- R returns to their belongings in their room to find a small piece of paper with a code:  
-`325 121 131 828 132 146 131 132 413 241 413 413 521 241`
-
+- Myrdin and Jason help R and Thestros out of the room 
+- When Jason is not looking, R leaves the hallway 
+	- He goes to his room, gets his things, and then sneaks out of castle
+- Myrdin and Jason help Thestros into his room, talk about what to do next
+- After Thestros goes to sleep, Jason sneaks out of the castle thr his room and meets R at Stone's Stones
+- Jason convinces R to come back to the castle
+- R goes to bed and Jason rejoins Myrdin in Thestros's room
 
 #Session_Notes
