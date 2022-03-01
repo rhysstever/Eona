@@ -1,4 +1,4 @@
-# Session 1: Leaving Home
+# Session 0.5: Leaving Home
 ## Leaving the Empire
 Date: 2/4/2022  
 Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), and [[Arthic Daeren]] (Meghan)

@@ -1,4 +1,4 @@
-# Session 0
+# Session 0: Campaign Expectations
 All points and topics I want to cover in the initial session
 
 ## Scheduling

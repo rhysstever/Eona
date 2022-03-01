@@ -1,4 +1,4 @@
-# Session 2: Welcome to [[Opira]]
+# Session 1: Welcome to [[Opira]]
 
 Date: 2/7/2022  
 Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), [[Arthic Daeren]] (Meghan), [[Sontar Raloran]] (Kobie), and [[Xerthanos Sparklecloak]] (Mark)

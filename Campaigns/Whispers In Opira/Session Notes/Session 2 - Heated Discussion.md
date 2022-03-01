@@ -1,4 +1,4 @@
-# Session 3: Heated Discussion
+# Session 2: Heated Discussion
 
 Date: 2/20/2022  
 Players: [[Myrdin Craynore]], [[Jason Stonewall]], [[Arthic Daeren]], [[Sontar Raloran]], and [[Xerthanos Sparklecloak]]
@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp
 - When Jason is not looking, R leaves the hallway 
 	- He goes to his room, gets his things, and then sneaks out of castle
 - Myrdin and Jason help Thestros into his room, talk about what to do next
-- After Thestros goes to sleep, Jason sneaks out of the castle thr his room and meets R at Stone's Stones
+- After Thestros goes to sleep, Jason sneaks out of the castle thr his room and meets R at [[Stone's Stones]]
 - Jason convinces R to come back to the castle
 - R goes to bed and Jason rejoins Myrdin in Thestros's room
 
