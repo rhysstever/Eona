@@ -37,7 +37,11 @@ Details:
 ## Riddle
 Status: To Be Created
 
-Riddle: TODO: contents
+Riddle  
+'Who to trust, who to fear,
+The pen is mightier than the spear.
+Scheming in the shadows, more than a bribe,
+For what to know, look to the scribe.'
 
 Details: 
 - TODO: How the riddle is given
