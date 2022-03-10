@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0904a0487a101bf6",
+        "id": "d64686c54450f070",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+            "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md"
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md"
               }
             }
           }
@@ -223,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435,
-    "collapsed": true
+    "width": 435
   },
-  "active": "0904a0487a101bf6",
+  "active": "d64686c54450f070",
   "lastOpenFiles": [
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
+    "People/NPCs/Thallan Aera.md",
     "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Organizations/Order of Whispers.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
     "Religion/Deities of Eona.md",
     "Religion/Eternal Athenaeum.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 0 - Campaign Expectations.md",
-    "Images/WiO_Explosion.png"
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md"
   ]
 }
