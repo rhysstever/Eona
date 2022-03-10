@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 345
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -223,19 +223,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435
+    "width": 411,
+    "collapsed": true
   },
   "active": "d64686c54450f070",
   "lastOpenFiles": [
     "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
-    "People/NPCs/Thallan Aera.md",
     "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
-    "Organizations/Order of Whispers.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 3 -.md",
-    "Religion/Deities of Eona.md",
-    "Religion/Eternal Athenaeum.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md"
+    "Religion/Lost Abyss.md",
+    "Religion/Eternal Athenaeum.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 - NAME.md",
+    "Religion/Deities of Eona.md",
+    "Memes/DeadSontar.png",
+    "Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md"
   ]
 }

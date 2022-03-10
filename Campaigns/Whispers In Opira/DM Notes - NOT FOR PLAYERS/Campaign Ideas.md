@@ -13,30 +13,6 @@ This is a page for me to jot possible ideas I have to use for this campaign
 # PLAYERS, DO NOT READ THIS
 ---
 
----
-# PLAYERS, DO NOT READ THIS
----
-
----
-# PLAYERS, DO NOT READ THIS
----
-
----
-# PLAYERS, DO NOT READ THIS
----
-
----
-# PLAYERS, DO NOT READ THIS
----
-
----
-# PLAYERS, DO NOT READ THIS
----
-
----
-# PLAYERS, DO NOT READ THIS
----
-
 ## The Meeting of the Five Nations
 - Representatives from each 5 nations gather in [[Opira]] to discuss planning the Opirian Canal
 	- Possible/specifc investments from the other 4 nations

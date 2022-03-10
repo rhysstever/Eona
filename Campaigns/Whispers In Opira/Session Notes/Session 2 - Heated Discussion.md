@@ -42,9 +42,12 @@ PCs:
 - Myrdin and Jason help R and Thestros out of the room 
 - When Jason is not looking, R leaves the hallway 
     - He goes to his room, gets his things, and then sneaks out of castle
+	    - Finds a [[Clues#Three-Digit Number Series | Three-Digit Number Series]] clue in his things 
+	- R had written a letter to his mother about what happened and included Valor's ring and his own in the letter
+	- R gets decently drunk at a nearby bar, then hides out in the empty [[Stone's Stones]]
 - Myrdin and Jason help Thestros into his room, talk about what to do next
-- After Thestros goes to sleep, Jason sneaks out of the castle thr his room and meets R at [[Stone's Stones]]
-- Jason convinces R to come back to the castle
-- R goes to bed and Jason rejoins Myrdin in Thestros's room
+- After Thestros goes to sleep, Jason sneaks out of the castle thr his room and finds R at [[Stone's Stones]]
+	- Jason eventually convinces R to come back to the castle
+	- R goes to bed and Jason rejoins Myrdin in Thestros's room
 
 #Session_Notes

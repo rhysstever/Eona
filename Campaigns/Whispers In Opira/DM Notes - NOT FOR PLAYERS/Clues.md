@@ -1,6 +1,18 @@
 # Clues
+A page to help me organize all the clues I create and give to the party.
+
+---
+# PLAYERS, DO NOT READ THIS
+---
+---
+# PLAYERS, DO NOT READ THIS
+---
+---
+# PLAYERS, DO NOT READ THIS
+---
+
 ## [[Black Rose]] Agent Clues
-### Three-Digit Numbers
+### Three-Digit Number Series
 Status: Code Given, Solvable
 
 Code: `325 121 131 828 132 146 131 132 413 241 413 413 521 241`  
@@ -17,7 +29,7 @@ Result: `NOTWHATHESEEMS`
 Details: 
 - Code slipped into [[Arthic Daeren]]'s things during the meeting, before the explosion
 
-### Two-Digit Numbers
+### Two-Digit Number Series
 Status: Code NOT Given  
 
 Code: `55 11 15 23 51 25 42 52 41 31 42 24 32 44`  
@@ -34,31 +46,39 @@ Result: `YOUHAVEFRIENDS`
 Details: 
 - Slipped to [[Jason Stonewall]] in a crowded area
 
-## Riddle
-Status: To Be Created
-
-Riddle  
-'Who to trust, who to fear,
-The pen is mightier than the spear.
-Scheming in the shadows, more than a bribe,
-For what to know, look to the scribe.'
-
-Details: 
-- TODO: How the riddle is given
-- Hints at info hidden in the attendance list
-
 ## [[Order of Whispers]] Agent Clues
-### Polybius Cipher
-- Has a polybius cipher on person, used for  [[Clues#Two-Digit Numbers | Two-Digit Numbers]] clue
-
 ### Book of Secrets
 - Only those who answer correctly can read what’s inside or take 1d10 psychic damage 
 	- TODO Riddle: 
 
+## Unus Clues 
+### Unus List Riddle
+Status: NOT Given
+
+Riddle  
+`Who to trust, who to fear, the pen is mightier than the spear. Whispers in the darkness, more than a mist. Find the scribe, and use their list.`
+
+Details
+- After being resurrected, either [[Sontar Raloran]] or [[Xerthanos Sparklecloak]] hear these words echoed in their minds (depending on if they pledge to Yher or not)
+- Hints at info hidden in the attendance list
+
+
 ## Misc Clues
 ### Security Measures
-- Asking about who checked the meeting room before
-	- Folen Carro was the mage who checked the room
-	- Folen has gone missing and [[Thallan Aera]] impersonated him --> gained access to the meeting room
+- [[Opira]] guards have a Opirian mage sweep the room before the representatives enter
+- Mage name: Folen Carro
+	- Tall human man; quieter personality, took work seriously; talked rarely with other guards; keeps to himself in his small tower (in the keep)
+- After explosion, no longer seen in library, in castle, etc
+	- Does not answer door to room
+- If room checked, will find a disheveled room
+	- Looks like it was ransacked: desk and chair overturned, books thrown off the shelves
+	- Someone was trying to hide information: burned notes and books in the fireplace
+	- High enough investigation check(s)
+		- Small drops of blood on window sill
+		- Piece of parchment intact in the fireplace: a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])
+- Conclusion
+	- Folen had been ambushed in his room
+		- Likely killed 
+	- Someone ([[Thallan Aera]]) impersonated him to gain access to the meeting room, setting up the explosion
 
 #Campaign 
