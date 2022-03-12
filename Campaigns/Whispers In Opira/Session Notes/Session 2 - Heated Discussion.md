@@ -46,6 +46,7 @@ PCs:
 	- R had written a letter to his mother about what happened and included Valor's ring and his own in the letter
 	- R gets decently drunk at a nearby bar, then hides out in the empty [[Stone's Stones]]
 - Myrdin and Jason help Thestros into his room, talk about what to do next
+- Myrdin searches the study in Thestros's room, finding the [[Clues#Hidden Wax Seal Stamp | Hidden Wax Seal Stamp]]
 - After Thestros goes to sleep, Jason sneaks out of the castle thr his room and finds R at [[Stone's Stones]]
 	- Jason eventually convinces R to come back to the castle
 	- R goes to bed and Jason rejoins Myrdin in Thestros's room

@@ -81,4 +81,10 @@ Details
 		- Likely killed 
 	- Someone ([[Thallan Aera]]) impersonated him to gain access to the meeting room, setting up the explosion
 
+### Hidden Wax Seal Stamp
+Status: Found, by [[Myrdin Craynore]]
+
+- A wax seal stamp with the image of an envelope with a dagger
+- Hidden in the desk in the study of [[Thestros Yhora III]]
+
 #Campaign 

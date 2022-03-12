@@ -14,7 +14,7 @@ To the common citizen, the Yhorian Empire is a strong, extensive governing body 
 From its inception, the Yhorian Empire has been able to flourish and be a major nation of [[Ezavriel]]. Its immense military power and vast trade networks allow the state to maintain its dominant presence. Dreams of full continental control dance in the minds of every member of the Yhora family. While they wish to eventually rule all across [[Ezavriel]], the royal family recognizes the use of other nations. 
 
 ## Key Figures
-### King Xuan Vander Yhora
+### [[King Xuan Vander Yhora]]
 Male High Elf, Lawful Neutral
 
 ### Queen Nalankilli Yhora
