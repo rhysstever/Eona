@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md",
+            "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345
+    "width": 334
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md",
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md",
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md",
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md"
+                "file": "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md"
               }
             }
           }
@@ -227,15 +227,15 @@
   },
   "active": "d64686c54450f070",
   "lastOpenFiles": [
-    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Chatter in the Walls.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
+    "Religion/Deities of Eona.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
     "People/NPCs/Thestros Yhora III.md",
     "Nations/Yhorian Empire.md",
     "People/NPCs/King Xuan Vander Yhora.md",
-    "Settlements/Yhora (City).md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
-    "Religion/Lost Abyss.md"
+    "Settlements/Yhora (City).md"
   ]
 }

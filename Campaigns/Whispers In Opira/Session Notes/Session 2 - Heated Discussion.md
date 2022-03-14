@@ -39,11 +39,14 @@ PCs:
 	- [[Cloud in the Sky]]
 	- [[Valor Daeren]]
 	- [[Yolanda Mei]]
+
+## Coping
+- R grabs Valor's ring and medal off of his body
 - Myrdin and Jason help R and Thestros out of the room 
 - When Jason is not looking, R leaves the hallway 
-    - He goes to his room, gets his things, and then sneaks out of castle
+    - R goes to his room, gets his things, and then sneaks out of castle
 	    - Finds a [[Clues#Three-Digit Number Series | Three-Digit Number Series]] clue in his things 
-	- R had written a letter to his mother about what happened and included Valor's ring and his own in the letter
+	- R writes a letter to his mother about what happened and included Valor's ring (kept the medal)
 	- R gets decently drunk at a nearby bar, then hides out in the empty [[Stone's Stones]]
 - Myrdin and Jason help Thestros into his room, talk about what to do next
 - Myrdin searches the study in Thestros's room, finding the [[Clues#Hidden Wax Seal Stamp | Hidden Wax Seal Stamp]]

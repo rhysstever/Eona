@@ -1,10 +1,12 @@
-# Session 3: Chatter in the Walls
+# Session 3: Questions to be Answered
 
 Date: 3/14/2022  
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], and [[Jason Stonewall]]
 
-## Overview
+## A Little Retconning
 - Rest of [[Yhorian Empire]] guard (about 5) rejoined 
+
+## The Investigation Begins
 - [[Arthic Daeren]], [[Jason Stonewall]], and [[Myrdin Craynore]] are brought in by Opirian guards for questioning 
 	- When they arrived
 	- Any suspicious activity by anyone since they arrived 
