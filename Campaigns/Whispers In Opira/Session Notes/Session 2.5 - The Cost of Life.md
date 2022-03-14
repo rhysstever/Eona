@@ -7,8 +7,8 @@ Notable Entities: [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing
 ## A Deal with Divinity
 - Both "wake up" in a main walkway in the [[Eternal Athenaeum]] 
 	- Notice they are ethereal, not in solid bodies --> they are their souls
-- Booming, deafening voice comes over them, that only they can hear, Unus
-- Has taken interest in them: wants to extend their life so they can continue Unus's work
+- Booming, deafening voice comes over them, that only they can hear
+- Unus has taken interest in them: wants to extend their life so they can continue Unus's work
 	- "As followers of me, I watched over you and saw your final moments. I saw you each selflessly put yourself in front of another- putting your own life out for someone you cared about. And that is what caught my interest."
 	- "The world needs more selfless lives such as yourselves. With the help of Yher, you both will be able to return to your world, for a short while. As you know, there is a great evil on the loose and it needs to be stopped before more hurt is done."
 	- "That is, of course, if you wish to do so. You may allow your soul to rest and remain here, in the [[Eternal Athenaeum]] with all of the other followers of Unus from the beginning of time." 
