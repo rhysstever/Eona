@@ -1,7 +1,8 @@
 # Session 3: Questions to be Answered
 
-Date: 3/14/2022  
-Players: [[Myrdin Craynore]], [[Arthic Daeren]], and [[Jason Stonewall]]
+Date: 3/DD/2022  
+Players: [[Myrdin Craynore]], [[Arthic Daeren]], and [[Jason Stonewall]]  
+Notable Entities: 
 
 ## A Little Retconning
 - Rest of [[Yhorian Empire]] guard (about 5) rejoined 

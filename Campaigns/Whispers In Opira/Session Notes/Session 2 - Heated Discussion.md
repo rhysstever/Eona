@@ -1,7 +1,8 @@
 # Session 2: Heated Discussion
 
 Date: 2/20/2022  
-Players: [[Myrdin Craynore]], [[Jason Stonewall]], [[Arthic Daeren]], [[Sontar Raloran]], and [[Xerthanos Sparklecloak]]
+Players: [[Myrdin Craynore]], [[Jason Stonewall]], [[Arthic Daeren]], [[Sontar Raloran]], and [[Xerthanos Sparklecloak]]  
+Notable Entities: [[Thestros Yhora III]]
 
 ## Explosion
 ### Actions

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d64686c54450f070",
+        "id": "7be7542c4203a50e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -223,19 +223,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
-  "active": "d64686c54450f070",
+  "active": "7be7542c4203a50e",
   "lastOpenFiles": [
     "Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
     "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
     "Religion/Deities of Eona.md",
+    "Religion/Lost Abyss.md",
+    "Religion/Eternal Atrium.md",
     "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
     "People/NPCs/Thestros Yhora III.md",
-    "Nations/Yhorian Empire.md",
-    "People/NPCs/King Xuan Vander Yhora.md",
-    "Settlements/Yhora (City).md"
+    "Nations/Yhorian Empire.md"
   ]
 }
