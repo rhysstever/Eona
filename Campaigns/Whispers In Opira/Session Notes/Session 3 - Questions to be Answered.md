@@ -16,4 +16,7 @@ Notable Entities:
 	- First: to his brother, [[King Xuan Vander Yhora]], about all the events that transpired and recommendation for actions that should be taken in response (mainly denouncing the [[Opirian Alliance]] for their failed security measures)
 	- Second (secretive): to his connection of [[Order of Whispers]] about the explosion, growing distrust, and possibly being exposed
 
+## Ghosts of Kandallo
+- 
+
 #Session_Notes
