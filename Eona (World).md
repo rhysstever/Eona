@@ -1,6 +1,4 @@
 # Eona
-The world
-
 ## Continents
 ### Ezavriel
 [[Ezavriel]] is located in the northern hemisphere of Eona.
@@ -10,5 +8,20 @@ The world
 
 ## Religion
 The [[Deities of Eona]] is the pantheon worshipped within the world. It contains 17 deities, each harboring power in their own, unique domain. 
+
+## Calendar
+Below is outlined the calendar of Eona. Each of four seasons can be broken in half into two months. Each month 30 days and named after a deity: based on what is valued during the time of the year.
+
+Season | Month | Notes
+------ | ----- | -----
+Spring | Ovarum | Month of Ovara, life and growth
+Spring | Atay | Month of Atal and the sun
+Summer | Vhorum | Month of Vhord and strength
+Summer | Meralum | Month of Meralin and magic
+Autumn | Eonum | Month of Eona, creation, and harvest
+Autumn | Unum | Month of Unus, knowledge, and learning
+Winter | Yhurne | Month of Yher and darkness
+Winter | Thorum | Month of Thoros, justice, and reflection
+
 
 #World

@@ -16,7 +16,7 @@ Kyen the Blood-driven | vengeance and anarchy | CN | A mask and dagger
 Meralin the Wild Mage | magic | N | A circle of two four-pointed stars
 Nokzol the Oppressor | tyranny | LE | Crossed chains
 Oros the Undying Deity | the undead and decay | NE | A partially corroded skull 
-Ovaira the Lifebringer | life and growth | CG | A tree with a thick canopy
+Ovara the Lifebringer | life and growth | CG | A tree with a thick canopy
 Thoros the Ultimate Judge | justice | LN | A balanced scale
 Unus the All-Knowing | knowledge | NG | An open tome
 Vhord the Warrior | war | LN | Two crossed swords over a shield
@@ -26,7 +26,7 @@ Zaas the Whispered One | secrets | CE | A blood-splattered envelope
 ### Alignments
 --- | Lawful | Neutral | Chaotic
 --- | ------ | ------- | -------
-**Good** | Eona the Creator | Atal the All-Bright <br><br> Unus the All-Knowing | Ovaira the Lifebringer
+**Good** | Eona the Creator | Atal the All-Bright <br><br> Unus the All-Knowing | Ovara the Lifebringer
 **Neutral** | Thoros the Ultimate Judge<br><br> Vhord the Warrior | Meralin the Wild Mage <br><br> Yher the Dark One | Kyen the Blood-driven
 **Evil** | Nokzol the Opressor | Kremmel the City Slayer <br><br> Oros the Undying One | Zaas the Whispered Ones
 
@@ -94,8 +94,8 @@ Nokzol is a greater deity of tyranny.
 
 Oros is a greater deity of the undead and decay. 
 
-### Ovaira the Lifebringer
-**Pronunciation:** (oh-v-AIR-a)  
+### Ovara the Lifebringer
+**Pronunciation:** (oh-var-a)  
 **Alignment:** CG  
 **Symbol:** A tree with a thick canopy  
 **Possible Domains:** Life, Light, Nature, Tempest  
