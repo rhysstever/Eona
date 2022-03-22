@@ -13,10 +13,6 @@ A page to help me organize all the clues I create and give to the party.
 
 ## [[Black Rose]] Agent Clues
 ### Three-Digit Number Series
-Status: Code Given, Solvable
-
-Code: `325 121 131 828 132 146 131 132 413 241 413 413 521 241`  
-
 Process
 - Ottendorf cipher
 - Each 3-digit number represents a letter
@@ -24,16 +20,19 @@ Process
 - Key: List of Attendees 
 - https://observablehq.com/d/9afd1c4a2dfff6a7
 
-Result: `NOTWHATHESEEMS`
+**Warning Clue**  
+Status: Given, Solved  
+Code: `325 121 131 828 132 146 131 132 413 241 413 413 521 241`  
+Result: `NOTWHATHESEEMS`  
+Details: Code placed with [[Arthic Daeren]]'s things during the meeting, before the explosion
 
-Details: 
-- Code slipped into [[Arthic Daeren]]'s things during the meeting, before the explosion
+**Friend Clue**  
+Status: Given, Solved  
+Code: `421 121 111 132 146 611 413 146 927 144 143 413 325 516`  
+Result: `YOUHAVEAFRIEND`  
+Details: Code slipped to [[Jason Stonewall]] as he's leaving the interrogation room
 
 ### Two-Digit Number Series
-Status: Code NOT Given  
-
-Code: `55 11 15 23 51 25 42 52 41 31 42 24 32 44`  
-
 Process
 - Polybius cipher  
 - Each 2-digit number represents a letter
@@ -41,10 +40,14 @@ Process
 - Key: 5 x 5 grid of letters (Y/Z share 5,5)
 - https://observablehq.com/d/c166da6dd172e20d
 
-Result: `YOUHAVEFRIENDS`
+**Kill Order**  
+Status: NOT Given, Needs key (see [[Clues#Security Measures]])
+Code: `32 31 44 21 11 44 42 11 52 52 11 53 42 24`  
+Result:  `DISPOSEOFFOLEN`
 
 Details: 
-- Slipped to [[Jason Stonewall]] in a crowded area
+- Written in [[Thestros Yhora III]]'s letter to the [[Order of Whispers]]
+- Refers to Folen (Folen Carro), the mage 
 
 ## [[Order of Whispers]] Agent Clues
 ### Book of Secrets
@@ -75,7 +78,16 @@ Details
 	- Someone was trying to hide information: burned notes and books in the fireplace
 	- High enough investigation check(s)
 		- Small drops of blood on window sill
-		- Piece of parchment intact in the fireplace: a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])
+		- Piece of parchment intact in the fireplace: a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])  
+
+ x | 1 | 2 | 3 | 4 | 5
+ -- | - | - | - | - | -
+ 1 | O | P | I | R | A
+ 2 | B | C | D | E | F
+ 3 | G | H | J | K | L
+ 4 | M | N | Q | S | T
+ 5 | U | V | W | X | Y/Z
+ 
 - Conclusion
 	- Folen had been ambushed in his room
 		- Likely killed 

@@ -20,7 +20,7 @@ Ovara the Lifebringer | life and growth | CG | A tree with a thick canopy
 Thoros the Ultimate Judge | justice | LN | A balanced scale
 Unus the All-Knowing | knowledge | NG | An open tome
 Vhord the Warrior | war | LN | Two crossed swords over a shield
-Yher the Dark One | death and darkness | N | The moon and scythe
+Yher the Dark One | death and darkness | N | A gravestone's silhouette in a full moon
 Zaas the Whispered One | secrets | CE | A blood-splattered envelope
 
 ### Alignments
@@ -133,7 +133,7 @@ Vhord is a greater deity of war.
 ### Yher the Dark One
 **Pronunciation:** (yer)  
 **Alignment:** N  
-**Symbol:** A crescent moon  
+**Symbol:** A gravestone's silhouette in a full moon  
 **Possible Domains:** Death, Nature, Tempest, Twilight  
 **Other Titles:** the Final Visitor  
 
