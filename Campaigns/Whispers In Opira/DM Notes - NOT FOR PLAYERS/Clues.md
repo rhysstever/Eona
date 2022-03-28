@@ -41,13 +41,22 @@ Process
 - https://observablehq.com/d/c166da6dd172e20d
 
 **Kill Order**  
-Status: NOT Given, Needs key (see [[Clues#Security Measures]])
+Status: Not found, Needs key (see [[Clues#Security Measures]])
 Code: `32 31 44 21 11 44 42 11 52 52 11 53 42 24`  
 Result:  `DISPOSEOFFOLEN`
 
 Details: 
 - Written in [[Thestros Yhora III]]'s letter to the [[Order of Whispers]]
 - Refers to Folen (Folen Carro), the mage 
+
+**Kill Report**  
+Status: Not found, Needs key (see [[Clues#Security Measures]])  
+Code: `11 41 32 42 41 22 11 14 21 53 42 54 42 32`  
+Result: `ORDERCOMPLETED`  
+
+Details: 
+- Written to [[Thestros Yhora III]] the morning after the **Kill Order** letter 
+- Signed `11 11 35` (OOW) aka Order of Whispers 
 
 ## [[Order of Whispers]] Agent Clues
 ### Book of Secrets

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md",
+            "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md",
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md"
+                "file": "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md"
               }
             }
           }
@@ -228,15 +228,15 @@
   },
   "active": "3f6c7571040fbdf4",
   "lastOpenFiles": [
-    "Campaigns/Whispers In Opira/Session Notes/Session 4 -.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
+    "Eona (World).md",
+    "Campaigns/Whispers In Opira/Session Notes/Session 4 - On the Trail.md",
+    "Religion/Deities of Eona.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Images/OrderOfWhispersAgentMask.webp",
     "Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
     "Untitled.md",
     "Nations/Kandallo.md",
-    "Eona (World).md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md"
+    "Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md"
   ]
 }
