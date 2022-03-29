@@ -20,23 +20,41 @@ Process
 - Key: List of Attendees 
 - https://observablehq.com/d/9afd1c4a2dfff6a7
 
-**Warning Clue**  
+**Warning Message**  
 Status: Given, Solved  
 Code: `325 121 131 828 132 146 131 132 413 241 413 413 521 241`  
+Key: List of Attendees  
 Result: `NOTWHATHESEEMS`  
 Details: Code placed with [[Arthic Daeren]]'s things during the meeting, before the explosion
 
-**Friend Clue**  
+**Friend Message**  
 Status: Given, Solved  
 Code: `421 121 111 132 146 611 413 146 927 144 143 413 325 516`  
+Key: List of Attendees  
 Result: `YOUHAVEAFRIEND`  
 Details: Code slipped to [[Jason Stonewall]] as he's leaving the interrogation room
 
-**Answers Clue**  
+**Answers Message**  
 Status: Given, Solved  
 Code: `927 121 212 413 325 132 146 241 241 121 521 413 146 325 241 828 413 144 241`  
+Key: List of Attendees  
 Result: `FOLENHASSOMEANSWERS`  
 Details: Found by [[Jason Stonewall]] in the night 
+
+**Key Change Message**  
+Status: NOT Given, To be Solved  
+Code: `472 121 144 147 143 147 112 147 133 828 241 113 215 143 122 122 133 144 133 147 131 131 111 147 133 131 143 472 133 122 121 144 113 242 133 243 157 132 113 147 112 133`  
+Key: List of Attendees  
+Result: `MORNINGNEWSADIFFERENTTUNETIMEFORAKEYCHANGE`  
+Details: Slipped into a letter R receives 
+
+**Meetup Message**  
+Status: NOT Given, To be Solved  
+Code: `113 141 142 181 175 196 115 142 114 181 111 175 196 1118 141 113 141 197 141 132 114 1114 115 131 113 1118 141 141 196 1201 197 111`  
+Key: Town Crier News on Day 21  
+Result: `TOMEETAFRIENDGOTOYOURLASTGOODBYE`  
+Details: Slipped into a letter R receives (same as **Key Change Message**) 
+
 
 ### Two-Digit Number Series
 Process
