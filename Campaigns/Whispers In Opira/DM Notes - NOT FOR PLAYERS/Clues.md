@@ -32,6 +32,12 @@ Code: `421 121 111 132 146 611 413 146 927 144 143 413 325 516`
 Result: `YOUHAVEAFRIEND`  
 Details: Code slipped to [[Jason Stonewall]] as he's leaving the interrogation room
 
+**Answers Clue**  
+Status: Given, Solved  
+Code: `927 121 212 413 325 132 146 241 241 121 521 413 146 325 241 828 413 144 241`  
+Result: `FOLENHASSOMEANSWERS`  
+Details: Found by [[Jason Stonewall]] in the night 
+
 ### Two-Digit Number Series
 Process
 - Polybius cipher  

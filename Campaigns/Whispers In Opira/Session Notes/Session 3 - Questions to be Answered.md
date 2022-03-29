@@ -4,6 +4,8 @@ Date: 3/21/2022
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 Notable Entities: [[Thestros Yhora III]]
 
+In-Game Date: Day 19 of Eonum, 1452
+
 ## A Little Retconning
 - Rest of [[Yhorian Empire]] guard (about 5) rejoined 
 
@@ -43,5 +45,6 @@ Notable Entities: [[Thestros Yhora III]]
 		- "Extra! Extra! Attack on meeting in Opirian Keep. Explosion set off in main chamber, killing or injuring everyone in attendance. Yhorian Empire's Master of Transport and Assistant to Coin among the deceased. No suspects known."
 - R splits from the group and asks around the keep to see if any reply to "Not what he seems"
 	- Writes a letter to Sontar asking about learning more about Unus
+- R writes Sontar a letter about being a follower of Unus
 
 #Session_Notes
