@@ -1,4 +1,4 @@
-# Session 4.5 - More Expectations, More Paperwork
+# Session 4.5 - New Expectations
 
 Date: 03/30/2022  
 Players: [[Arthic Daeren]]

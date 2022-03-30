@@ -1,6 +1,6 @@
 # Session 5 - 
 
-Date: 04/11/2022  
+Date: 04/DD/2022  
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 
 In-Game Date: Day 20-21 of Eonum, 1452
