@@ -16,10 +16,6 @@ In-Game Date: Day 20 of Eonum, 1452
 	- Apologizes about the death of [[Valor Daeren]]
 	- Neither responds to the phrases "you have a friend" nor "not what he seems"
 	- Talk about Opirian investigation 
-- Keysys
-	- 
-- Fano
-	- 
 
 
 #Session_Notes

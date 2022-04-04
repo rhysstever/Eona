@@ -42,7 +42,7 @@ Result: `FOLENHASSOMEANSWERS`
 Details: Found by [[Jason Stonewall]] in the night 
 
 **Key Change Message**  
-Status: NOT Given, To be Solved  
+Status: Given, To be Solved  
 Code: `472 121 144 147 143 147 112 147 133 828 241 113 215 143 122 122 133 144 133 147 131 131 111 147 133 131 143 472 133 122 121 144 113 242 133 243 157 132 113 147 112 133`  
 Key: List of Attendees  
 Result: `MORNINGNEWSADIFFERENTTUNETIMEFORAKEYCHANGE`  
@@ -74,12 +74,13 @@ Details:
 - Refers to Folen (Folen Carro), the mage 
 
 **Kill Report**  
-Status: Not found, Needs key (see [[Clues#Security Measures]])  
-Code: `11 41 32 42 41 22 11 14 21 53 42 54 42 32`  
-Result: `ORDERCOMPLETED`  
+Status: Found, Needs key (see [[Clues#Security Measures]])  
+Code: `52 11 53 42 24`  
+Result: `FOLEN`  
 
 Details: 
 - Written to [[Thestros Yhora III]] the morning after the **Kill Order** letter 
+- With code solved, implies Folen was "take care of" and refers to him as a defect in a shipment
 - Signed `11 11 35` (OOW) aka Order of Whispers 
 
 ## [[Order of Whispers]] Agent Clues
