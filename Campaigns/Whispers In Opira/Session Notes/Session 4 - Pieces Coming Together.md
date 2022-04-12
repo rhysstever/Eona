@@ -24,7 +24,7 @@ In-Game Date: Day 20 of Eonum, 1452
 - End of both visions: Both have their visions reopen to the vision of Yher once more, a massive full moon behind a lone gravestone atop a small hill
 
 ## More Investigating
-- Jason searches the keep at night and finds another code: the **Aanswers Clue** 
+- Jason searches the keep at night and finds another code: the **Answers Clue** 
 - Xerthanos and Sontar try to leave the keep to visit a library, rejected by guards, tho told the guards have a strong lead
 	- Talked to their elders to analyze their dreams wondered how Zaas is connected
 - Jason shows Myrdin and R the code he found overnight; R gives the key to Jason to figure it out

@@ -112,7 +112,7 @@ Details
 	- Someone was trying to hide information: burned notes and books in the fireplace
 	- High enough investigation check(s)
 		- Small drops of blood on window sill
-		- Piece of parchment intact in the fireplace: a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])  
+		- Piece of parchment intact in the fireplace: a slightly burn page that has a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])  
 
  x | 1 | 2 | 3 | 4 | 5
  -- | - | - | - | - | -

@@ -1,7 +1,8 @@
 # Session 4.5 - New Expectations
 
 Date: 03/30/2022  
-Players: [[Arthic Daeren]]
+Players: [[Arthic Daeren]]  
+Notable Entities: [[Keysys Starriver]] and [[Archpriest Fano]]
 
 In-Game Date: Day 20 of Eonum, 1452
 
