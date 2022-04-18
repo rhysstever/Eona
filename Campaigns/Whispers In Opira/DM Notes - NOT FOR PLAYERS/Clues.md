@@ -46,14 +46,24 @@ Status: Given, To be Solved
 Code: `472 121 144 147 143 147 112 147 133 828 241 113 215 143 122 122 133 144 133 147 131 131 111 147 133 131 143 472 133 122 121 144 113 242 133 243 157 132 113 147 112 133`  
 Key: List of Attendees  
 Result: `MORNINGNEWSADIFFERENTTUNETIMEFORAKEYCHANGE`  
-Details: Slipped into a letter R receives 
+Details: Slipped into a letter [[Arthic Daeren]] receives 
+
+**Morning Alert Message**  
+Status: NOT Given, To be Solved  
+Code: `142 141 1114 111 175 181 175 113 114 141 132 1201 1114 111 131 141 1153 111 113 1112 181 175 1118 1112 115 134 134 111 175 181 175 1118 131 113 115 197 115 1114 111 114 113 1153 111 111 113 131 141 141 175`  
+Key: Town Crier News on Day 21  
+Result: `FOLENINTROUBLESOMETHINGHAPPENINGSTAYALERTMEETSOON`  
+Details: 
+- A letter addressed to [[Arthic Daeren]], written to [[Jason Stonewall]]
+- Signed with a fancy "BR"
 
 **Meetup Message**  
 Status: NOT Given, To be Solved  
 Code: `113 141 142 181 175 196 115 142 114 181 111 175 196 1118 141 113 141 197 141 132 114 1114 115 131 113 1118 141 141 196 1201 197 111`  
 Key: Town Crier News on Day 21  
 Result: `TOMEETAFRIENDGOTOYOURLASTGOODBYE`  
-Details: Slipped into a letter R receives (same as **Key Change Message**) 
+Details: 
+
 
 
 ### Two-Digit Number Series
