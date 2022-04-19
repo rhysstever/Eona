@@ -64,8 +64,6 @@ Key: Town Crier News on Day 21
 Result: `TOMEETAFRIENDGOTOYOURLASTGOODBYE`  
 Details: 
 
-
-
 ### Two-Digit Number Series
 Process
 - Polybius cipher  

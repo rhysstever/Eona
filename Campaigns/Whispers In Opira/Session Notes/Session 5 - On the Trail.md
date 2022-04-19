@@ -23,6 +23,7 @@ In-Game Date: Day 20 of Eonum, 1452
 - R asks an Opirian guard, Alwin, about talking to Uga and where Folen is, while Myrdin checks outside
 - R talks to Thestros and gives him the response letter
 - Everyone regroups (except for Xerthanos ("Coat-thanos")) in Myrdin's room
+	- Xerthanos writes “R must stand for Really Awesome -Xerthanos, the Leonin” on R's mirror in illusionary script
 - Sontar goes back to his room to pray to Yher
 	- Asks for another vision
 

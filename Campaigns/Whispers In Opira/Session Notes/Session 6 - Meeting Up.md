@@ -15,8 +15,7 @@ In-Game Date: Day 21 of Eonum, 1452
 - DC 15 to pick lock
 - Appears as a well-organized, put together study
 - A large window that illuminates the room, nice dark blue drapes, matching rug - a cozy, isolated room
-- Shelves built into the wall
-- Small shrine to [[Deities of Eona#Meralin the Wild Mage | Meralin]]
+- Shelves built into the wall, small shrine to [[Deities of Eona#Meralin the Wild Mage | Meralin]]
 - DC 20 investigation check reveals a couple drops of blood on the rug
 
 ## Midday Notice
