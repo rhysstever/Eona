@@ -2,7 +2,7 @@
 
 Date: 2/20/2022  
 Players: [[Myrdin Craynore]], [[Jason Stonewall]], [[Arthic Daeren]], [[Sontar Raloran]], and [[Xerthanos Sparklecloak]]  
-Notable Entities: [[Thestros Yhora III]]
+Notable NPCs: [[Thestros Yhora III]]
 
 In-Game Date: Day 18 of Eonum, 1452
 

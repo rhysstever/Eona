@@ -2,7 +2,7 @@
 
 Date: 03/30/2022  
 Players: [[Arthic Daeren]]  
-Notable Entities: [[Keysys Starriver]] and [[Archpriest Fano]]
+Notable NPCs: [[Keysys Starriver]] and [[Archpriest Fano]]
 
 In-Game Date: Day 20 of Eonum, 1452
 

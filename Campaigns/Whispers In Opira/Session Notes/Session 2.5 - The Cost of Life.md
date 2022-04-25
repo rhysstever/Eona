@@ -2,7 +2,7 @@
 
 Date: 3/14/2022  
 Players: [[Sontar Raloran]] and [[Xerthanos Sparklecloak]]  
-Notable Entities: [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing]], [[Deities of Eona#Yher the Dark One | Yher, the Dark One]], [[Rolin Sparkleweaver]], and [[Ailin Wanderfoot]]
+Notable NPCs: [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing]], [[Deities of Eona#Yher the Dark One | Yher, the Dark One]], [[Rolin Sparkleweaver]], and [[Ailin Wanderfoot]]
 
 ## A Deal with Divinity
 - Both "wake up" in a main walkway in the [[Eternal Atrium]] 
