@@ -13,6 +13,7 @@ In-Game Date: Day 21 of Eonum, 1452
 ## Order of Whispers Ritual
 - Thallan leads a ritual for [[Deities of Eona#Zaas the Whispered One | Zaas, the Whispered One]] 
 
+> 
 > We call out to the deities of Eona, to recognize those who have been ignored until now:
 > 
 > The Whispered One, the keeper of secrets. Leering around corners, sulking in alleyways, collecting knowledge only known to few. We worship you and live by your values. You showed us the evils of worldly governments, showed us why no one deserves such power. 
@@ -26,6 +27,7 @@ In-Game Date: Day 21 of Eonum, 1452
 > We stand before you, with four silenced souls. Gatherers of knowledge, prized officials, and spreaders of information. 
 > 
 > We stand before you, with two more souls. Condemned for their values of knowledge. May you collect their souls and silence them for eternity. 
+> 
 
 - Thallan moves to sacrifice Jason and Sontar
 	- Pries open their mouth, cuts out their tongues

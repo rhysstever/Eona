@@ -16,7 +16,7 @@ In-Game Date: Day 21 of Eonum, 1452
 - Appears as a well-organized, put together study
 - A large window that illuminates the room, nice dark blue drapes, matching rug - a cozy, isolated room
 - Shelves built into the wall, small shrine to [[Deities of Eona#Meralin the Wild Mage | Meralin]]
-- DC 20 investigation check reveals a couple drops of blood on the rug
+- DC 20 investigation check reveals a hidden textbook with the Polybius cipher stuffed in it
 
 ## Midday Notice
 - "Meetup Message" arrives to the Yhorian Empire
