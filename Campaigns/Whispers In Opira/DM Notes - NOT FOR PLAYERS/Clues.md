@@ -91,11 +91,6 @@ Details:
 - With code solved, implies Folen was "take care of" and refers to him as a defect in a shipment
 - Signed `11 11 35` (OOW) aka Order of Whispers 
 
-## [[Order of Whispers]] Agent Clues
-### Book of Secrets
-- Only those who answer correctly can read what’s inside or take 1d10 psychic damage 
-	- TODO Riddle: 
-
 ## Unus Clues 
 ### Unus List Riddle
 Status: NOT Given

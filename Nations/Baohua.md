@@ -3,6 +3,9 @@ Baohua (B-OW-WHO-A) is a nation in the south eastern desert of [[Ezavriel]]. Its
 
 The Baohuan people deeply cherish their land, history, and customs. Initially meeting someone from Baohua, one would assume they are standoffish. Further contact would reveal, however, that they are a rather proud and stoic people. They rarely show expression, even to those closest to them.
 
+## History
+Baohua_History
+
 ## Goals
 - Allow the people of Baohua to prosper
 - Preserve the history of Baohua, its people, its land, and its culture

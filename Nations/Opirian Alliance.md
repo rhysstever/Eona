@@ -3,6 +3,13 @@ The Opirian (OH-PEER-EE-an) Alliance is a collection of ports in the center of [
 
 Due to the structure of their government, elected officials within the Opirian Alliance extend the goals and values of its citizens. Those raised in the alliance are quickly taught values of fortitude and tirelessness. They believe hard work and determination can achieve any goal. 
 
+## History
+### The Alliance Creation
+
+### The Yhorian-Opirian War
+
+### Post War Alliance
+
 ## Goals
 - Be the center of Ezavrielian trade
 - Financially strengthen each of the major port settlements

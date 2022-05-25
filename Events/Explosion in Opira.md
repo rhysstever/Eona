@@ -1,0 +1,11 @@
+# Explosion in Opira
+On the 18th of Eonum, 1452, representatives from each major nation in Ezavriel: Yhorian Empire, Opirian Alliance, Kandallo, Baohua, and Wayward Coast gather in Opira to discuss a financial opportunity. Whist meeting, a large explosion goes off in the room, killing some representatives and greatly hurting others. 
+
+Among the deceased include: 
+- [[Yolanda Mei]] of the [[Yhorian Empire]]
+- [[Valor Daeren]] of the [[Yhorian Empire]]
+- [[Cloud in the Sky]] of the [[Opirian Alliance]]
+- [[Sontar Raloran]] of [[Kandallo]]
+- [[Xerthanos Sparklecloak]] of [[Kandallo]]
+
+#Event

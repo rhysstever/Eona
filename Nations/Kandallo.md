@@ -3,6 +3,14 @@ Kandallo (KAHN-DOL-O) is the northwest nation of [[Ezavriel]]. Its capital is [[
 
 Kandallans value imagination and free-spiritedness. Due to Kandallo's location, the nation faces occasional extreme weather from the North Sea. This requires many settlements, even [[Ithilmore]], to rebuild. While most cultures could not sustain such rebuilding, the Kandallans have learned over the generations to use the Willowdust Woods as a natural protection.  
 
+## History
+### The Settlement 
+
+### Reaching Out Up North 
+In YEAR, shortly after the [[Explosion in Opira]], the Assistant to the Elder of Knowledge: [[Sontar Raloran]], led an expedition to reopen communication with the underdark folk that lived to the north of [[Ithilmore]]. Deep in the mountains lived numerous colonies. 
+
+Rather than extending their control and conquering these colonies, the Kandallan people decided to lend a hand to work together. They offered resources and services accessible from the surface. In return, the underdark folk shared their own resources with Kandallo. Unbeknownst to anyone on the surface, the mountains contained large veins of MINERAL_NAME. MINERAL_NAME is a innately magical mineral. In large quantities, can be FLIGHT
+
 ## Goals
 - Preserve the life and history of the Kandallian people
 - Support all life so it can thrive and prosper 

@@ -3,6 +3,20 @@ The Yhorian (y-OR-EE-an) Empire is the largest and most dominate nation in [[Eza
 
 The Yhoras have been able to create a stable life for many throughout their empire. Distracted by prospering settlements and thriving trade, the average commoner has forgotten the bloodied history when the Yhora family first rose to power. As long as the empire continues to flourish, the general view of the royal family remains in good light. There will always be those eagerly awaiting their downfall, but that is natural when it comes to long-standing forms of authority. 
 
+## History
+### The Rise of the Yhorian Empire
+- Grandfather of Yhorian family
+- Establishes city of [[Yhora (City) | Yhora]] 
+- Increases influence throughout the continent
+
+### The Yhorian-Opirian War
+The [[Yhorian-Opirian War]] was a war between the [[Opirian Alliance]] and the [[Yhorian Empire]]. It began in YEAR and ended in YEAR, lasting YEARS. 
+
+Ultimately, the [[Opirian Alliance]] utilized its naval power and outmaneuvered the [[Yhorian Empire]]. Pushing their forces all the way back to their capital, [[Yhora (City) | Yhora]]. 
+
+### The Fall of the Yhorian Empire 
+The [[Yhorian-Opirian War]] marked the end of the [[Yhorian Empire]]. What started as a expansive nation that controlled much of [[Ezavriel]], shriveled to a single remaining city. 
+
 ## Goals
 - Support the Yhorian Empire so its citizens can prosper
 - Expand the Yhorian rule
