@@ -24,7 +24,7 @@ Dex Save total: dmg amount (fire)
 5-9: 86
 4-: 115
 
-### Casualties 
+### Casualties Calculations
 All: https://docs.google.com/spreadsheets/d/1G8PCU5omna1u1ceEeG-qg1Q_hjT9xp0HqklO76mp1GY/edit?usp=sharing
 
 PCs: 

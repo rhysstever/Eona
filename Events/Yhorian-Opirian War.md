@@ -3,17 +3,17 @@
 # Yhorian-Opirian War
 The Yhorian-Opirian War, shortened to the YEOA War ("yee-oh-uh"), lasted from 1453 to YEAR. 
 
-### Cause 
+## Cause 
 Closely related to [[Explosion in Opira]], [[Thestros Yhora III]] was murdered in the dungeons of [[Opira]], the capital of the  [[Opirian Alliance]]. An investigation conducted by the [[Opirian Alliance]] revealed cause from an anarchist group called, the [[Order of Whispers]]. Despite these findings, the [[Yhorian Empire]] held the Opirian officials at fault for Thetros's death. 
 
 As tensions grew between the already rival nations, the [[Yhorian Empire]] soon implemented tariffs on any Opirian imports. Knowing they were the alliance's biggest exporter, the [[Yhorian Empire]] began a economic war to weaken the [[Opirian Alliance]]. These tariffs were later raised to further upset Opirian merchants and traders. 
 
 On the fateful day of DATE, the BOAT_NAME, an Opirian merchant ship, was sailing out of the Sea of Yhor. Before it could even reach the strait to the north, the vessel exploded in a large fireball. Everyone onboard was killed from the blast or drowned in the sea. While the [[Yhorian Empire]] claimed to not be involved, many [[Opirian Alliance]] traders swore it was the empire's retaliation from the [[Explosion in Opira]]. 
 
-### Initial Fighting
+## Initial Fighting
 The beginning of the war was controlled by the [[Yhorian Empire]]. Having forces already present in each of their major towns and cities, the empire could out maneuver and overwhelm any land troops the [[Opirian Alliance]] had. 
 
-### Turning the Tide
+## Turning the Tide
 While the Yhorian military excelled on land, the Opirian forte was the sea. The [[Yhorian Empire]] quickly reinforced its borders and even pushed into the area south of [[Eighwood]], knocking on the door of [[Opira]]. This however, proved to be one of the empire's first major mistakes. Soon after the Yhorian's push to right outside of [[Opira]], Opirian forces were deployed from the north sea. Suddenly, the main Yhorian forces were surrounded with no way out. 
 
 The geographical advantage of the [[Opirian Alliance]] only continued to aid the alliance's war effort. While one Yhorian battalion marched towards [[Opira]], another aimed to take [[Port Qane]]. The plan was to gather in [[Kanta]], march through the [[Empty Valley]], and storm the port city. On paper, this was a great plan. No one uses the [[Empty Valley]], for it was far too dangerous to traverse. The [[Opirian Alliance]] was certainly focused on defending its capital and would not expect a land assault on [[Port Qane]]. The Yhorian officers, however, greatly underestimated the danger the valley posed. They figured they had the strength to plow right through to [[Port Qane]], no matter what hid in the [[Empty Valley]]. 

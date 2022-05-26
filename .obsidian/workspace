@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "665fa6eed6a70fa4",
+        "id": "85f9bb9baedfc74c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POIs/Hungry Expanse.md",
+            "file": "Organizations/_Organization_Template.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "POIs/Hungry Expanse.md",
+                "file": "Organizations/_Organization_Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POIs/Hungry Expanse.md",
+                "file": "Organizations/_Organization_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POIs/Hungry Expanse.md",
+                "file": "Organizations/_Organization_Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POIs/Hungry Expanse.md"
+                "file": "Organizations/_Organization_Template.md"
               }
             }
           }
@@ -226,17 +226,17 @@
     "width": 411,
     "collapsed": true
   },
-  "active": "665fa6eed6a70fa4",
+  "active": "85f9bb9baedfc74c",
   "lastOpenFiles": [
-    "POIs/Hungry Expanse.md",
-    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
-    "Settlements/Adaham.md",
-    "Events/Explosion in Opira.md",
-    "Events/Discovery of the Khitonian River.md",
-    "Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
-    "Images/WiO_Explosion_Results.png",
-    "Events/Yhorian-Opirian War.md",
+    "Organizations/_Organization_Template.md",
+    "Organizations/Black Rose.md",
+    "Organizations/Order of Whispers.md",
     "Nations/Yhorian Empire.md",
-    "Timeline of Ezavriel.md"
+    "Nations/Opirian Alliance.md",
+    "Nations/Baohua.md",
+    "Nations/_Nation_Template.md",
+    "Events/Yhorian-Opirian War.md",
+    "Events/Explosion in Opira.md",
+    "Events/Discovery of the Khitonian River.md"
   ]
 }
