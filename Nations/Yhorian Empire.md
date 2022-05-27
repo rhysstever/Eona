@@ -1,3 +1,5 @@
+> TODO: History
+
 # Yhorian Empire
 The Yhorian (y-OR-EE-an) Empire is the largest and most dominate nation in [[Ezavriel]]. It has ruled as a monarchy under the Yhora family for over 2000 years. They govern from their home and capital of their empire: [[Yhora (City) | Yhora]].
 
@@ -43,7 +45,7 @@ Male High Elf, Neutral Good
 ### [[Yolanda Mei]], Master of Transport 
 Female Dragonborn, Lawful Neutral
 
-> TODO: 
+> TODO: People
 > - Master of Knowledge
 > - Master of Defense
 > - Master of Magic

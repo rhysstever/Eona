@@ -1,3 +1,5 @@
+> TODO: History
+
 # Opirian Alliance
 The Opirian (OH-PEER-EE-an) Alliance is a collection of ports in the center of [[Ezavriel]]. It is capital is [[Opira]], though other notable settlements in the alliance include [[Yalos]] and [[Port Qane]]. Representatives are elected from each of these major port towns and meet in [[Opira]] to form the Opirian Republic. This governing body makes decision for the entire nation, usually in regards to deals with other nations. 
 

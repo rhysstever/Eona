@@ -4,7 +4,7 @@
 Ezavriel is a large, warm-climate continent, located in the northern hemisphere of [[Eona (World) | Eona]]. It has two major two halves, connected by a single, central isthmus. 
 
 ## History
-> TODO: History
+[[Timeline of Ezavriel]] outlines major events on the continent of [[Ezavriel]]. 
 
 ## Nations
 Five nations occupy the continent of Ezavriel: [[Baohua]], [[Kandallo]], the [[Opirian Alliance]], the [[Wayward Coast]], and the [[Yhorian Empire]]. Each one controls a different territory, utilizing its unique resources to grow and thrive. 

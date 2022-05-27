@@ -1,3 +1,5 @@
+> TODO: History
+
 # Wayward Coast
 The Wayward (WAI-WAR-D) Coast is a small nation on the south western tip of [[Ezavriel]]. The nation controls many small islands throughout the ocean, namely the Wayward Isles. It's capital, [[Esila]], sits on the mainland of [[Ezavriel]]. It is where the Empress and her Archpriests reside. 
 

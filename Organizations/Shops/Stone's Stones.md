@@ -3,7 +3,7 @@
 - **Location**: District, [[Opira]]
 
 ## Appearance
-- Large slabs of 
+- Large slabs of stone for each wall
 
 ## Goods
 - Buys and sells all different types of rocks
@@ -66,8 +66,5 @@ d20 | Stone
 19 | Language Knwoledge (R)
 20 | Self-Preservation (R)
 
-
-## History
-> TODO: History
 
 #Organization 

@@ -1,3 +1,5 @@
+> TODO: Relationships
+
 # Order of Whispers
 The Order of Whispers is a secret organization that worships the evil deity [[Deities of Eona#Zaas the Whispered One | Zaas, the Whispered One]].  
 

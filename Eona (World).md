@@ -3,9 +3,6 @@
 ### Ezavriel
 [[Ezavriel]] is located in the northern hemisphere of Eona.
 
-## History
-[[Timeline of Ezavriel]] outlines major events on the continent of [[Ezavriel]]. 
-
 ## Religion
 The [[Deities of Eona]] is the pantheon worshipped within Eona. It contains 17 deities, each harboring power in their own, unique domain. While every deity is worshipped, some are illegal to openly worship in particular nations.  
 
@@ -22,8 +19,6 @@ Autumn | Ovarum | Month of Ovara, life, and growth
 Autumn | Unum | Month of Unus, knowledge, and learning
 Winter | Yhurne | Month of Yher and darkness
 Winter | Thorum | Month of Thoros, justice, and reflection
-
-## Holidays
 
 
 #World

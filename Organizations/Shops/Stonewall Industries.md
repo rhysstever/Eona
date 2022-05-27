@@ -1,3 +1,5 @@
+> TODO: Goals, relationships, history?
+
 # Stonewall Industries
 Description
 

@@ -1,3 +1,5 @@
+> TODO: more description
+
 # Eternal Atrium
 - Domain of [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing]]
 - An infinite and over-sized library (ex: a book is 3 feet tall)
