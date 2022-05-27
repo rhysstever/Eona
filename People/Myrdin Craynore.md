@@ -1,4 +1,5 @@
 # Myrdin Craynore
+## About
 - Corey's PC
 - Wood-Elf College of Lore Bard / Rogue 
 - Second-heir of House Craynore, a prominent noble family in the [[Yhorian Empire]]
@@ -6,6 +7,8 @@
 
 ## Appearance
 
+
+## Personality
 
 ## History
 Myrdin Craynore was born the younger of the two heirs to House Craynore, one of the politically strongest noble houses in the [[Yhorian Empire]]. His mother, Imra Craynore, died in giving birth to him, a fact that his father, Folmer Craynore, has never been able to forgive. 

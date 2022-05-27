@@ -1,4 +1,5 @@
 # Xerthanos Sparklecloak
+## About
 - (Zerth-an-ohs)
 - Mark's PC
 - Leonin Order of Scribes Wizard
@@ -7,6 +8,8 @@
 
 ## Appearance
 - Large wizard hat
+
+## Personality
 
 ## History
 

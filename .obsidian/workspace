@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Yhorian Empire.md",
+            "file": "People/Keysys Starriver.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "People/Keysys Starriver.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "People/Keysys Starriver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "People/Keysys Starriver.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Yhorian Empire.md"
+                "file": "People/Keysys Starriver.md"
               }
             }
           }
@@ -223,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "active": "85f9bb9baedfc74c",
   "lastOpenFiles": [
-    "Nations/Yhorian Empire.md",
-    "Settlements/Zanapool.md",
-    "Settlements/Yhora (City).md",
-    "Settlements/Yalos.md",
-    "Settlements/Port Qane.md",
-    "Settlements/Khiton.md",
-    "Settlements/Kanta.md",
-    "Settlements/Esila.md",
-    "Settlements/Eighwood.md",
-    "Settlements/Adaham.md"
+    "People/Keysys Starriver.md",
+    "People/Arthic Daeren.md",
+    "People/_Person_Template.md",
+    "People/Xerthanos Sparklecloak.md",
+    "People/Sontar Raloran.md",
+    "People/Myrdin Craynore.md",
+    "People/Jason Stonewall.md",
+    "People/Ailin Wanderfoot.md",
+    "People/PCs/_PC_Template.md",
+    "Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md"
   ]
 }

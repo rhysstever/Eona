@@ -1,7 +1,9 @@
 # Arthic “R” Daeren
-- Meghan's PC
+- Played by Meghan during Whispers in Opira
 - Half Elf Thief Rogue
-- Younger half-sister to [[Valor Daeren]]
+- Siblings: [[Valor Daeren]] (older half-brother)
+## About 
+
 
 ## Appearance
 

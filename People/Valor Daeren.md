@@ -1,13 +1,15 @@
+> TODO: Appearance, Personality, History
+
 # Valor Daeren, Assistant of Coin of Yhora
 - Male High Elf Sorcerer
 - Assistant of Coin of the [[Yhorian Empire]] (assistant to [[Thestros Yhora III]])
-- Brother to [[Arthic Daeren]]
+- Siblings: [[Arthic Daeren]] (brother, )
 
 ## Appearance
-> TODO: Appearance 
+
 
 ## Personality
-> TODO: Personality 
+
 
 ### Ideals
 
@@ -16,12 +18,13 @@
 
 
 ### Flaws
-
+- I am one of the best at what I do
+- 
 
 ### Other Traits
 
 
 ## History
-> TODO: History
+Valor Daeren died on the 18th of Eonum of 1452, in the [[Explosion in Opira]]. 
 
 #Person
