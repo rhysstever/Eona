@@ -1,3 +1,5 @@
+> Appearance, Personality, History
+
 # Lord Thestros Yhora III, Master of Coin of Yhora
 - Male High Elf Warlock
 - Master of coin for the [[Yhorian Empire]]
@@ -7,10 +9,9 @@
 ## Appearance
 - Older
 
-> TODO: Appearance 
 
 ## Personality
-> TODO: Personality 
+
 
 ### Ideals
 
@@ -25,6 +26,6 @@
 
 
 ## History
-> TODO: History
+
 
 #Person
