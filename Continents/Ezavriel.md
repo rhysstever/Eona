@@ -13,13 +13,13 @@ Five nations occupy the continent of Ezavriel: [[Baohua]], [[Kandallo]], the [[O
 The [[Baohua]] nation controls the [[Hungry Expanse]], a large desert to the southeast. Its capital is [[Khiton]], is a large city built into and surrounded by massive mesas. 
 
 ### Kandallo
-To the northwest, the nation of [[Kandallo]] sits, nestled in the Willowdust Woods. [[Ithilmore]] is its capital and is built around the World Tree.
+To the northwest, the nation of [[Kandallo]] sits, nestled in the [[Willowdust Woods]]. [[Ithilmore]] is its capital and is built around the World Tree.
 
 ### Opirian Alliance
 The [[Opirian Alliance]] lays in the center of Ezavriel. The alliance is an agreement between many port cities and towns. The most influential settlement in the alliance is [[Opira]].
 
 ### Wayward Coast
-Considered the smallest nation, the [[Wayward Coast]] sits to the southwest of Ezavriel. The nation controls the Wayward Isles, a spatter of small islands off the western coast of Ezavriel, including the seas around them. It's capital and largest port is [[Esila]], located at the base on the peninsula that pokes out of the southwestern tip of Ezavriel. 
+Considered the smallest nation, the [[Wayward Coast]] sits to the southwest of Ezavriel. The nation controls the [[Wayward Isles]], a spatter of small islands off the western coast of Ezavriel, including the seas around them. It's capital and largest port is [[Esila]], located at the base on the peninsula that pokes out of the southwestern tip of Ezavriel. 
 
 ### Yhorian Empire
 The [[Yhorian Empire]] is the most predominate nation of Ezavriel. It takes up the upper half of eastern Ezavriel. The empire regulates all trade throughout the territory, ensuring any business ultimately benefits the capital, [[Yhora (City) | Yhora]].
@@ -31,7 +31,7 @@ There are many key locations throughout the continent. Whether they are well-kno
 The [[Hungry Expanse]] is a seemingly endless desert. It lays to the southeast of the continent and is controlled by the [[Baohua]] nation.
 
 ### Mirthvale Swamp
-The [[Mirthvale Swamp]] are marshlands south of the Willowdust Woods. 
+The [[Mirthvale Swamp]] are marshlands in western Ezavriel. 
 
 ### Pyretide Islands
 The [[Pyretide Islands]] are a group of hotpot islands off the southeast coast of the continent. They are home to a number of active volcanoes. 
@@ -43,12 +43,12 @@ The [[Pyretide Islands]] are a group of hotpot islands off the southeast coast o
 [[Faroot Island]] is a large island, south of [[Yalos]]. It has a very hot climate, due to its location. 
 
 ### Wayward Isles
-The Wayward Isles are an array of tiny land masses that sprout from the western coast. Each isle works as a satellite settlement for the [[Wayward Coast]]. 
+The [[Wayward Isles]] are an array of tiny land masses that sprout from the western coast. Each isle works as a satellite settlement for the [[Wayward Coast]]. 
 
 ### Willowdust Woods
-The Willowdust Woods is a large forest in north western Ezavriel. It is known to be the land of [[Kandallo]]. 
+The [[Willowdust Woods]] is a large forest in north western Ezavriel. It is known to be the land of [[Kandallo]]. 
 
 ### Sea of Yhor
-The Sea of Yhor is the largest body of water in Ezavriel. The [[Yhorian Empire]] surrounds the sea. 
+The [[Sea of Yhor]] is the largest body of water in Ezavriel. The [[Yhorian Empire]] surrounds the sea. 
 
 #World
