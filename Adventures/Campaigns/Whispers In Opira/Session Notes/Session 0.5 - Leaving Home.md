@@ -3,7 +3,7 @@
 Date: 2/4/2022  
 Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), and [[Arthic Daeren]] (Meghan)
 
-In-Game Date: Day 17 of Eonum, 1452
+In-Game Date: 17th of Eonum, 1452
 
 - Myrdin and Jason receive their assignments from the [[Black Rose]]
 	- Gives Jason papers to show he will be protecting the caravan

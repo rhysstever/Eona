@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "85f9bb9baedfc74c",
+        "id": "f43ee1ec57b5d798",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -225,17 +225,17 @@
     "direction": "horizontal",
     "width": 411
   },
-  "active": "85f9bb9baedfc74c",
+  "active": "f43ee1ec57b5d798",
   "lastOpenFiles": [
     "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
-    "Images/Ezavriel Maps/Ezavriel_Labeled.jpg",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4.5 - New Expectations.md",
-    "Continents/Ezavriel.md",
-    "POIs/Sea of Yhor.md",
-    "POIs/_POI_Template.md",
-    "POIs/Willowdust Woods.md",
-    "POIs/Wayward Isles.md",
     "Eona (World).md",
-    "People/Keysys Starriver.md"
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 7 - Where Ends Meet.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 6 - Meeting Up.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 5 - On the Trail.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4.5 - New Expectations.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4 - Pieces Coming Together.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md"
   ]
 }

@@ -3,7 +3,7 @@
 Date: 04/11/2022  
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 
-In-Game Date: Day 20 of Eonum, 1452
+In-Game Date: 20th of Eonum, 1452
 
 ## Planning the Plan
 - The group talks about what to do in Myrdin's room

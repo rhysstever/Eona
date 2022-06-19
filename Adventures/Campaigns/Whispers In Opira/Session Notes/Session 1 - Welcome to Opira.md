@@ -3,7 +3,7 @@
 Date: 2/7/2022  
 Players: [[Myrdin Craynore]] (Corey), [[Jason Stonewall]] (River), [[Arthic Daeren]] (Meghan), [[Sontar Raloran]] (Kobie), and [[Xerthanos Sparklecloak]] (Mark)
 
-In-Game Date: Day 18 of Eonum, 1452
+In-Game Date: 18th of Eonum, 1452
 
 ## Settling In
 - Both groups arrive in the city

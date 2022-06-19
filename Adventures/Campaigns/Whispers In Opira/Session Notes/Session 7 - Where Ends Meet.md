@@ -4,7 +4,7 @@ Date: 04/25/2022
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 Notable NPCs: [[Thestros Yhora III]], [[Rolin Sparkleweaver]], [[Ailin Wanderfoot]], and [[Thallan Aera]] (played by Aidan for the session)
 
-In-Game Date: Day 21 of Eonum, 1452
+In-Game Date: 21st of Eonum, 1452
 
 ## Myrdin in the Shadows
 - Myrdin sneaks into the room

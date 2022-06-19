@@ -4,7 +4,7 @@ Date: 3/21/2022
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 Notable NPCs: [[Thestros Yhora III]]
 
-In-Game Date: Day 19 of Eonum, 1452
+In-Game Date: 19th of Eonum, 1452
 
 ## A Little Retconning
 - Rest of [[Yhorian Empire]] guard (about 5) rejoined 

@@ -3,7 +3,7 @@
 Date: 04/18/2022  
 Players: [[Myrdin Craynore]], [[Arthic Daeren]], [[Sontar Raloran]], [[Xerthanos Sparklecloak]], and [[Jason Stonewall]]  
 
-In-Game Date: Day 21 of Eonum, 1452
+In-Game Date: 21st of Eonum, 1452
 
 ## Morning News
 - Town Crier news, morning of 21st of Eonum
