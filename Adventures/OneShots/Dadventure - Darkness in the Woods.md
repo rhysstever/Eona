@@ -17,7 +17,9 @@ You enjoy the quiet out here. Much more than the hustle and bustle of the capita
 
 When you moved here, you took a position to protect the town from outside dangers. You had come up with the idea with your two lifelong friends: Gorgirk and Meckal, who joined you in Airen. The three of you had met in [[Ithilmore]] and had gone of numerous adventures, but all agreed you wanted to get away from the big tree.  
 
-TODO: Description of each friend
+Gorgirk 
+
+Meckal 
 
 TODO: Description of desecrated grave sight  
 
