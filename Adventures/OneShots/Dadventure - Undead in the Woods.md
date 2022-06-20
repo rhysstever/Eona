@@ -1,4 +1,4 @@
-# Darkness in the Woods
+# Undead in the Woods
 
 Date: 06/19/2022 (Father's Day)  
 Players: Ilyphar (Papa Steves)  

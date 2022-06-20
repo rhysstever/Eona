@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
+            "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
+                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
+                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
+                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Darkness in the Woods.md"
+                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md"
               }
             }
           }
@@ -227,7 +227,7 @@
   },
   "active": "f43ee1ec57b5d798",
   "lastOpenFiles": [
-    "Adventures/OneShots/Dadventure - Darkness in the Woods.md",
+    "Adventures/OneShots/Dadventure - Undead in the Woods.md",
     "Eona (World).md",
     "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
     "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
