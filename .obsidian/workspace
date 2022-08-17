@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizations/Black Rose.md",
+            "file": "Eona (World).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Black Rose.md"
+                "file": "Eona (World).md"
               }
             }
           }

@@ -21,7 +21,7 @@ Winter | Yhurne | Month of Yher and darkness
 Winter | Thorum | Month of Thoros, justice, and reflection
 
 ## Holidays
-### NAME: The Day of 
+### NAME: The Day of Rebirth
 Date: 30th of Eonum  
 What is Celebrated: Community  
 Usual Events: Dances and music in public squares
