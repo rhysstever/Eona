@@ -1,4 +1,4 @@
-# Name
+# Wayward Isles
 Description
 
 ## History

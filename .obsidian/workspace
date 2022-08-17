@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f43ee1ec57b5d798",
+        "id": "253f9e111da6071e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
-            "mode": "source",
-            "source": false
+            "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 298
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -69,7 +67,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
+                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
+                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md",
+                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/OneShots/Dadventure - Undead in the Woods.md"
+                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg"
               }
             }
           }
@@ -223,19 +221,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
-  "active": "f43ee1ec57b5d798",
+  "active": "253f9e111da6071e",
   "lastOpenFiles": [
-    "Adventures/OneShots/Dadventure - Undead in the Woods.md",
+    "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
+    "Continents/Ezavriel Maps/Ezavriel_Labeled.jpg",
+    "Continents/_Continent_Template.md",
+    "Continents/Ezavriel.md",
     "Eona (World).md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 7 - Where Ends Meet.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 6 - Meeting Up.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 5 - On the Trail.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4.5 - New Expectations.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4 - Pieces Coming Together.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md"
+    "Settlements/Zanapool.md",
+    "Settlements/Yhora (City).md",
+    "Settlements/Yalos.md",
+    "Settlements/Port Qane.md"
   ]
 }

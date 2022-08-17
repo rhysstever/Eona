@@ -1,7 +1,7 @@
 > TODO: Length of war, date of boat explosion, name of boat
 
 # Yhorian-Opirian War
-The Yhorian-Opirian War, shortened to the YEOA War ("yee-oh-uh"), lasted from 1453 to YEAR. 
+The Yhorian-Opirian War, sometimes shortened to the YEOA War ("YEE-OH-UH"), lasted from 1453 to YEAR. 
 
 ## Cause 
 Closely related to [[Explosion in Opira]], [[Thestros Yhora III]] was murdered in the dungeons of [[Opira]], the capital of the  [[Opirian Alliance]]. An investigation conducted by the [[Opirian Alliance]] revealed cause from an anarchist group called, the [[Order of Whispers]]. Despite these findings, the [[Yhorian Empire]] held the Opirian officials at fault for Thetros's death. 

@@ -1,5 +1,5 @@
 # Yhora
-Yhora is a large city that is the capital of the [[Yhorian Empire]]. It sits at the mouth of [[Ezavriel#Sea of Yhor | Sea of Yhor]]. 
+Yhora ("Y-ORE-UH") is a large city that is the capital of the [[Yhorian Empire]]. It sits at the mouth of [[Ezavriel#Sea of Yhor | Sea of Yhor]]. 
 
 ## Population
 > TODO: Description

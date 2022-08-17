@@ -1,7 +1,7 @@
 > TODO: Population, govt, defense, commerce, orgs
 
 # Yalos
-Yalos is a large port town within the [[Opirian Alliance]]. 
+Yalos ("Y-AH-LOW-S") is a large port town within the [[Opirian Alliance]]. 
 
 ## Population
 

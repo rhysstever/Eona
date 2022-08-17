@@ -1,7 +1,7 @@
 > TODO: Population, govt, defense, commerce, orgs
 
 # Khiton
-Khiton is the capital of the [[Baohua]] nation. 
+Khiton ("KEY-TON") is the capital of the [[Baohua]] nation. 
 
 ## Population
 

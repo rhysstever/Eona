@@ -1,7 +1,7 @@
 > TODO: Population, govt, defense, commerce, orgs
 
 # Port Qane
-Southeast of [[Opira]], Port Qane sits on the western coast of East [[Ezavriel]]. 
+Southeast of [[Opira]], Port Qane ("K-AY-N") sits on the western coast of East [[Ezavriel]]. 
 
 ## Population
 

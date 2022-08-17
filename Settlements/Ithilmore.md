@@ -1,36 +1,52 @@
 # Ithilmore
-Ithilmore is a large shire built around a massive tree that resides in the heart of the [[Ezavriel#Willowdust Woods | Willowdust Woods]]. It is the capital of [[Kandallo]]. 
+Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that resides in the heart of the [[Willowdust Woods]]. It is the capital of [[Kandallo]]. 
 
 ## Population
-### Up the Trunk
-- Upper class, descendants of initial founders
-- Government: Elder Council Room, Elder homes
+### Up in the Canopy
+- Upper class district
+- Official locations
+	- Governmental: Elder Council Room
+- Important citizen's dwellings
+	- Descendants of initial founders
+	- Elder homes
+	- Elite/wealthy citizens
 
-### Near the Base
-- Middle class
+### Along the Trunk
+- Middle class district
 - Popular shops/taverns/inns
-- Descendants that settled early on
+- Homes of descendants that early settlers*
+	- * families that remained prominent
 
-### Around the Base
-- Lower middle class
-- Shop owners/workers
+### Down by the Roots
+- Lower/Middle class district
+- Smaller or newer shops
+- Many homes of shop owners/workers, even those that work along the trunk
 
-### In the Grove
-- Lower class
-- Farmers, unskilled workers
+### Around in the Grove
+- Lower class district
+- Largest district of Ithilmore, by size and population
+- Simple homes for unskilled workers
+	- Some farmers live along the edge if their land sits just beyond the grove
+
+### Underhallow
+- Ithilmore's newest district
+- Large underdark population
+- Creation headed by [[Sontar Raloran]] to form a union between the Kandallo and the underdark people to the northwest
 
 ### Shops
-#### Tree Tap
-A bar on the trunk of the tree, near the bottom
+#### Tree Tap Bar
+- Bar along the trunk
 
 #### Taphouse
-A tavern, slightly fancier than the Tree Tap, that sits above it and scaling up the tree
+- Tavern along the trunk
+- Fancier than the Tree Tap Bar
 
 #### Gory Hole
-A brothel of large partners; ran by a minotaur
+- Brothel of large partners
+- Ran by a minotaur
 
 ## Government
-Ithilmore is governed by the ruling body of [[Kandallo]]: the Council of Elders. Each councilmember is 
+Ithilmore is governed by the ruling body of [[Kandallo]]: the Council of Elders. 
 
 ## Defense
 Ithilmore's main defense comes from the natural protection of the [[Ezavriel#Willowdust Woods | Willowdust Woods]]. The city is protected from sea attacks by being more than halfway 

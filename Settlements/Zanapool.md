@@ -1,7 +1,7 @@
 > TODO: Population, govt, defense, commerce, orgs
 
 # Zanapool
-Zanapool is a large town in the [[Yhorian Empire]]. 
+Zanapool ("Z-AN-A-POOL") is a large town in the [[Yhorian Empire]]. 
 
 ## Population
 
