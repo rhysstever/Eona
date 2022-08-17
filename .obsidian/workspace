@@ -7,9 +7,11 @@
         "id": "253f9e111da6071e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg"
+            "file": "Organizations/Black Rose.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
+                "file": "Organizations/Black Rose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
+                "file": "Organizations/Black Rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
+                "file": "Organizations/Black Rose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg"
+                "file": "Organizations/Black Rose.md"
               }
             }
           }
@@ -221,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 571
   },
   "active": "253f9e111da6071e",
   "lastOpenFiles": [
-    "Continents/Ezavriel Maps/Ezavriel_Labeled_Political_1452.jpg",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md",
-    "Continents/Ezavriel Maps/Ezavriel_Labeled.jpg",
-    "Continents/_Continent_Template.md",
-    "Continents/Ezavriel.md",
-    "Eona (World).md",
-    "Settlements/Zanapool.md",
-    "Settlements/Yhora (City).md",
-    "Settlements/Yalos.md",
-    "Settlements/Port Qane.md"
+    "Organizations/Black Rose.md",
+    "People/Myrdin Craynore.md",
+    "Nations/Opirian Alliance.md",
+    "Nations/Kandallo.md",
+    "Adventures/Adventure Ideas.md",
+    "Events/Yhorian-Opirian War.md",
+    "Events/Explosion in Opira.md",
+    "Nations/Baohua.md",
+    "Nations/Yhorian Empire.md",
+    "Nations/Wayward Coast.md"
   ]
 }

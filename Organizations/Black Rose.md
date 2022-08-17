@@ -19,7 +19,7 @@ Agents of the Black Rose will receive missions to carry out. They are divided in
 - Remove those in power that use their power for evil  
 
 ## Relationships
-The Black Rose has several fingers in the [[Yhorian Empire]]. Many members of the Yhora family and other prominent families have heard the name, but most know it as the lavish inn located in the [[Yhora (City)#Highgarden | Highgarden District]]. Only a handful have had dealings with them, usually in the form of providing information that they've acquired in their high seat in society. [[Thestros Yhora III]] is a frequent informant for the guild
+The Black Rose has several fingers in the [[Yhorian Empire]]. Many members of the Yhora family and other prominent families have heard the name, but most know it as the lavish inn located in the [[Yhora (City)#Highgarden | Highgarden District]]. Only a handful have had dealings with them, usually in the form of providing information that they've acquired in their high seat in society. [[Thestros Yhora III]] is a frequent informant for the guild.
 
 ## Key Figures
 ### Ogush
@@ -29,9 +29,9 @@ Female Orc, Taskmaster
 Male Goblin, Weapon Specialist
 
 ### [[Jason Stonewall]]
-Agent
+Male Halfling, Agent
 
 ### [[Myrdin Craynore]]
-Agent
+Male Wood Elf, Agent
 
 #Organization
