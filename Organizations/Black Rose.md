@@ -33,9 +33,9 @@ Female Orc, Taskmaster
 Male Goblin, Weapon Specialist
 
 ### [[Jason Stonewall]]
-Male Halfling, Agent
+Male Halfling, Agent (mid rank)
 
 ### [[Myrdin Craynore]]
-Male Wood Elf, Agent
+Male Wood Elf, Agent (entry rank)
 
 #Organization

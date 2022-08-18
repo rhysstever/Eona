@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dg-publish: true",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,15 +228,15 @@
   },
   "active": "253f9e111da6071e",
   "lastOpenFiles": [
+    "Religion/Deities of Eona.md",
+    "Eona (World).md",
+    "Continents/Ezavriel.md",
+    "Nations/Kandallo.md",
+    "Organizations/Shops/Stone's Stones.md",
+    "Organizations/Black Rose.md",
     "Events/Yhorian-Opirian War.md",
     "Events/Explosion in Opira.md",
     "Events/Discovery of the Khitonian River.md",
-    "Continents/Ezavriel.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Baohua.md",
-    "Nations/Opirian Alliance.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Kandallo.md",
-    "People/Xerthanos Sparklecloak.md"
+    "Nations/Wayward Coast.md"
   ]
 }
