@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dg-publish: true",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 374.5
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -226,7 +225,7 @@
     "direction": "horizontal",
     "width": 571
   },
-  "active": "253f9e111da6071e",
+  "active": "5ca465a7f7a67fed",
   "lastOpenFiles": [
     "Religion/Deities of Eona.md",
     "Eona (World).md",
