@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e7ee7b09e3f6685d",
+        "id": "34d6d1e13886d83a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eona (World).md",
+            "file": "Timeline of Ezavriel.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Timeline of Ezavriel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Timeline of Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Timeline of Ezavriel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eona (World).md"
+                "file": "Timeline of Ezavriel.md"
               }
             }
           }
@@ -226,17 +226,17 @@
     "width": 571,
     "collapsed": true
   },
-  "active": "e7ee7b09e3f6685d",
+  "active": "34d6d1e13886d83a",
   "lastOpenFiles": [
-    "README.md",
-    "Eona (World).md",
-    "Events/Timeline of Ezavriel.md",
-    "Events/Stonewall Industries Established.md",
+    "Religion/Deities of Eona.md",
+    "People/Yolanda Mei.md",
+    "People/Thestros Yhora III.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 0.5 - Leaving Home.md",
+    "Adventures/Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Campaign Ideas.md",
+    "Nations/Yhorian Empire.md",
     "Events/Yhorian-Opirian War.md",
-    "Events/Founding of Yhora.md",
-    "Events/_Event_Template.md",
-    "Continents/Ezavriel.md",
-    "Events/Explosion in Opira.md",
-    "Events/Discovery of the Khitonian River.md"
+    "Nations/Opirian Alliance.md",
+    "Nations/Kandallo.md"
   ]
 }

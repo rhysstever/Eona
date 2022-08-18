@@ -32,6 +32,6 @@ Male Triton, True Neutral
 
 ### The Yhorian-Opirian War
 
-### Post War Alliance]]
+### Post War Alliance
 
 #Organization 

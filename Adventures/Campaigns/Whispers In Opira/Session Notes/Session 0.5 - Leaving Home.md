@@ -10,10 +10,10 @@ In-Game Date: 17th of Eonum, 1452
 - Meet the officials (including Arthic)
 	- Myrdin recognized by the guards, let right in
 - Caravan gets ready to leave
-	- [[Thestros Yhora III]], Master of Coin
+	- [[Thestros Yhora III]], Minister of Coin
 	- [[Valor Daeren]], Assistant to Coin
 	- [[Arthic Daeren]], Scribe of the Assistant to Coin
-	- [[Yolanda Mei]], Master of Transport
+	- [[Yolanda Mei]], Minister of Transport
 	- [[Myrdin Craynore]], Court Bard
 	- [[Jason Stonewall]], Bodyguard
 	- Yhorian guard soldiers

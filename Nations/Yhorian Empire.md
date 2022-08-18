@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 # Yhorian Empire
@@ -19,30 +19,27 @@ Male High Elf, Lawful Neutral
 ### Queen Nalankilli Yhora
 Female High Elf, Lawful Neutral
 
-### [[Thestros Yhora III]], Master of Coin
+### [[Thestros Yhora III]], Minister of Coin
 Male High Elf, True Neutral
 
 ### [[Valor Daeren]], Assistant of Coin
 Male High Elf, Neutral Good
 
-### [[Yolanda Mei]], Master of Transport 
+### [[Yolanda Mei]], Minister of Transport 
 Female Dragonborn, Lawful Neutral
 
-### Zanba Bronzehorn, Master of Knowledge 
+### Zanba Bronzehorn, Minister of Knowledge 
 Non-binary Minotaur, True Neutral
 
-### Tharisli Ambershield, Master of Defense 
+### Tharisli Ambershield, Minister of Defense 
 Female Dwarf, Lawful Neutral
 
-### Guulum Rubyheart, Master of Magic 
+### Guulum Rubyheart, Minister of Magic 
 Male Orc, Neutral Good
 
 ## History
 ### The Rise of the Yhorian Empire
-> TODO: History of Rise of Empire
-- Grandfather of Yhorian family
-- Establishes city of [[Yhora (City)]] 
-- Increases influence throughout the continent
+Thestros Yhora I establishes the town of Yhora in what would be known as the [[Founding of Yhora]]. 
 
 ### The Yhorian-Opirian War
 The Yhorian Empire went to war against the [[Opirian Alliance]], which would be named the [[Yhorian-Opirian War]]. Ultimately, the [[Opirian Alliance]] defeated  the [[Yhorian Empire]]. The empire's forces were pushed back to their capital, [[Yhora (City)]] and peace was negotiated. 

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 # Baohua
@@ -21,8 +21,6 @@ Female Firbolg
 
 ### [[Kior Solarclaw]], Hand to the Chief
 Male Leonin
-
-> TODO: Lesser entities 
 
 ## History
 > TODO: Baohua_History

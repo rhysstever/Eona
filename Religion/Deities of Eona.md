@@ -8,7 +8,7 @@ There are 13 greater deities within the pantheon. They have either been "born" i
 
 Because no one has ever met a greater deity, no one knows what they look like. Artists will always depict them faceless, usually covered up by something. For example, Atal, deity of the sun and light, is commonly shown with the sun as their head. Furthermore, each greater deity is considered genderless and, thus, is inaccurate to be called a god or goddess. 
 
-Within every major nation of [[Ezavriel]], the following deities are approved and worshipped: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovaira the Lifebringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. Other deities may be allowed by certain nations. 
+Within every major nation of [[Ezavriel]], the following deities are approved and worshipped: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovara the Life-bringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. Other deities may be allowed by certain nations. 
 
 ### List
 | Deity                     | Representation         | Alignment | Symbol                                   |
@@ -20,7 +20,7 @@ Within every major nation of [[Ezavriel]], the following deities are approved an
 | Meralin the Wild Mage     | magic                  | N         | A circle of two four-pointed stars       |
 | Nokzol the Oppressor      | tyranny                | LE        | Crossed chains                           |
 | Oros the Undying Deity    | the undead and decay   | NE        | A partially corroded skull               |
-| Ovara the Lifebringer     | life and growth        | CG        | A tree with a thick canopy               |
+| Ovara the Life-bringer    | life and growth        | CG        | A tree with a thick canopy               |
 | Thoros the Ultimate Judge | justice                | LN        | A balanced scale                         |
 | Unus the All-Knowing      | knowledge              | NG        | An open tome                             |
 | Vhord the Warrior         | war                    | LN        | Two crossed swords over a shield         |
@@ -30,9 +30,9 @@ Within every major nation of [[Ezavriel]], the following deities are approved an
 ### Alignments
 | ---         | Lawful                                              | Neutral                                              | Chaotic                |
 | ----------- | --------------------------------------------------- | ---------------------------------------------------- | ---------------------- |
-| **Good**    | Eona the Creator                                    | Atal the All-Bright<br><br> Unus the All-Knowing     | Ovara the Lifebringer  |
+| **Good**    | Eona the Creator                                    | Atal the All-Bright<br><br> Unus the All-Knowing     | Ovara the Life-bringer  |
 | **Neutral** | Thoros the Ultimate Judge<br><br> Vhord the Warrior | Meralin the Wild Mage<br><br> Yher the Dark One      | Kyen the Blood-driven  |
-| **Evil**    | Nokzol the Opressor                                 | Kremmel the City Slayer<br><br> Oros the Undying One | Zaas the Whispered One |
+| **Evil**    | Nokzol the Oppressor                                 | Kremmel the City Slayer<br><br> Oros the Undying One | Zaas the Whispered One |
 
 ## Deities List
 ### Atal the All-Bright
@@ -94,18 +94,18 @@ Nokzol is a greater deity of tyranny.
 **Alignment:** NE  
 **Symbol:** A partially corroded skull  
 **Possible Domains:** Death, Grave, Trickery  
-**Other Titles:** the Undying Deity   
+**Other Titles:**    
 
 Oros is a greater deity of the undead and decay. 
 
-### Ovara the Lifebringer
+### Ovara the Life-bringer
 **Pronunciation:** ("OH-VAR-UH")  
 **Alignment:** CG  
 **Symbol:** A tree with a thick canopy  
 **Possible Domains:** Life, Light, Nature, Tempest  
-**Other Titles:** the Lifebringer  
+**Other Titles:**   
 
-Ovaira is a greater deity of life and growth. 
+Ovara is a greater deity of life and growth. 
 
 ### Thoros the Ultimate Judge
 **Pronunciation:** ("THOR-UHS")  
@@ -130,7 +130,7 @@ Unus is a greater deity of knowledge.
 **Alignment:** N  
 **Symbol:** Two crossed swords  
 **Possible Domains:** Forge, War  
-**Other Titles:** the Master Smith  
+**Other Titles:** the Original Smith  
 
 Vhord is a greater deity of war. 
 

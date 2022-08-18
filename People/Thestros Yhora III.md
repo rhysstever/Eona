@@ -4,9 +4,9 @@ dg-publish: false
 
 > Appearance, Personality, History
 
-# Lord Thestros Yhora III, Master of Coin of Yhora
+# Lord Thestros Yhora III, Minister of Coin of Yhora
 - Male High Elf Warlock
-- Master of coin for the [[Yhorian Empire]]
+- Minister of coin for the [[Yhorian Empire]]
 - Older brother to the king, [[King Xuan Vander Yhora]] of the [[Yhorian Empire]]
 - Has an assistant, [[Valor Daeren]]
 
