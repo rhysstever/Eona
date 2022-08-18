@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # King Xuan Vander Yhora, King of the Yhorian Empire
 - Male High Elf
 - King of the [[Yhorian Empire]]

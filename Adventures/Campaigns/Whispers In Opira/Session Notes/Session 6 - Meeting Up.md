@@ -15,7 +15,7 @@ In-Game Date: 21st of Eonum, 1452
 - The door can be picked open with a DC 15 lockpick check
 - Appears as a well-organized, put together study
 - A large window that illuminates the room, nice dark blue drapes, matching rug - a cozy, isolated room
-- Shelves built into the wall, small shrine to [[Deities of Eona#Meralin the Wild Mage | Meralin]]
+- Shelves built into the wall, small shrine to Meralin the Wild Mage (see [[Deities of Eona]])
 - DC 20 investigation check reveals a hidden textbook with the Polybius cipher stuffed in it
 
 ## Checking Downstairs

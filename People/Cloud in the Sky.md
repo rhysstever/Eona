@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Cloud in the Sky (Sky)
 ## About
 - Female Tabaxi Bard

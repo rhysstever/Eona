@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Shop_Name
 - **Owner**: GENDER RACE, NAME
 - **Location**: LOCATION

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Deities of Eona
 ## Greater Deities
 There are 13 greater deities within the pantheon. They have either been "born" into the role or spent centuries rising from a lesser one. No mortal has ever and will never met a greater deity. Any interactions with a greater deity come in the form of signs and visions. 
@@ -7,7 +11,7 @@ Because no one has ever met a greater deity, no one knows what they look like. A
 Within most nations of [[Ezavriel]], the approved deities include: Eona the Creator, Atal the Shining One, Unus the All-Knowing, Ovaira the Lifebringer, Thoros the Ultimate Judge, Meralin the Wild Sorcerer, and Vhord the Warrior. If other deities are allowed or some already listed are not allowed, they will be specified. 
 
 ### List
-| Diety                     | Representation         | Alignment | Symbol                                   |
+| Deity                     | Representation         | Alignment | Symbol                                   |
 | ------------------------- | ---------------------- | --------- | ---------------------------------------- |
 | Atal the All-Bright       | the sun and light      | NG        | An eight-pointed sun                     |
 | Eona the Creator          | the world and creation | LG        | A crossed sickle and blacksmith hammer   |

@@ -1,0 +1,14 @@
+{
+  "githubRepo": "my-digital-garden",
+  "githubToken": "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",
+  "githubUserName": "rhysstever",
+  "gardenBaseUrl": "https://eona.netlify.app/",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

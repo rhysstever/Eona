@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 > TODO: Appearance, Personality, History
 
 # Valor Daeren, Assistant of Coin of Yhora

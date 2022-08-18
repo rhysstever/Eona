@@ -1,5 +1,9 @@
+---
+dg-publish: false
+---
+
 # Order of Whispers
-The Order of Whispers is a secret organization that worships the evil deity [[Deities of Eona#Zaas the Whispered One | Zaas, the Whispered One]]. 
+The Order of Whispers is a secret organization that worships the evil deity Zaas, the Whispered One ([[Deities of Eona]]). 
 
 ## Explosion in Opira
 The Order of Whispers are responsible for the [[Explosion in Opira]]. 
@@ -9,7 +13,7 @@ If kidnapped, a member will take their own life using the Pact of Zaas: a verbal
 
 ## Goals
 - Disrupt the major governments of [[Ezavriel]]
-- Remain hidden/avoid public view ([[Order of Whispers#Pact of Zaas | Pact of Zaas]])
+- Remain hidden/avoid public view, utilizing the Pact of Zaas
 
 ## Relationships
 The Order is an enemy to all governments and major, public organizations. Due to this, they know to stay hidden with any plans or meetings. 

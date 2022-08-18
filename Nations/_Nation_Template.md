@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Nation_Name
 Nation_Description
 

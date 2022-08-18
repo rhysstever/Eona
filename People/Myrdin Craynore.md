@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Myrdin Craynore
 ## About
 - Corey's PC

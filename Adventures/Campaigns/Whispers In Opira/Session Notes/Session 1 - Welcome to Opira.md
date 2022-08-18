@@ -19,7 +19,7 @@ In-Game Date: 18th of Eonum, 1452
 	- Buying
 		- Smooth river rock (1 sp)
 		- Unus Stones (2 sp)
-- All caravans arrive at [[Opira#Keep Opira | Keep Opira]] 
+- All caravans arrive at the Keep in [[Opira]]
 - Each group of representatives are lead to a different wing
 	- North - [[Opirian Alliance]]
 	- East - [[Yhorian Empire]]

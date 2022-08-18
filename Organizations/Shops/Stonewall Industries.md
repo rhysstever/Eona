@@ -1,7 +1,11 @@
-> TODO: Goals, relationships, history?
+---
+dg-publish: false
+---
 
 # Stonewall Industries
 Description
+
+> TODO: Goals, relationships, history?
 
 ## Goals
 Goals

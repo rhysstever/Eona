@@ -2,7 +2,7 @@
 
 Date: 3/14/2022  
 Players: [[Sontar Raloran]] and [[Xerthanos Sparklecloak]]  
-Notable NPCs: [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing]], [[Deities of Eona#Yher the Dark One | Yher, the Dark One]], [[Rolin Sparkleweaver]], and [[Ailin Wanderfoot]]
+Notable NPCs: Unus the All-Knowing, Yher the Dark One, [[Rolin Sparkleweaver]], and [[Ailin Wanderfoot]]
 
 ## A Deal with Divinity
 - Both "wake up" in a main walkway in the [[Eternal Atrium]] 
@@ -29,7 +29,7 @@ Notable NPCs: [[Deities of Eona#Unus the All-Knowing | Unus, the All-Knowing]], 
 - Both have their heads on/in open books 
 	- Sontar is on a book about Unus fundamentals
 	- Xerthanos is on a book that talks about the connections between knowledge and magic, that references Unus and Meralin 
-- If still a follower of Unus, they hear [[Clues#Unus List Riddle | Unus List Riddle]] in their minds
+- If still a follower of Unus, they hear the Unus List Riddle (see [[Clues]]) in their minds
 	- **NOT GIVEN** since both went with Yher
 
 #Session_Notes

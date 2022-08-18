@@ -73,7 +73,7 @@ Process
 - https://observablehq.com/d/c166da6dd172e20d
 
 **Kill Order**  
-Status: Not found, Needs key (see [[Clues#Security Measures]])
+Status: Not found, Needs key (see Security Measures in [[Clues]])
 Code: `32 31 44 21 11 44 42 11 52 52 11 53 42 24`  
 Result:  `DISPOSEOFFOLEN`
 
@@ -82,14 +82,14 @@ Details:
 - Refers to Folen (Folen Carro), the mage 
 
 **Kill Report**  
-Status: Found, Needs key (see [[Clues#Security Measures]])  
+Status: Found, Needs key (see Security Measures in [[Clues]])
 Code: `52 11 53 42 24`  
 Result: `FOLEN`  
 
 Details: 
 - Written to [[Thestros Yhora III]] the morning after the **Kill Order** letter 
 - With code solved, implies Folen was "take care of" and refers to him as a defect in a shipment
-- Signed `11 11 35` (OOW) aka Order of Whispers 
+- Signed `11 11 35` (OOW) aka [[Order of Whispers]] 
 
 ## Unus Clues 
 ### Unus List Riddle
@@ -115,7 +115,7 @@ Details
 	- Someone was trying to hide information: burned notes and books in the fireplace
 	- High enough investigation check(s)
 		- Small drops of blood on window sill
-		- Piece of parchment intact in the fireplace: a slightly burn page that has a unique Polybius key (used for [[Clues#Two-Digit Number Series| Two-Digit Number Series]])  
+		- Piece of parchment intact in the fireplace: a slightly burn page that has a unique Polybius key (used for Two-Digit Number Series (see [[Clues]]))  
 
  x | 1 | 2 | 3 | 4 | 5
  -- | - | - | - | - | -

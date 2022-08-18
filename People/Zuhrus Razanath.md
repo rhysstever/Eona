@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Zuhrus Razanath
 ## About
 - Male Triton Cleric

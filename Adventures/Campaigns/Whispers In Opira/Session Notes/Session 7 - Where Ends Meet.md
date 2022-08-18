@@ -11,7 +11,7 @@ In-Game Date: 21st of Eonum, 1452
 - Creates an Unseen Servant to grab the keys and unlock Jason and Sontar
 
 ## Order of Whispers Ritual
-- Thallan leads a ritual for [[Deities of Eona#Zaas the Whispered One | Zaas, the Whispered One]] 
+- Thallan leads a ritual for Zaas the Whispered One of the [[Deities of Eona]] 
 
 > 
 > We call out to the deities of Eona, to recognize those who have been ignored until now:
@@ -64,10 +64,10 @@ If the full monologue is said, Zaas's presence begins to take hold. Every round,
 	- The only point they change is making Thestros among the victims (as the same as Folen and Alais)
 
 ## Epilogue
-- Myrdin, Jason, and R make their way back to [[Yhora (City) | Yhora]]
+- Myrdin, Jason, and R make their way back to [[Yhora (City)]]
 	- Myrdin and Jason report back to [[Black Rose]], detailing all of the events
 - The Yhora family denounces the security of [[Opira]] after hearing of Thestros's death
-	- Myrdin is fired as the royal bard, leaves [[Yhora (City) | Yhora]] to go find his missing cousin
+	- Myrdin is fired as the royal bard, leaves [[Yhora (City)]] to go find his missing cousin
 	- Jason and the other guards are fired, he asks the [[Black Rose]] to be relocated to [[Kandallo]]
 	- R is moved to a different high up position, away from the royal family
 	- Tensions rise between the [[Yhorian Empire]] and [[Opirian Alliance]]

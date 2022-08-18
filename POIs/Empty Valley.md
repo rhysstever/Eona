@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Empty Valley
 From a map, the Empty Valley seems like a perfect route to take from [[Kanta]] of the [[Yhorian Empire]] and [[Port Qane]] of the [[Opirian Alliance]]. Many naive tradesmen believe this as well before learning how the passage got its name. The Empty Valley is known to be a highly dangerous valley. Tales of guilds of bandits and caves to ferocious beasts line the mountains that flank on either side. 
 

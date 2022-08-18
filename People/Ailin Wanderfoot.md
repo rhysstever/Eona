@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Ailin Wanderfoot
 ## About
 - Non-binary Wood Elf Wizard

@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Chief Ykti Solarclaw
 ## About
 - Male Leonin Barbarian

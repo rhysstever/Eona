@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Kior Solarclaw
 ## About
 - Male Leonin Barbarian Druid

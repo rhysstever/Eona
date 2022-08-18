@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 > TODO: Length of war, date of boat explosion, name of boat
 
 # Yhorian-Opirian War
@@ -26,7 +30,7 @@ The [[Opirian Alliance]] continued to wreck havoc on the seas, but quickly took 
 
 The war unofficially ended when Opirian ships entered the Sea of Yhor. At this point, the [[Yhorian Empire]] could only defend its capital. All of [[Ezavriel]] watched as the [[Opirian Alliance]] sailed around the sea, taking major settlements, including [[Kanta]], [[Adaham]], and eventually even [[Zanapool]]. 
 
-[[Yhora (City) | Yhora]] was left all by itself. The remaining Yhorian guard regrouped, ready to defend the royal family against any Opirian siege. The siege, however, never came. Both Opirian and Yhorian forces knew taking [[Yhora (City) | Yhora]] would be a bloodbath. So, instead, the [[Opirian Alliance]] drafted a treaty. 
+[[Yhora (City)]] was left all by itself. The remaining Yhorian guard regrouped, ready to defend the royal family against any Opirian siege. The siege, however, never came. Both Opirian and Yhorian forces knew taking [[Yhora (City)]] would be a bloodbath. So, instead, the [[Opirian Alliance]] drafted a treaty. 
 
 The treaty required the [[Yhorian Empire]] to relinquish control of all of its major settlements, outside of its capital. It stated that [[Eighwood]] would officially be under the control of the [[Opirian Alliance]]. All other remaining major settlements were freed from Yhorian rule, but were required to become trade partners with the alliance. 
 

@@ -48,11 +48,11 @@ PCs:
 - Myrdin and Jason help R and Thestros out of the room 
 - When Jason is not looking, R leaves the hallway 
     - R goes to his room, gets his things, and then sneaks out of castle
-	    - Finds a [[Clues#Three-Digit Number Series | Three-Digit Number Series]] clue in his things 
+	    - Finds a Three-Digit Number Series clue (see [[Clues]])) in his things 
 	- R writes a letter to his mother about what happened and included Valor's ring (kept the medal)
 	- R gets decently drunk at a nearby bar, then hides out in the empty [[Stone's Stones]]
 - Myrdin and Jason help Thestros into his room, talk about what to do next
-- Myrdin searches the study in Thestros's room, finding the [[Clues#Hidden Wax Seal Stamp | Hidden Wax Seal Stamp]]
+- Myrdin searches the study in Thestros's room, finding the Hidden Wax Seal Stamp (see [[Clues]])
 - After Thestros goes to sleep, Jason sneaks out of the castle thr his room and finds R at [[Stone's Stones]]
 	- Jason eventually convinces R to come back to the castle
 	- R goes to bed and Jason rejoins Myrdin in Thestros's room

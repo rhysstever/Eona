@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 > TODO: Population, govt, defense, commerce, orgs
 
 # Yalos

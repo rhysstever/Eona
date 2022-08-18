@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eona (World).md",
+            "file": "People/Xerthanos Sparklecloak.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 419.5
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eona (World).md",
+                "file": "People/Xerthanos Sparklecloak.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eona (World).md",
+                "file": "People/Xerthanos Sparklecloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eona (World).md",
+                "file": "People/Xerthanos Sparklecloak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eona (World).md"
+                "file": "People/Xerthanos Sparklecloak.md"
               }
             }
           }
@@ -225,17 +225,17 @@
     "direction": "horizontal",
     "width": 571
   },
-  "active": "253f9e111da6071e",
+  "active": "5ca465a7f7a67fed",
   "lastOpenFiles": [
-    "Organizations/Black Rose.md",
-    "People/Myrdin Craynore.md",
-    "Nations/Opirian Alliance.md",
-    "Nations/Kandallo.md",
-    "Adventures/Adventure Ideas.md",
-    "Events/Yhorian-Opirian War.md",
-    "Events/Explosion in Opira.md",
-    "Nations/Baohua.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Wayward Coast.md"
+    "Nations/Wayward Coast.md",
+    "Organizations/Shops/Stone's Stones.md",
+    "People/Sontar Raloran.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 6 - Meeting Up.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4 - Pieces Coming Together.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
+    "Adventures/Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
+    "Organizations/Order of Whispers.md",
+    "Religion/Lost Abyss.md"
   ]
 }

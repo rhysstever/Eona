@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Faroot Island
 Faroot  ("FUH-ROOT") Island is the largest island of [[Ezavriel]]. It hovers south of the [[Opirian Alliance]], straight south from [[Yalos]]. Because the island is even further south than the continent, it has an even warmer climate. Faroot is covered in a dense jungle, with a single, tall mountain breaking through and towering above. 
 

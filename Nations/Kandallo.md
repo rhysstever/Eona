@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Kandallo
 Kandallo ("KAHN-DOLL-OH") is the northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]] and that is where the Council of Elders meet.
 

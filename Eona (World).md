@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 # Eona
 ## Continents
 ### Ezavriel
@@ -9,35 +14,35 @@ The [[Deities of Eona]] is the pantheon worshipped within Eona. It contains 17 d
 ## Calendar
 Below is outlined the calendar of Eona. Each of four seasons can be broken in half into two months. Each month 30 days and named after a deity: based on what is valued during the time of the year.
 
-Season | Month | Valued during that time
------- | ----- | ----------------------- 
-Spring | Eonum | Eona, creation, and rebirth
-Spring | Vhorum | Month of Vhord and strength
-Summer | Atay | Atal and the sun
-Summer | Meralum | Month of Meralin, magic, and wonder
-Autumn | Ovarum | Month of Ovara, life, and growth
-Autumn | Unum | Month of Unus, knowledge, and learning
-Winter | Yhurne | Month of Yher and darkness
-Winter | Thorum | Month of Thoros, justice, and reflection
+| Season | Month   | Values                        |
+| ------ | ------- | ----------------------------- |
+| Spring | Eonum   | Eona, creation, and rebirth   |
+| Spring | Yhorum  | Vhord and strength            |
+| Summer | Atay    | Atal and the sun              |
+| Summer | Meralum | Meralum, magic, and wonder    |
+| Autumn | Ovarum  | Ovara, life, and growth       |
+| Autumn | Unum    | Unus, knowledge, and learning |
+| Winter | Yhurne  | Yher and darkness             |
+| Winter | Thorum  | Thoros, justice, reflection   | 
 
-## Holidays
-### NAME: The Day of Rebirth
-Date: 30th of Eonum  
+### Holidays
+#### The Day of Rebirth
+Date: 30th of Eonum, the Spring Equinox  
 What is Celebrated: Community  
-Usual Events: Dances and music in public squares
+Usual Events: Dances and music in town squares
 
-### NAME: The Day of Light
-Date: 30th of Atay  
+#### The Day of Light
+Date: 30th of Atay, the Summer Solstice  
 What is Celebrated: Freedom and magic  
 Usual Events: Fireworks
 
-### NAME: The Day of Harvest
-Date: 30th of Ovarum  
+#### The Day of Harvest
+Date: 30th of Ovarum, the Autumn Equinox  
 What is Celebrated: Dedication and crops  
 Usual Events: Large feasts
 
-### NAME: The Day of Remembrance 
-Date: 30th of Yhurne  
+#### The Day of Remembrance 
+Date: 30th of Yhurne, the Winter Solstice  
 What is Celebrated: The dead, sacrifice, and ancestry  
 Usual Events: Mass prayer, silent vigils
 

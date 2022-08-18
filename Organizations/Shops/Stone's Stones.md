@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Stone's Stones
 - **Owner**: Non-binary Earth Genasi, Stone
 - **Location**: District, [[Opira]]
@@ -7,9 +11,9 @@
 
 ## Goods
 - Buys and sells all different types of rocks
-- Randomly decides what 4 rocks he is selling for the day (roll 4d100 on the [[Stone's Stones#Rock Table | Rock Table]] below)
-- Randomly decides what 2 rocks he will be buying for the day (roll 2d100 on the [[Stone's Stones#Rock Table | Rock Table]] below)
-- Randomly sets each price separately (roll 6d10 on the [[Stone's Stones#Price Table | Price Table]] below for each rock, rolling with disadvantage for the 2 rocks he is buying)
+- Randomly decides what 4 rocks he is selling for the day (roll 4d100 on the Rock Table below)
+- Randomly decides what 2 rocks he will be buying for the day (roll 2d100 on the Rock Table below)
+- Randomly sets each price separately (roll 6d10 on the Price Table below for each rock, rolling with disadvantage for the 2 rocks he is buying)
 - Never goes out of business (magically finds a bin of coin below the counter)
 
 ### Rock Table
@@ -26,7 +30,7 @@
 | 90-99 | A diamond worth 4d12 gp     |
 | 100   | A random Unus (Ioun) stone* | 
 
-*see [[Stone's Stones#Unus Stones | Unus Stone Table]]
+*see Unus Stone Table
 
 ### Price Table
 | d10 | Selling Price | Buying Price |

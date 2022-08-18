@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Ithilmore
 Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that resides in the heart of the [[Willowdust Woods]]. It is the capital of [[Kandallo]]. 
 
@@ -49,12 +53,12 @@ Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that re
 Ithilmore is governed by the ruling body of [[Kandallo]]: the Council of Elders. 
 
 ## Defense
-Ithilmore's main defense comes from the natural protection of the [[Ezavriel#Willowdust Woods | Willowdust Woods]]. The city is protected from sea attacks by being more than halfway 
+Ithilmore's main defense comes from the natural protection of the [[Willowdust Woods]]. The city is protected from sea attacks by being more than halfway 
 
 ## Commerce
 - Exports to surrounding towns of [[Kandallo]]
 - Stone mined from mountains to the NW
-- Has sea routes with [[Opira]] and [[Yhora (City) | Yhora]]
+- Has sea routes with [[Opira]] and [[Yhora (City)]]
 - Uses main river to bring goods into or out of the city
 
 ## Organizations
