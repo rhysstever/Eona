@@ -24,7 +24,7 @@ Male Triton, True Neutral
 
 > TODO: Other reps
 > 2 more representative of [[Opira]]
-> 1 more representative of [[Yalos]] and [[Port Qane
+> 1 more representative of [[Yalos]] and [[Port Qane]]
 
 ## History
 > TODO: History

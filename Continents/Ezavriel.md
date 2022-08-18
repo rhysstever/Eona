@@ -47,6 +47,6 @@ The [[Pyretide Islands]] are a group of hotpot islands off the southeast coast o
 [[Faroot Island]] is a large island, south of [[Yalos]]. It has a very hot climate, due to its location. 
 
 ### Other Locations
-Some other geographical points of interest include the [[Wayward Isles]]: an array of tiny islands scattered across the western seas, the [[Willowdust Woods]]: a dense forest that stands to the northwest, and the [[Sea of Yhor]] is the largest intercontinental body of water to the northeast. 
+Some lesser geographical points of interest include the [[Wayward Isles]]: an array of tiny islands scattered across the western seas, the [[Willowdust Woods]]: a dense forest that stands to the northwest, and the [[Sea of Yhor]] is the largest intercontinental body of water to the northeast. 
 
 #World

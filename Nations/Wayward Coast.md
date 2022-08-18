@@ -3,7 +3,7 @@ dg-publish: false
 ---
 
 # Wayward Coast
-The Wayward ("WAY-WAR-D") Coast is a small nation on the south western tip of [[Ezavriel]]. The nation controls many small islands throughout the ocean, namely the Wayward Isles. It's capital, [[Esila]], sits on the mainland of [[Ezavriel]]. It is where the Empress and her Archpriests reside. 
+The Wayward ("WAY-WAR-D") Coast is a small nation on the south western tip of [[Ezavriel]]. The nation controls many small islands throughout the ocean, namely the [[Wayward Isles]]. It's capital, [[Esila]], sits on the mainland of [[Ezavriel]]. It is where the Empress and her Archpriests reside. 
 
 Due to the geography of the nation, citizens' daily lives revolve around sea life. Common occupations include: crew working on a ship, dockhands loading and unloading shipments, and merchants selling acquired goods. 
 
@@ -31,7 +31,7 @@ Female Human
 ### The Coast's Beginnings
 
 ### Opirian Control
-- Eventually the Opirian Alliance takes control (maybe uses airships)
+- Eventually the [[Opirian Alliance]] takes control (maybe uses airships)
 
 
 #Organization

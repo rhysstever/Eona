@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Xerthanos Sparklecloak.md",
+            "file": "Organizations/Black Rose.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Xerthanos Sparklecloak.md",
+                "file": "Organizations/Black Rose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Xerthanos Sparklecloak.md",
+                "file": "Organizations/Black Rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Xerthanos Sparklecloak.md",
+                "file": "Organizations/Black Rose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Xerthanos Sparklecloak.md"
+                "file": "Organizations/Black Rose.md"
               }
             }
           }
@@ -225,17 +225,17 @@
     "direction": "horizontal",
     "width": 571
   },
-  "active": "5ca465a7f7a67fed",
+  "active": "253f9e111da6071e",
   "lastOpenFiles": [
+    "Events/Yhorian-Opirian War.md",
+    "Events/Explosion in Opira.md",
+    "Events/Discovery of the Khitonian River.md",
+    "Continents/Ezavriel.md",
     "Nations/Wayward Coast.md",
-    "Organizations/Shops/Stone's Stones.md",
-    "People/Sontar Raloran.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 6 - Meeting Up.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 4 - Pieces Coming Together.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2.5 - The Cost of Life.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 2 - Heated Discussion.md",
-    "Adventures/Campaigns/Whispers In Opira/DM Notes - NOT FOR PLAYERS/Clues.md",
-    "Organizations/Order of Whispers.md",
-    "Religion/Lost Abyss.md"
+    "Nations/Baohua.md",
+    "Nations/Opirian Alliance.md",
+    "Nations/Yhorian Empire.md",
+    "Nations/Kandallo.md",
+    "People/Xerthanos Sparklecloak.md"
   ]
 }
