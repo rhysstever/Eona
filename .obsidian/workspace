@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "253f9e111da6071e",
+        "id": "e7ee7b09e3f6685d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizations/Black Rose.md",
+            "file": "Eona (World).md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Black Rose.md",
+                "file": "Eona (World).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Black Rose.md"
+                "file": "Eona (World).md"
               }
             }
           }
@@ -223,19 +223,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571
+    "width": 571,
+    "collapsed": true
   },
-  "active": "5ca465a7f7a67fed",
+  "active": "e7ee7b09e3f6685d",
   "lastOpenFiles": [
-    "Religion/Deities of Eona.md",
+    "README.md",
     "Eona (World).md",
-    "Continents/Ezavriel.md",
-    "Nations/Kandallo.md",
-    "Organizations/Shops/Stone's Stones.md",
-    "Organizations/Black Rose.md",
+    "Events/Timeline of Ezavriel.md",
+    "Events/Stonewall Industries Established.md",
     "Events/Yhorian-Opirian War.md",
+    "Events/Founding of Yhora.md",
+    "Events/_Event_Template.md",
+    "Continents/Ezavriel.md",
     "Events/Explosion in Opira.md",
-    "Events/Discovery of the Khitonian River.md",
-    "Nations/Wayward Coast.md"
+    "Events/Discovery of the Khitonian River.md"
   ]
 }

@@ -28,19 +28,14 @@ Male High Elf, Neutral Good
 ### [[Yolanda Mei]], Master of Transport 
 Female Dragonborn, Lawful Neutral
 
-> TODO: People
-> - Master of Knowledge
-> - Master of Defense
-> - Master of Magic
+### Zanba Bronzehorn, Master of Knowledge 
+Non-binary Minotaur, True Neutral
 
-### Name, Master of Knowledge 
-Gender Race, Alignment
+### Tharisli Ambershield, Master of Defense 
+Female Dwarf, Lawful Neutral
 
-### Name, Master of Defense 
-Gender Race, Alignment
-
-### Name, Master of Magic 
-Gender Race, Alignment
+### Guulum Rubyheart, Master of Magic 
+Male Orc, Neutral Good
 
 ## History
 ### The Rise of the Yhorian Empire

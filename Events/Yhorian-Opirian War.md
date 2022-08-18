@@ -4,6 +4,15 @@ dg-publish: false
 
 > TODO: Length of war, date of boat explosion, name of boat
 
+<span 
+	  class='ob-timelines' 
+	  data-date='1453-00-00-00' 
+	  data-title='Yhorian-Opirian War' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='1456-00-00-00'> 
+</span>
+
 # Yhorian-Opirian War
 The Yhorian-Opirian War, sometimes shortened to the YEOA War ("YEE-OH-UH"), lasted from 1453 to YEAR. 
 
@@ -34,4 +43,4 @@ The war unofficially ended when Opirian ships entered the Sea of Yhor. At this p
 
 The treaty required the [[Yhorian Empire]] to relinquish control of all of its major settlements, outside of its capital. It stated that [[Eighwood]] would officially be under the control of the [[Opirian Alliance]]. All other remaining major settlements were freed from Yhorian rule, but were required to become trade partners with the alliance. 
 
-#Event
+#timeline #Event

@@ -9,6 +9,8 @@ Due to the geography of the nation, citizens' daily lives revolve around sea lif
 
 Society in the Wayward Coast is intertwined in religious worship. Citizens can only progress by furthering their connection with the Empress and her connection to Atal the All-Bright and Yher the Dark One (see [[Deities of Eona]]). 
 
+The Way of the Sun and Moon.
+
 ## Relationships
 Most citizens of the Wayward Coast follow the teachings of Atal the All-Bright and Yher the Dark One and, thus the Empress's rule. Non-believers usually feel societal pressure to worship and many convert. The Empress is regarded as an extension of Atal and Yher, so most people consider them at least part deity.
 
