@@ -28,11 +28,11 @@ Within every major nation of [[Ezavriel]], the following deities are approved an
 | Zaas the Whispered One    | secrets                | CE        | A blood-splattered envelope              |
 
 ### Alignments
-| ---         | Lawful                                              | Neutral                                              | Chaotic                |
-| ----------- | --------------------------------------------------- | ---------------------------------------------------- | ---------------------- |
-| **Good**    | Eona the Creator                                    | Atal the All-Bright<br><br> Unus the All-Knowing     | Ovara the Life-bringer  |
-| **Neutral** | Thoros the Ultimate Judge<br><br> Vhord the Warrior | Meralin the Wild Mage<br><br> Yher the Dark One      | Kyen the Blood-driven  |
-| **Evil**    | Nokzol the Oppressor                                 | Kremmel the City Slayer<br><br> Oros the Undying One | Zaas the Whispered One |
+| ---         | Lawful                                             | Neutral                                             | Chaotic                |
+| ----------- | -------------------------------------------------- | --------------------------------------------------- | ---------------------- |
+| **Good**    | Eona the Creator                                   | Atal the All-Bright<br><br>Unus the All-Knowing     | Ovara the Life-bringer |
+| **Neutral** | Thoros the Ultimate Judge<br><br>Vhord the Warrior | Meralin the Wild Mage<br><br>Yher the Dark One      | Kyen the Blood-driven  |
+| **Evil**    | Nokzol the Oppressor                               | Kremmel the City Slayer<br><br>Oros the Undying One | Zaas the Whispered One |
 
 ## Deities List
 ### Atal the All-Bright
@@ -40,7 +40,7 @@ Within every major nation of [[Ezavriel]], the following deities are approved an
 **Alignment:** NG  
 **Symbol:** An eight-pointed sun  
 **Suggested Domains:** Life, Light, Nature, Tempest, Trickery  
-**Other Titles:**  
+**Other Titles:** The Great Sun  
 
 Atal is a greater deity of the sun and light. 
 
@@ -76,7 +76,7 @@ Kyen is a greater deity of vengeance and anarchy.
 **Alignment:** N  
 **Symbol:** A circle of two four-pointed stars  
 **Possible Domains:** Arcana, Knowledge  
-**Other Titles:**    
+**Other Titles:** the Weavermaster  
 
 Meralin is a greater deity of magic. 
 
@@ -94,7 +94,7 @@ Nokzol is a greater deity of tyranny.
 **Alignment:** NE  
 **Symbol:** A partially corroded skull  
 **Possible Domains:** Death, Grave, Trickery  
-**Other Titles:**    
+**Other Titles:** the Unending  
 
 Oros is a greater deity of the undead and decay. 
 
@@ -103,7 +103,7 @@ Oros is a greater deity of the undead and decay.
 **Alignment:** CG  
 **Symbol:** A tree with a thick canopy  
 **Possible Domains:** Life, Light, Nature, Tempest  
-**Other Titles:**   
+**Other Titles:**    
 
 Ovara is a greater deity of life and growth. 
 
@@ -121,7 +121,7 @@ Thoros is a greater deity of justice.
 **Alignment:** NG  
 **Symbol:** An open tome  
 **Possible Domains:** Arcana, Knowledge  
-**Other Titles:**   
+**Other Titles:** the World's Mentor  
 
 Unus is a greater deity of knowledge. 
 

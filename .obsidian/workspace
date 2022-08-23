@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eona (World).md",
+            "file": "Events/Yhorian-Opirian War.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eona (World).md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eona (World).md"
+                "file": "Events/Yhorian-Opirian War.md"
               }
             }
           }
@@ -223,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571,
-    "collapsed": true
+    "width": 571
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
-    "Continents/Ezavriel.md",
+    "Nations/Opirian Alliance.md",
+    "Nations/Baohua.md",
+    "Religion/Deities of Eona.md",
     "Eona (World).md",
+    "Continents/Ezavriel.md",
     "Continents/_Continent_Template.md",
     "Images/TimelineImage.png",
     "Timeline of Ezavriel.md",
     "Events/Discovery of the Khitonian River.md",
-    "People/Jaayfin Oakroot II.md",
-    "People/_Person_Template.md",
-    "Nations/Baohua.md",
-    "Nations/Opirian Alliance.md"
+    "People/Jaayfin Oakroot II.md"
   ]
 }
