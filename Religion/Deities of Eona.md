@@ -28,11 +28,11 @@ Within every major nation of [[Ezavriel]], the following deities are approved an
 | Zaas the Whispered One    | secrets                | CE        | A blood-splattered envelope              |
 
 ### Alignments
-| ---         | Lawful                                             | Neutral                                             | Chaotic                |
-| ----------- | -------------------------------------------------- | --------------------------------------------------- | ---------------------- |
-| **Good**    | Eona the Creator                                   | Atal the All-Bright<br><br>Unus the All-Knowing     | Ovara the Life-bringer |
-| **Neutral** | Thoros the Ultimate Judge<br><br>Vhord the Warrior | Meralin the Wild Mage<br><br>Yher the Dark One      | Kyen the Blood-driven  |
-| **Evil**    | Nokzol the Oppressor                               | Kremmel the City Slayer<br><br>Oros the Undying One | Zaas the Whispered One |
+| ---         | Lawful                                         | Neutral                                         | Chaotic                |
+| ----------- | ---------------------------------------------- | ----------------------------------------------- | ---------------------- |
+| **Good**    | Eona the Creator                               | Atal the All-Bright<br>Unus the All-Knowing     | Ovara the Life-bringer |
+| **Neutral** | Thoros the Ultimate Judge<br>Vhord the Warrior | Meralin the Wild Mage<br>Yher the Dark One      | Kyen the Blood-driven  |
+| **Evil**    | Nokzol the Oppressor                           | Kremmel the City Slayer<br>Oros the Undying One | Zaas the Whispered One |
 
 ## Deities List
 ### Atal the All-Bright

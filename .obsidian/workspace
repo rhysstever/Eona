@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Yhorian-Opirian War.md",
+            "file": "Religion/Deities of Eona.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "Religion/Deities of Eona.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "Religion/Deities of Eona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "Religion/Deities of Eona.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md"
+                "file": "Religion/Deities of Eona.md"
               }
             }
           }
@@ -223,10 +223,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571
+    "width": 571,
+    "collapsed": true
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
+    "Events/Yhorian-Opirian War.md",
     "Nations/Opirian Alliance.md",
     "Nations/Baohua.md",
     "Religion/Deities of Eona.md",
@@ -235,7 +237,6 @@
     "Continents/_Continent_Template.md",
     "Images/TimelineImage.png",
     "Timeline of Ezavriel.md",
-    "Events/Discovery of the Khitonian River.md",
-    "People/Jaayfin Oakroot II.md"
+    "Events/Discovery of the Khitonian River.md"
   ]
 }
