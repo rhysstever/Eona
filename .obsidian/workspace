@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Baohua.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a0d0dfdd87c18a59",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nations/Opirian Alliance.md",
+            "file": "Timeline of Ezavriel.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Timeline of Ezavriel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Timeline of Ezavriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Baohua.md",
+                "file": "Timeline of Ezavriel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Baohua.md"
+                "file": "Timeline of Ezavriel.md"
               }
             }
           }
@@ -240,15 +228,15 @@
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
-    "Events/Yhorian-Opirian War.md",
+    "Events/Discovery of the Khitonian River.md",
+    "Timeline of Ezavriel.md",
+    "People/Jaayfin Oakroot II.md",
+    "Eona (World).md",
+    "People/_Person_Template.md",
     "Nations/Baohua.md",
     "Nations/Opirian Alliance.md",
+    "Events/Yhorian-Opirian War.md",
     "Images/Ezavriel_Maps/Ezavriel_Labeled.jpg",
-    "Continents/Ezavriel.md",
-    "People/Ykti Solarclaw.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Kandallo.md",
-    "Settlements/Opira.md"
+    "Continents/Ezavriel.md"
   ]
 }
