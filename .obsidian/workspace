@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline of Ezavriel.md",
+            "file": "Eona (World).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Timeline of Ezavriel.md",
+                "file": "Eona (World).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline of Ezavriel.md",
+                "file": "Eona (World).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline of Ezavriel.md",
+                "file": "Eona (World).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline of Ezavriel.md"
+                "file": "Eona (World).md"
               }
             }
           }
@@ -228,15 +228,15 @@
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
-    "Events/Discovery of the Khitonian River.md",
-    "Timeline of Ezavriel.md",
-    "People/Jaayfin Oakroot II.md",
+    "Continents/Ezavriel.md",
     "Eona (World).md",
+    "Continents/_Continent_Template.md",
+    "Images/TimelineImage.png",
+    "Timeline of Ezavriel.md",
+    "Events/Discovery of the Khitonian River.md",
+    "People/Jaayfin Oakroot II.md",
     "People/_Person_Template.md",
     "Nations/Baohua.md",
-    "Nations/Opirian Alliance.md",
-    "Events/Yhorian-Opirian War.md",
-    "Images/Ezavriel_Maps/Ezavriel_Labeled.jpg",
-    "Continents/Ezavriel.md"
+    "Nations/Opirian Alliance.md"
   ]
 }

@@ -5,7 +5,7 @@ dg-publish: true
 ![[Ezavriel_Labeled.jpg|1000]]
 
 # Ezavriel
-Ezavriel ("EH-ZAV-REE-UL") is a large, warm-climate continent, located in the northern hemisphere of [[Eona (World)]]. It has two major two halves, connected by a single, central isthmus. 
+Ezavriel ("EH-ZAV-REE-UL") is a warm-climate continent, located in the northern hemisphere of [[Eona (World)]]. It has two major two halves, connected by a single, central isthmus. 
 
 ## History
 The [[Timeline of Ezavriel]] outlines major events of the continent. 
