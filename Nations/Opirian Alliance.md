@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 # Opirian Alliance
@@ -16,18 +16,17 @@ The Opirian Alliance is placed in the center of [[Ezavriel]]. This makes cross-c
 ### [[Uga]], Representative of [[Opira]]
 Female Lizardfolk, True Neutral
 
+### Squruaw, Representative of [[Opira]]
+Non-binary Kenku, True Neutral
+
 ### [[Cloud in the Sky]] (Sky), Representative of [[Port Qane]]
 Female Tabaxi, True Neutral
 
 ### [[Zuhrus Razanath]], Representative of [[Yalos]]
 Male Triton, True Neutral
 
-> TODO: Other reps
-> 2 more representative of [[Opira]]
-> 1 more representative of [[Yalos]] and [[Port Qane]]
-
-## History
 > TODO: History
+## History
 ### The Alliance Creation
 
 ### The Yhorian-Opirian War

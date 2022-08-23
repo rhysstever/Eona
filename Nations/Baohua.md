@@ -22,7 +22,25 @@ Female Firbolg
 ### [[Kior Solarclaw]], Hand to the Chief
 Male Leonin
 
-## History
 > TODO: Baohua_History
+## History
+### Meeting the Mesas
+- To most, a folk tale
+- first chief used the mesas for protection from the elements 
+- Mesas block harsh winds and sun + Khitonian river created fertile soil 
+
+### Forged in the Sun
+- Metal found in surrounding mountains, incorporated into everyday life
+- Weapons forged for fighters/scouts/guards
+- Cables/long poles created for settlements
+	- Cables allow zip-lining between mesas 
+	- Are lubricated by cactus-like plant goo
+
+### Interaction from the North
+- Traveler from [[Discovery of the Khitonian River]]
+
+### Changing Neighbors
+- Post [[Yhorian-Opirian War]]
+- Airship port
 
 #Organization
