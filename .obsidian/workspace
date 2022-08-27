@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Deities of Eona.md",
+            "file": "Nations/Yhorian Empire.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Nations/Yhorian Empire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Nations/Yhorian Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Nations/Yhorian Empire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Deities of Eona.md"
+                "file": "Nations/Yhorian Empire.md"
               }
             }
           }
@@ -223,20 +223,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571,
-    "collapsed": true
+    "width": 479.5
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
-    "Events/Yhorian-Opirian War.md",
-    "Nations/Opirian Alliance.md",
     "Nations/Baohua.md",
+    "Nations/Kandallo.md",
+    "Nations/Opirian Alliance.md",
+    "Nations/Wayward Coast.md",
+    "Nations/Yhorian Empire.md",
+    "Images/Sigils/kandalloSigil.png",
+    "Images/Sigils/_Source.md",
     "Religion/Deities of Eona.md",
-    "Eona (World).md",
-    "Continents/Ezavriel.md",
-    "Continents/_Continent_Template.md",
-    "Images/TimelineImage.png",
     "Timeline of Ezavriel.md",
-    "Events/Discovery of the Khitonian River.md"
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 1 - Welcome to Opira.md"
   ]
 }

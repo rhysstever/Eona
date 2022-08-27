@@ -2,10 +2,11 @@
 dg-publish: true
 ---
 
+![[yhorianEmpireSigil.png|500]]
 # Yhorian Empire
 The Yhorian ("Y-OR-EE-AN") Empire is the largest and most dominate nation in [[Ezavriel]]. It has ruled as a monarchy under the Yhora family for over 2000 years. They govern from their home and capital of their empire: [[Yhora (City)]].
 
-The Yhorian royal family have been able to create a stable life for many throughout their empire. Distracted by prospering settlements and thriving trade, the average commoner has forgotten the bloodied history when the Yhora family first rose to power. As long as the empire continues to flourish, the general view of the royal family remains in good light. There will always be those eagerly awaiting their downfall, but that is natural when it comes to long-standing forms of authority. 
+The Yhoras have created a stable life for many throughout their empire. They have achieve safety through policies of justice, gaining the trust and support of the populous. For the commoner, the empire is a safe place, far from any roving bandits, plundering pirates, or terrifying monstrosities. The royal family is regarded with celebrity status as the common folk live their wildest dreams vicariously through them. 
 
 ## Relationships
 To the common citizen, the Yhorian Empire is a strong, extensive governing body that gives them opportunity and comfort. As long as laws are followed, people under Yhorian rule can live their lives with little fear of catastrophe and danger.  
@@ -46,5 +47,8 @@ The Yhorian Empire went to war against the [[Opirian Alliance]], which would be 
 
 ### The Fall of the Yhorian Empire 
 The [[Yhorian-Opirian War]] marked the end of the [[Yhorian Empire]]. What started as a expansive nation that controlled much of [[Ezavriel]], shriveled to a single remaining city. 
+
+## Music/Inspiration
+- https://open.spotify.com/playlist/7o7UIC832EqZz74GB1grEt?si=df69cdae5d624d80
 
 #Organization

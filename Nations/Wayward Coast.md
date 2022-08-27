@@ -2,12 +2,16 @@
 dg-publish: true
 ---
 
+![[waywardCoastSigil.png|500]]
 # Wayward Coast
 The Wayward ("WAY-WAR-D") Coast is a small nation on the south western tip of [[Ezavriel]]. The nation controls many small islands throughout the ocean, namely the [[Wayward Isles]]. It's capital, [[Esila]], sits on the mainland of [[Ezavriel]]. It is where the Empress and her Archpriests reside. 
 
-Due to the geography of the nation, citizens' daily lives revolve around sea life. Common occupations include: crew working on a ship, dockhands loading and unloading shipments, and merchants selling acquired goods. 
+Society in the Wayward Coast cherishes faith, balance, and the seas. They worship the Way of the Sun and Moon, referring to the deities Atal the All-Bright and Yher the Dark One. To worship the Way of the Sun and Moon is to believe in the balance of the world. Darkness is never seen as evil. The sun is not good and the moon is not bad. 
 
-Society in the Wayward Coast is intertwined in religion. While they recognize all of the [[Deities of Eona]], they specifically worship the Way of the Sun and Moon, which pledges to the deities Atal the All-Bright and Yher the Dark One. 
+*There is no light without darkness.* 
+*A world of all light is blinding.*
+
+Subsequently, it is hard to find an occupation within the Wayward Coast that is not tied to sea. Many citizens work as crew of a ship, dockhands, or merchants selling newly-acquired goods. Even the lowliest sailor will pray to deities above. Atal is prayed to in order to keep the weather nice for sailing and Yher is asked that the currents may flow favorably. 
 
 ## Relationships
 Most citizens of the Wayward Coast follow the teachings of Atal the All-Bright and Yher the Dark One and, thus the Empress's rule. Non-believers usually feel societal pressure to worship and many convert. The Empress is regarded as an extension of Atal and Yher, so most people consider them at least part deity.
@@ -30,7 +34,7 @@ The islands originally governed themselves, before merchants and missionaries sa
 
 As more missionaries arrived on the isles, more islanders were converted. When a majority of the inhabitants followed the Way of the Sun and Moon, [[Esila]] proclaimed sovereignty of the isles. 
 
-As [[Esila]]'s influence grew, the [[Wayward Coast]] was established to be continentally recognized, and thus the Wayward Isles were named. 
+As [[Esila]]'s influence grew, the [[Wayward Coast]] was established to be continentally recognized, and thus the [[Wayward Isles]] were named. 
 
 After the [[Wayward Coast]] waned, the islands returned to their original state of governing themselves. 
 
@@ -39,5 +43,8 @@ After the [[Yhorian-Opirian War]] and the [[Opirian Alliance]] continued its exp
 
 Due to this resource strain, the [[Wayward Isles]] could no longer be supported and the Empress and Archpriests agreed to relinquish their control of them.
 
+
+## Music/Inspiration
+- https://open.spotify.com/playlist/14ARRvkke5YmFYsYzKb7fV?si=248c8a84505641b8
 
 #Organization

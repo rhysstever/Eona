@@ -2,10 +2,13 @@
 dg-publish: true
 ---
 
+![[baohuaSigil.png|500]]
 # Baohua
 Baohua ("B-OW-WHO-A") is a nation in the south eastern desert of [[Ezavriel]]. Its capital is the mesa city [[Khiton]] and is where its chief. 
 
-The Baohuan people deeply cherish their land, history, and customs. Initially meeting someone from Baohua, one would assume they are standoffish. Further contact would reveal, however, that they are a rather proud and stoic people. They rarely show expression, even to those closest to them.
+The Baohuan people deeply cherish their land, history, and traditions. Every Baohuan from an early age learns tales of the earliest settlers. They learn about the early settlers' resilience against the harsh weather. Generation by generation these tales are passed down. 
+
+Like their history, the Baohuan people are tough and resilient. Living amidst the [[Hungry Expanse]] is not a life of comfort or luxury, even for the most well off. They live by learning how their ancestors lived on the same land thousands of years ago. To disrespect how they live, is to disrespect all of the Baohuans before them. 
 
 ## Relationships
 The people of Baohua deeply cherish their land and their elected chief reflects the same ideals. Each member of the community respects one another as equals, despite social status. Even the chief and his family greets each commoner, like an honored guest.  
@@ -42,5 +45,8 @@ Male Leonin
 ### Changing Neighbors
 - Post [[Yhorian-Opirian War]]
 - Airship port
+
+## Music/Inspiration
+- https://open.spotify.com/playlist/5gb1Rn9tTcRiFdKL84ushj?si=c6da629685bf4220
 
 #Organization

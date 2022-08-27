@@ -2,10 +2,13 @@
 dg-publish: true
 ---
 
+![[kandalloSigil.png|500]]
 # Kandallo
-Kandallo ("KAHN-DOLL-OH") is the northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]] and that is where the Council of Elders reside.
+Kandallo ("KAHN-DAHL-OH") is the northwest nation of [[Ezavriel]]. Its capital is [[Ithilmore]] and that is where the Council of Elders reside.
 
-Kandallans value imagination and free-spiritedness. Due to Kandallo's location, the nation faces occasional extreme weather from the North Sea. This requires many settlements, even [[Ithilmore]], to rebuild. While most cultures could not sustain such rebuilding, the Kandallans have learned over the generations to use the [[Willowdust Woods]] as a natural protection. 
+Kandallans value community and peace. First and foremost, they are a people that is close-knit with one another. To call the population of Kandallo, a family, would not be far off. Even those who have never met, would greet each other as old friends. Likewise, social status is rarely conferred. Even the Elders will regard a farmer they pass in the grove or an innkeeper along the trunk. 
+
+The nation of Kandallo is known externally for its neutrality. For better or for worse, the Elders usually refuse to send Kandallan forces into a conflict or send aid abroad. For this reason, they are frequently left out of meetings of different nations. 
 
 ## Relationships
 Citizens of Kandallo deeply respect the elders. People consider the elders to know what's best for the nation. The eiders wisdom is trusted and followed by all. While they do not speak for the deities, the elders are seen as deities' chosen.
@@ -60,5 +63,8 @@ Otrium is difficult to mine, however. It is both difficult to see amongst the da
 Kandallans learned Otrium was how people in the underdark would easily transport resources throughout their tunnel systems. Once deposits of Otrium began to trickle above the surface, the elders decided to focus on using Otrium help the general public. Carts and wagons, for example, were built with Otrium beneath them instead of wheels, allowing them to carry more and move more efficiently. 
 
 Some people within Kandallo saw Otrium as a way to earn coin. They would acquire batches of Otrium from the underdark, usually via barter or favor, since the underdark folk had little use for coin. Then, they began shipping it elsewhere in [[Ezavriel]]. For any major nation, Otrium was extremely valued, so naturally, the [[Opirian Alliance]] became their biggest customers. 
+
+## Music/Inspiration
+- https://open.spotify.com/playlist/4nIPzZvcYg6p1NylNAC53h?si=bf7aa6d41bcc40d1
 
 #Organization
