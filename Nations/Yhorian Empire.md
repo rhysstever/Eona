@@ -6,7 +6,7 @@ dg-publish: true
 # Yhorian Empire
 The Yhorian ("Y-OR-EE-AN") Empire is the largest and most dominate nation in [[Ezavriel]]. It has ruled as a monarchy under the Yhora family for over 2000 years. They govern from their home and capital of their empire: [[Yhora (City)]].
 
-The Yhoras have created a stable life for many throughout their empire. They have achieve safety through policies of justice, gaining the trust and support of the populous. For the commoner, the empire is a safe place, far from any roving bandits, plundering pirates, or terrifying monstrosities. The royal family is regarded with celebrity status as the common folk live their wildest dreams vicariously through them. 
+The Yhoras have created a stable life for many throughout their empire. They have achieve safety through an abundant military and policies of justice, gaining the trust and support of the populous. For the commoner, the empire is a safe place, far from any roving bandits, plundering pirates, or terrifying monstrosities. The royal family is regarded with celebrity status as the common folk live their wildest dreams vicariously through them. 
 
 ## Relationships
 To the common citizen, the Yhorian Empire is a strong, extensive governing body that gives them opportunity and comfort. As long as laws are followed, people under Yhorian rule can live their lives with little fear of catastrophe and danger.  
