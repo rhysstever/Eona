@@ -4,7 +4,7 @@ dg-publish: true
 
 ![[yhorianEmpireSigil.png|500]]
 # Yhorian Empire
-The Yhorian ("Y-OR-EE-AN") Empire is the largest and most dominate nation in [[Ezavriel]]. It has ruled as a monarchy under the Yhora family for over 2000 years. They govern from their home and capital of their empire: [[Yhora (City)]].
+The Yhorian ("Y-OR-EE-AN") Empire was the largest and most dominate nation in [[Ezavriel]]. It has ruled as a monarchy under the Yhora family for over 2000 years. They govern from their home and capital of their empire: [[Yhora (City)]].
 
 The Yhoras have created a stable life for many throughout their empire. They have achieve safety through an abundant military and policies of justice, gaining the trust and support of the populous. For the commoner, the empire is a safe place, far from any roving bandits, plundering pirates, or terrifying monstrosities. The royal family is regarded with celebrity status as the common folk live their wildest dreams vicariously through them. 
 
@@ -44,10 +44,9 @@ Thestros Yhora I founded the town of Yhora in what would be known as the [[Found
 
 As these towns grew, their developments promoted [[Yhora (City)]], and, not long after, the Yhoras held the first empire of the continent.  
 
-### The Yhorian-Opirian War
-The Yhorian Empire went to war against the [[Opirian Alliance]], which would be named the [[Yhorian-Opirian War]]. Ultimately, the [[Opirian Alliance]] defeated  the [[Yhorian Empire]]. The empire's forces were pushed back to their capital, [[Yhora (City)]] and peace was negotiated. 
+### Going to War and Fall of the Yhorian Empire
+The Yhorian Empire went to war against the [[Opirian Alliance]], which would be named the [[Yhorian-Opirian War]]. Ultimately, the [[Opirian Alliance]] defeated  the [[Yhorian Empire]]. The empire's forces were pushed back to their capital, [[Yhora (City)]] and peace was negotiated.  
 
-### The Fall of the Yhorian Empire 
 The [[Yhorian-Opirian War]] marked the end of the [[Yhorian Empire]]. What started as a expansive nation that controlled much of [[Ezavriel]], shriveled to a single remaining city. Public opinion of the Yhoras had plummeted, yet they managed to retain rule over the city. 
 
 ## Music/Inspiration

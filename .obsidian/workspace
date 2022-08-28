@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Yhorian Empire.md",
+            "file": "Events/Yhorian-Opirian War.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Yhorian Empire.md",
+                "file": "Events/Yhorian-Opirian War.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Yhorian Empire.md"
+                "file": "Events/Yhorian-Opirian War.md"
               }
             }
           }
@@ -229,15 +229,15 @@
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
+    "Events/Stonewall Industries Established.md",
+    "Events/Founding of Yhora.md",
+    "Events/Explosion in Opira.md",
+    "Events/Discovery of the Khitonian River.md",
+    "Settlements/Kanta.md",
+    "Nations/Yhorian Empire.md",
     "Nations/Wayward Coast.md",
     "Nations/Opirian Alliance.md",
     "Nations/Kandallo.md",
-    "Nations/Baohua.md",
-    "Nations/Yhorian Empire.md",
-    "People/Zuhrus Razanath.md",
-    "People/_Person_Template.md",
-    "Settlements/Ithilmore.md",
-    "Images/Sigils/kandalloSigil.png",
-    "Images/Sigils/_Source.md"
+    "Nations/Baohua.md"
   ]
 }

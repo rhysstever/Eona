@@ -2,6 +2,10 @@
 dg-publish: false
 ---
 
+# Stonewall Industries Established
+Jason Stonewall establishes Stonewall Industries
+
+
 <span 
 	  class='ob-timelines' 
 	  data-date='1454-00-00-00' 
@@ -10,8 +14,5 @@ dg-publish: false
 	  data-type='range' 
 	  data-end='1454-00-00-00'> 
 </span>
-
-# Stonewall Industries Established
-Jason Stonewall establishes Stonewall Industries
 
 #timeline #Event
