@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nations/Opirian Alliance.md",
+            "file": "Nations/Yhorian Empire.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 285.5
   },
   "right": {
     "id": "109c64a7db16d479",
@@ -62,6 +62,7 @@
       {
         "id": "232f5b5eed3c011d",
         "type": "tabs",
+        "dimension": 55.49815498154982,
         "children": [
           {
             "id": "be9af2271137137f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nations/Opirian Alliance.md",
+                "file": "Nations/Yhorian Empire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,6 +168,7 @@
       {
         "id": "8777fa7532decd67",
         "type": "tabs",
+        "dimension": 44.50184501845019,
         "children": [
           {
             "id": "62b0630b2baf43b0",
@@ -174,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations/Opirian Alliance.md",
+                "file": "Nations/Yhorian Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations/Opirian Alliance.md",
+                "file": "Nations/Yhorian Empire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations/Opirian Alliance.md"
+                "file": "Nations/Yhorian Empire.md"
               }
             }
           }
@@ -223,20 +225,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 390.5
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
-    "Nations/Baohua.md",
-    "Settlements/Ithilmore.md",
     "Nations/Wayward Coast.md",
-    "Nations/Kandallo.md",
     "Nations/Opirian Alliance.md",
+    "Nations/Kandallo.md",
+    "Nations/Baohua.md",
     "Nations/Yhorian Empire.md",
+    "People/Zuhrus Razanath.md",
+    "People/_Person_Template.md",
+    "Settlements/Ithilmore.md",
     "Images/Sigils/kandalloSigil.png",
-    "Images/Sigils/_Source.md",
-    "Religion/Deities of Eona.md",
-    "Timeline of Ezavriel.md"
+    "Images/Sigils/_Source.md"
   ]
 }

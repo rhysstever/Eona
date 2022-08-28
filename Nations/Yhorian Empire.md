@@ -40,15 +40,17 @@ Male Orc, Neutral Good
 
 ## History
 ### The Rise of the Yhorian Empire
-Thestros Yhora I establishes the town of Yhora in what would be known as the [[Founding of Yhora]]. 
+Thestros Yhora I founded the town of Yhora in what would be known as the [[Founding of Yhora]]. He appealed to the populous as a charismatic, and intelligent leader. He preached safety through unity, forming a well-trained army that secured lands all around [[Yhora (City)]]. Settlers followed the Yhorian army, establishing towns along main routes back to home city. 
+
+As these towns grew, their developments promoted [[Yhora (City)]], and, not long after, the Yhoras held the first empire of the continent.  
 
 ### The Yhorian-Opirian War
 The Yhorian Empire went to war against the [[Opirian Alliance]], which would be named the [[Yhorian-Opirian War]]. Ultimately, the [[Opirian Alliance]] defeated  the [[Yhorian Empire]]. The empire's forces were pushed back to their capital, [[Yhora (City)]] and peace was negotiated. 
 
 ### The Fall of the Yhorian Empire 
-The [[Yhorian-Opirian War]] marked the end of the [[Yhorian Empire]]. What started as a expansive nation that controlled much of [[Ezavriel]], shriveled to a single remaining city. 
+The [[Yhorian-Opirian War]] marked the end of the [[Yhorian Empire]]. What started as a expansive nation that controlled much of [[Ezavriel]], shriveled to a single remaining city. Public opinion of the Yhoras had plummeted, yet they managed to retain rule over the city. 
 
 ## Music/Inspiration
-- https://open.spotify.com/playlist/7o7UIC832EqZz74GB1grEt?si=df69cdae5d624d80
+- [D&D City - Large](https://open.spotify.com/playlist/7o7UIC832EqZz74GB1grEt)
 
 #Organization

@@ -65,6 +65,6 @@ Kandallans learned Otrium was how people in the underdark would easily transport
 Some people within Kandallo saw Otrium as a way to earn coin. They would acquire batches of Otrium from the underdark, usually via barter or favor, since the underdark folk had little use for coin. Then, they began shipping it elsewhere in [[Ezavriel]]. For any major nation, Otrium was extremely valued, so naturally, the [[Opirian Alliance]] became their biggest customers. 
 
 ## Music/Inspiration
-- https://open.spotify.com/playlist/4nIPzZvcYg6p1NylNAC53h?si=bf7aa6d41bcc40d1
+- [Magical Forest Instrumental](https://open.spotify.com/playlist/4nIPzZvcYg6p1NylNAC53h)
 
 #Organization
