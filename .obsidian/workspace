@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Yhorian-Opirian War.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
       {
         "id": "8777fa7532decd67",
         "type": "tabs",
-        "dimension": 44.50184501845019,
+        "dimension": 44.5018450184502,
         "children": [
           {
             "id": "62b0630b2baf43b0",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md"
+                "file": "README.md"
               }
             }
           }
@@ -229,15 +229,15 @@
   },
   "active": "af8e251420f0fa56",
   "lastOpenFiles": [
+    "Timeline of Ezavriel.md",
+    "README.md",
+    "Organizations/Black Rose.md",
+    "Organizations/Order of Whispers.md",
+    "Organizations/_Organization_Template.md",
+    "Events/Yhorian-Opirian War.md",
     "Events/Stonewall Industries Established.md",
     "Events/Founding of Yhora.md",
     "Events/Explosion in Opira.md",
-    "Events/Discovery of the Khitonian River.md",
-    "Settlements/Kanta.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Opirian Alliance.md",
-    "Nations/Kandallo.md",
-    "Nations/Baohua.md"
+    "Events/Discovery of the Khitonian River.md"
   ]
 }
