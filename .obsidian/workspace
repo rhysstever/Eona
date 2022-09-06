@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af8e251420f0fa56",
+        "id": "30549cb81af0a318",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Events/Yhorian-Opirian War.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
-                "matchingCase": false,
+                "query": "Kan",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +163,7 @@
       {
         "id": "8777fa7532decd67",
         "type": "tabs",
-        "dimension": 44.50184501845019,
+        "dimension": 44.5018450184502,
         "children": [
           {
             "id": "62b0630b2baf43b0",
@@ -176,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +187,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Yhorian-Opirian War.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,9 +208,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Events/Yhorian-Opirian War.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -227,17 +218,17 @@
     "direction": "horizontal",
     "width": 390.5
   },
-  "active": "af8e251420f0fa56",
+  "active": "30549cb81af0a318",
   "lastOpenFiles": [
-    "Events/Stonewall Industries Established.md",
-    "Events/Founding of Yhora.md",
-    "Events/Explosion in Opira.md",
-    "Events/Discovery of the Khitonian River.md",
-    "Settlements/Kanta.md",
-    "Nations/Yhorian Empire.md",
-    "Nations/Wayward Coast.md",
-    "Nations/Opirian Alliance.md",
+    "Settlements/Ithilmore.md",
     "Nations/Kandallo.md",
-    "Nations/Baohua.md"
+    "Settlements/Kanta.md",
+    "Settlements/Yhora (City).md",
+    "Settlements/Yalos.md",
+    "Nations/Yhoran Empire.md",
+    "People/King Xuan Vander Yhora.md",
+    "Events/Discovery of the Khitonian River.md",
+    "People/Jaayfin Oakroot II.md",
+    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md"
   ]
 }

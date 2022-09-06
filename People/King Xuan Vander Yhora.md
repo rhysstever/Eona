@@ -2,18 +2,18 @@
 dg-publish: false
 ---
 
-# King Xuan Vander Yhora, King of the Yhorian Empire
+# King Xuan Vander Yhora
+> TODO: Appearance, Personality, Personal History
+
 - Male High Elf
-- King of the [[Yhorian Empire]]
+- King of the [[Yhoran Empire]]
 - Younger brother to [[Thestros Yhora III]]
 
 ## Appearance
 - Older
 
-> TODO: Appearance 
 
 ## Personality
-> TODO: Personality 
 
 ### Ideals
 
@@ -28,6 +28,7 @@ dg-publish: false
 
 
 ## History
-> TODO: History
+
+
 
 #Person

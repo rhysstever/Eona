@@ -11,13 +11,13 @@ Ezavriel ("EH-ZAV-REE-UL") is a warm-climate continent, located in the northern 
 The [[Timeline of Ezavriel]] outlines major events of the continent. 
 
 ## Nations
-Five nations occupy the continent of Ezavriel: [[Baohua]], [[Kandallo]], the [[Opirian Alliance]], the [[Wayward Coast]], and the [[Yhorian Empire]]. Each one controls a different territory, utilizing its unique resources to grow and thrive. 
+Five nations occupy the continent of Ezavriel: [[Baohua]], [[Kandallo]], the [[Opirian Alliance]], the [[Wayward Coast]], and the [[Yhoran Empire]]. Each one controls a different territory, utilizing its unique resources to grow and thrive. 
 
 ### Opirian Alliance
 The [[Opirian Alliance]] lays in the center of Ezavriel. The alliance is an agreement between many port cities and towns. The most influential settlement in the alliance is [[Opira]].
 
-### Yhorian Empire
-The [[Yhorian Empire]] is the most predominate nation of Ezavriel. It takes up the upper half of eastern Ezavriel. The empire regulates all trade throughout the territory, ensuring any business ultimately benefits the capital, [[Yhora (City)]].
+### Yhoran Empire
+The [[Yhoran Empire]] is the most predominate nation of Ezavriel. It takes up the upper half of eastern Ezavriel. The empire regulates all trade throughout the territory, ensuring any business ultimately benefits the capital, [[Yhora (City)]].
 
 ### Kandallo
 To the northwest, the nation of [[Kandallo]] sits, nestled in the [[Willowdust Woods]]. [[Ithilmore]] is its capital and is built around the World Tree.

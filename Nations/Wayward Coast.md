@@ -39,7 +39,7 @@ As [[Esila]]'s influence grew, the [[Wayward Coast]] was established to be conti
 After the [[Wayward Coast]] waned, the islands returned to their original state of governing themselves. 
 
 ### The Wane of the Coast
-After the [[Yhorian-Opirian War]] and the [[Opirian Alliance]] continued its expansions, [[Esila]] was pulled into focus. With the advancement of airships, Opirian forces could easily travel over the [[Mirthvale Swamp]] and the mountains below, over to [[Esila]]. While the Opirian expansion to the west was stifled, much of the Wayward Coast's resources were expended. 
+After the [[Yhoran-Opirian War]] and the [[Opirian Alliance]] continued its expansions, [[Esila]] was pulled into focus. With the advancement of airships, Opirian forces could easily travel over the [[Mirthvale Swamp]] and the mountains below, over to [[Esila]]. While the Opirian expansion to the west was stifled, much of the Wayward Coast's resources were expended. 
 
 Due to this resource strain, the [[Wayward Isles]] could no longer be supported and the Empress and Archpriests agreed to relinquish their control of them.
 

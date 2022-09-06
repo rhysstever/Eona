@@ -7,7 +7,7 @@ Notable NPCs: [[Thestros Yhora III]]
 In-Game Date: 19th of Eonum, 1452
 
 ## A Little Retconning
-- Rest of [[Yhorian Empire]] guard (about 5) rejoined 
+- Rest of [[Yhoran Empire]] guard (about 5) rejoined 
 
 ## Ghosts of Kandallo
 - As both rest, experience visions of Yher
@@ -35,14 +35,14 @@ In-Game Date: 19th of Eonum, 1452
 - After all questioning is finished, people are free to walk between wings of the keep
 
 ## Re-creating the Fantastic Five
-- Xerthanos and Sontar go to the Yhorian Empire wing 
+- Xerthanos and Sontar go to the [[Yhoran Empire]] wing 
 	- All 5 meet up and talk about how the Kandallan assistants are alive now 
 	- R tries to go to the meeting room, but is rejected by the guards
 - The group considers who could have set off the blast and be a suspect 
 - They all try to go to the meeting room, rejected by the guards
 	- The group heads outside to see the window to the meeting room
 	- Xerthanos hears the town crier's story for the day - R recognizes the wording and information in it
-		- "Extra! Extra! Attack on meeting in Opirian Keep. Explosion set off in main chamber, killing or injuring everyone in attendance. Yhorian Empire's Minister of Transport and Assistant to Coin among the deceased. No suspects known."
+		- "Extra! Extra! Attack on meeting in Opirian Keep. Explosion set off in main chamber, killing or injuring everyone in attendance. [[Yhoran Empire]]'s Minister of Transport and Assistant to Coin among the deceased. No suspects known."
 - R splits from the group and asks around the keep to see if any reply to "Not what he seems"
 	- Writes a letter to Sontar asking about learning more about Unus
 - R writes Sontar a letter about being a follower of Unus

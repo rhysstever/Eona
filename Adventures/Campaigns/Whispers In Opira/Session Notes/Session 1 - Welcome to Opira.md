@@ -22,7 +22,7 @@ In-Game Date: 18th of Eonum, 1452
 - All caravans arrive at the Keep in [[Opira]]
 - Each group of representatives are lead to a different wing
 	- North - [[Opirian Alliance]]
-	- East - [[Yhorian Empire]]
+	- East - [[Yhoran Empire]]
 	- West - [[Kandallo]] & [[Wayward Coast]]
 	- South - [[Baohua]]
 	- Each wing has several rooms, including a study
@@ -32,22 +32,22 @@ In-Game Date: 18th of Eonum, 1452
 	- Sontar gets lost and meets up with them
 	- The group meet each other and play cards
 	- Xerthanos copies R's list of attendees 
-- Sontar leaves and finds a local Unus temple, researching the history of Opira
+- Sontar leaves and finds a local Unus temple, researching the history of [[Opira]]
 - Xerthanos resets his alarm for overnight and Myrdin sets a screaming alarm
 
 ## The Meeting
 Led by [[Uga]]
 
 Introductions 
-- Opirian Alliance: [[Uga]], [[Cloud in the Sky]], and [[Zuhrus Razanath]]
-- Yhorian Empire: [[Thestros Yhora III]], [[Valor Daeren]], and [[Yolanda Mei]]
-- Kandallo: [[Rolin Sparkleweaver]] and [[Ailin Wanderfoot]]
-- Baohua: [[Keysys Starriver]] and [[Kior Solarclaw]]
-- Wayward Coast: [[Archpriest Fano]] and [[Archpriest Voola]]
+- [[Opirian Alliance]]: [[Uga]], [[Cloud in the Sky]], and [[Zuhrus Razanath]]
+- [[Yhoran Empire]]: [[Thestros Yhora III]], [[Valor Daeren]], and [[Yolanda Mei]]
+- [[Kandallo]]: [[Rolin Sparkleweaver]] and [[Ailin Wanderfoot]]
+- [[Baohua]]: [[Keysys Starriver]] and [[Kior Solarclaw]]
+- [[Wayward Coast]]: [[Archpriest Fano]] and [[Archpriest Voola]]
 
 Proposal of the Opirian Canal
-- Opira asks for investments from other nations
-- Yhorian Empire pledges investment (via [[Thestros Yhora III]])
+- Uga asks for investments from other nations
+- Thestros pledges investment (via [[Thestros Yhora III]])
 
 Incident
 - Meeting resumes after lunch break

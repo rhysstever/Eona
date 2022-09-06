@@ -13,6 +13,5 @@ dg-publish: false
 
 
 ## History
-> TODO: History
 
 #Organization 
