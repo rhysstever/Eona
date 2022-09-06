@@ -31,8 +31,8 @@ This is a page for me to jot possible ideas I have to use for this campaign
 - Phase 2: Community Outreach
 	- Publicize the story of the attack at the meeting, framing it as an attack from one nation to another
 	- Pay town criers to spread news of deaths from explosion, using info from R's letter
-		- "Extra! Extra! Attack on meeting in Opirian Keep. Explosion set off in main chamber, killing or injuring everyone in attendance. Yhorian Empire's Minister of Transport and Assistant to Coin among the deceased. No suspects known."
-	- Raise tensions between the [[Opirian Alliance]] and the [[Yhorian Empire]]
+		- "Extra! Extra! Attack on meeting in Opirian Keep. Explosion set off in main chamber, killing or injuring everyone in attendance. [[Yhoran Empire]]'s Minister of Transport and Assistant to Coin among the deceased. No suspects known."
+	- Raise tensions between the [[Opirian Alliance]] and the [[Yhoran Empire]]
 - Phase 3: 
 
 

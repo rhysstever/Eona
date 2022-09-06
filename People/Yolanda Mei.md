@@ -6,7 +6,7 @@ dg-publish: false
 
 # Yolanda Mei, Minister of Transport of Yhora
 - Female Silver (Cold) Dragonborn Sorcerer 
-- Minister of Transport of the [[Yhorian Empire]]
+- Minister of Transport of the [[Yhoran Empire]]
 
 ## Appearance
 

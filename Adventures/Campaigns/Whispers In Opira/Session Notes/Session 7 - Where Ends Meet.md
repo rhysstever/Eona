@@ -70,6 +70,6 @@ If the full monologue is said, Zaas's presence begins to take hold. Every round,
 	- Myrdin is fired as the royal bard, leaves [[Yhora (City)]] to go find his missing cousin
 	- Jason and the other guards are fired, he asks the [[Black Rose]] to be relocated to [[Kandallo]]
 	- R is moved to a different high up position, away from the royal family
-	- Tensions rise between the [[Yhorian Empire]] and [[Opirian Alliance]]
+	- Tensions rise between the [[Yhoran Empire]] and [[Opirian Alliance]]
 
 #Session_Notes

@@ -40,10 +40,10 @@ Another key moment in Baohuan history was the discovery of metal. After the init
 Not long after mountainside outposts were created, were veins of various metals discovered. Immediately, shafts were built and an industrial boom fell upon Baohua. Metal was initially sent to nearby towns to be refined, then shipped elsewhere to be forged. Weapons, coin, and other objects were created that became a part of everyday life in Baohua. One of the most revolutionary creations was cable. Cables were attached between mesas, and applied with a slick goo from cacti. Baohuans could then effectively zipline from place to place- easily navigating the otherwise crowded settlements. 
 
 ### Interaction from the North
-Soon after the [[Discovery of the Khitonian River]], Baohua received contact from other nations of [[Ezavriel]]. Citizens were hesitant at first, but gained interest for goods from these distant lands. More and more traders arrived from the [[Opirian Alliance]] and [[Yhorian Empire]] exchanging goods and cultures. 
+Soon after the [[Discovery of the Khitonian River]], Baohua received contact from other nations of [[Ezavriel]]. Citizens were hesitant at first, but gained interest for goods from these distant lands. More and more traders arrived from the [[Opirian Alliance]] and [[Yhoran Empire]] exchanging goods and cultures. 
 
 ### Changing Neighbors
-With the end of [[Yhorian-Opirian War]], Baohua felt the increased presence of their western neighbors, the [[Opirian Alliance]]. From the beginning, they had been trying to open the Baohuan doors to trade as much as possible. 
+With the end of [[Yhoran-Opirian War]], Baohua felt the increased presence of their western neighbors, the [[Opirian Alliance]]. From the beginning, they had been trying to open the Baohuan doors to trade as much as possible. 
 
 After countless, exhaustive negotiations, and even a nationwide vote, a Baohuan airship port was funded and built. Soon an influx of Opirian citizens arrived within the desert capital. Baohua began to generate a degree of tourism- an aspect of society that quickly became a controversial, yet irreversible topic among native Baohuans. 
 

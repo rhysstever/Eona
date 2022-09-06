@@ -7,7 +7,7 @@ dg-publish: false
 - River's PC
 - Halfling Assassin Rogue
 - A member of the [[Black Rose]]
-- Bodyguard to [[Valor Daeren]], a Yhorian representative
+- Bodyguard to [[Valor Daeren]]
 
 ## Appearance
 

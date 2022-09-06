@@ -46,7 +46,7 @@ Trade was one focus each major city shared, mainly due to being prominent contin
 The Opirian Navy would quickly become a force known throughout the continent, enabling the Opirian Alliance to grow as a major power. 
 
 ### Post War Alliance
-The end of the [[Yhorian-Opirian War]] confirmed the Opirian Alliance was now the dominate nation of [[Ezavriel]]. Many previously [[Yhorian Empire]] towns joined the Opirian Alliance, sending their representatives to [[Opira]]. Almost all trade conducted within the continent now dealt with the Opirian Alliance in some way. 
+The end of the [[Yhoran-Opirian War]] confirmed the Opirian Alliance was now the dominate nation of [[Ezavriel]]. Many previously [[Yhoran Empire]] towns joined the Opirian Alliance, sending their representatives to [[Opira]]. Almost all trade conducted within the continent now dealt with the Opirian Alliance in some way. 
 
 The war also marked a new era of [[Ezavriel]]. It was now the age of technology. Machines, constructs, and other mechanical inventions popped up all throughout Opirian settlements after the representative shared primitive designs used during the war. 
 

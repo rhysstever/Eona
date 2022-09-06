@@ -7,7 +7,8 @@ Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that re
 
 ## Population
 ### Up in the Canopy
-- Upper class district
+Up in the Canopy, or the Canopy for short, contains the elite of Ithilmore. 
+
 - Official locations
 	- Governmental: Elder Council Room
 - Important citizen's dwellings
@@ -18,8 +19,7 @@ Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that re
 ### Along the Trunk
 - Middle class district
 - Popular shops/taverns/inns
-- Homes of descendants that early settlers*
-	- * families that remained prominent
+- Homes of descendants that early settlers- families that remained prominent
 
 ### Down by the Roots
 - Lower/Middle class district
@@ -30,12 +30,12 @@ Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that re
 - Lower class district
 - Largest district of Ithilmore, by size and population
 - Simple homes for unskilled workers
-	- Some farmers live along the edge if their land sits just beyond the grove
+- Some farmers live along the edge if their land sits just beyond the grove
 
 ### Underhallow
 - Ithilmore's newest district
 - Large underdark population
-- Creation headed by [[Sontar Raloran]] to form a union between the Kandallo and the underdark people to the northwest
+- Creation headed by [[Sontar Raloran]] to form a union between the [[Kandallo]] and the underdark people to the northwest
 
 ### Shops
 #### Tree Tap Bar
@@ -50,10 +50,12 @@ Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that re
 - Ran by a minotaur
 
 ## Government
-Ithilmore is governed by the ruling body of [[Kandallo]]: the Council of Elders. 
+Ithilmore is governed by the Council of Elders (see Key Figures of [[Kandallo]]).
 
 ## Defense
-Ithilmore's main defense comes from the natural protection of the [[Willowdust Woods]]. The city is protected from sea attacks by being more than halfway 
+Ithilmore has no walls, moats, or traditional defenses. Instead, its main defense comes from the natural protection of the [[Willowdust Woods]]. It is nearly impossible for a force to surprise attack Ithilmore. If it does not alert a town or village along the way, the Elders would feel a disturbance from their natural connection to the woods. 
+
+[[Kandallo]] still trains a military force to defend Ithilmore and settlements within the woods. These warriors are trained in a gorilla-style combat that utilizes their knowledge of the forest. 
 
 ## Commerce
 - Exports to surrounding towns of [[Kandallo]]
@@ -62,6 +64,6 @@ Ithilmore's main defense comes from the natural protection of the [[Willowdust W
 - Uses main river to bring goods into or out of the city
 
 ## Organizations
-> Add Organizations
+> TODO: Add Organizations
 
 #Settlement

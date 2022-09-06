@@ -35,7 +35,7 @@ In-Game Date: 20th of Eonum, 1452
 - R goes to see the bodies of Valor and Yolanda
 - R freaks out about the situation, then reveals the note he found: **Warning Clue**
 - Xerthanos and Sontar talk to their elders again, Ailin recognizes the name 'Folen' as the preparation mage" Folen Carro
-	- They relay who Folen is to the [[Yhorian Empire]] group
+	- They relay who Folen is to the [[Yhoran Empire]] group
 
 ## Behind the Scenes
 - Morning: Thestros receives a reply to his letter (no return address)

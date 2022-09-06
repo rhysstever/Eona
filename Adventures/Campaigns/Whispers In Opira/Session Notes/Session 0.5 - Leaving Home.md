@@ -16,7 +16,7 @@ In-Game Date: 17th of Eonum, 1452
 	- [[Yolanda Mei]], Minister of Transport
 	- [[Myrdin Craynore]], Court Bard
 	- [[Jason Stonewall]], Bodyguard
-	- Yhorian guard soldiers
+	- Yhoran guard soldiers
 
 ## Leaving the Tree
 Date: 2/2/2022  

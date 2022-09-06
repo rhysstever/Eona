@@ -6,7 +6,7 @@ dg-publish: false
 ## About
 - Corey's PC
 - Wood-Elf College of Lore Bard / Rogue 
-- Second-heir of House Craynore, a prominent noble family in the [[Yhorian Empire]]
+- Second-heir of House Craynore, a prominent noble family in the [[Yhoran Empire]]
 - Low-ranking member of the [[Black Rose]]
 
 ## Appearance
@@ -15,7 +15,7 @@ dg-publish: false
 ## Personality
 
 ## History
-Myrdin Craynore was born the younger of the two heirs to House Craynore, one of the politically strongest noble houses in the [[Yhorian Empire]]. His mother, Imra Craynore, died in giving birth to him, a fact that his father, Folmer Craynore, has never been able to forgive. 
+Myrdin Craynore was born the younger of the two heirs to House Craynore, one of the politically strongest noble houses in the [[Yhoran Empire]]. His mother, Imra Craynore, died in giving birth to him, a fact that his father, Folmer Craynore, has never been able to forgive. 
 
 Myrdin was raised as noble children traditionally are, given a good education with a focus on languages and economics. Myrdin excelled at languages, but found himself uninterested in the economics and finances of his house, preferring the politics and statecraft that he saw around him. Unfortunately, those duties went to his older sister and heir to House Craynore, Alea. As second-heir, Myrdin's destiny is to help his older sister run the house by balancing books and haggling with merchants. 
 
@@ -25,7 +25,7 @@ For much of his childhood, Myrdin desperately tried to win their affection with 
 
 His skills as a rogue began when his cousin Kylantha introduced him to the [[Black Rose]], an assassin's guild of noblemen with a strict honor code. Myrdin respects their code, and remains a low-ranking member, although he is uninterested in assassination or thievery - he enjoys guild membership for its opportunity in spycraft training, including intel missions that he is occasionally sent on. 
 
-His nuclear family has no idea he is a member, although the Kelkians do and support him. After being fired from his family's ledger-work (see Allies), Myrdin got a job as the Yhora family's court-bard. His high noble birth, combined with some subtle recommendations from connections in the [[Black Rose]], and Vulmer's bardic status, allowed him to obtain a prestigious position entertaining events that the Throne of the [[Yhorian Empire]] puts on. 
+His nuclear family has no idea he is a member, although the Kelkians do and support him. After being fired from his family's ledger-work (see Allies), Myrdin got a job as the Yhora family's court-bard. His high noble birth, combined with some subtle recommendations from connections in the [[Black Rose]], and Vulmer's bardic status, allowed him to obtain a prestigious position entertaining events that the Throne of the [[Yhoran Empire]] puts on. 
 
 He also acts as a spy at these events, telling useful political secrets to the ruler. Occasionally, he keeps some secrets to himself, although only ones that help House Kelkian - he freely releases info on his own house, which helps the King and Queen trust him. 
 
@@ -44,7 +44,7 @@ When Theodred and Myrdin were 22, a scam gone wrong led to Myrdin getting an arr
 Besides his nuclear family, Myrdin doesn't have enemies as such, but he certainly has competitors. He ranks quite low in Yhora's thieves guild, a fact he isn't interested in changing, but his position in Yhora's royal court makes his fellow thieves (and fellow bards) jealous and competitive. Mostly, they're cordial to him, but many of Myrdin's coworkers are looking for a secret that could hurt his reputation and lose him the job.
 
 ## Organizations
-**House Craynore** is a powerful noble house, wielding politics and control of the lumber and construction trade as bluntly yet effectively as a hammer. Currently, they are subtly vying for the throne of the [[Yhorian Empire]]. 
+**House Craynore** is a powerful noble house, wielding politics and control of the lumber and construction trade as bluntly yet effectively as a hammer. Currently, they are subtly vying for the throne of the [[Yhoran Empire]]. 
 
 Myrdin is a low-ranking member of the [[Black Rose]]. He is mostly uninterested in their work of thievery and assassination, but uses them as an opportunity to network with other underground nobles and to practice his spycraft with [[Black Rose]] mentors. He can often be found playing cards in the [[Black Rose]]'s common room, often losing, but still enjoying the conversation and occasionally adding a song to the hubbub.
 

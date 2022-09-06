@@ -42,14 +42,14 @@ As the population grew and grew, the small collection of people eventually reach
 ### Blooming into Kandallo
 Years passed and [[Ithilmore]]'s population continued to increase. The elders managed a just distribution of resources, allowing smaller towns throughout the [[Willowdust Woods]] to be established. The single tree of [[Ithilmore]] soon became the nation of Kandallo. 
 
-From its inception, Kandallo has always been self-sufficient. So as the nation grew, all of its trade was conducted internally. Only on the rarest occasions did the elders agree to work with the [[Yhorian Empire]] or [[Opirian Alliance]]. 
+From its inception, Kandallo has always been self-sufficient. So as the nation grew, all of its trade was conducted internally. Only on the rarest occasions did the elders agree to work with the [[Yhoran Empire]] or [[Opirian Alliance]]. 
 
 ### Focusing Within 
-When the [[Yhorian-Opirian War]] broke out in 1453, Kandallo remained neutral. This was no surprise to anyone who lived in [[Ezavriel]], as Kandallo was known to rarely deal with external affairs. In place, they focused on strengthening the peoples within their nation and those surrounding it. 
+When the [[Yhoran-Opirian War]] broke out in 1453, Kandallo remained neutral. This was no surprise to anyone who lived in [[Ezavriel]], as Kandallo was known to rarely deal with external affairs. In place, they focused on strengthening the peoples within their nation and those surrounding it. 
 
 Within the same year, Assistant to the Elder of Knowledge: [[Sontar Raloran]], led an expedition to reopen communication with the underdark folk that lived to the north of [[Ithilmore]]. Deep in the mountains lived numerous colonies. 
 
-Rather than conquering these colonies like the [[Yhorian Empire]] would, the Kandallan people decided to lend a hand to work together. They offered resources and services accessible from the surface. Life beneath the mountains was rough. Many underdark folk wished to relocate their burrow elsewhere, but never had the resources to. With this aid, they were able to find more suitable dwellings throughout Kandallo. 
+Rather than conquering these colonies like the [[Yhoran Empire]] would, the Kandallan people decided to lend a hand to work together. They offered resources and services accessible from the surface. Life beneath the mountains was rough. Many underdark folk wished to relocate their burrow elsewhere, but never had the resources to. With this aid, they were able to find more suitable dwellings throughout Kandallo. 
 
 Many simply created new underground networks that were nearby towns. A large population however, took interest to the capital. Headed by Sontar, a new district was created within [[Ithilmore]]: the Underhallow. 
 

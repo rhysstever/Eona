@@ -8,7 +8,7 @@ Opira ("OH-PEER-RUH") is a large port city and the capital of the [[Opirian Alli
 ## Population
 ### Northern Docks
 - Sea routes through the North Sea
-	- Nations: [[Kandallo]] and  [[Yhorian Empire]]
+	- Nations: [[Kandallo]] and  [[Yhoran Empire]]
 
 ### Southern Docks
 - Sea routes through the Tranquil Gulf/Endless Sea
