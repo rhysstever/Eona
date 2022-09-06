@@ -14,4 +14,4 @@ You can view the published notes [here](https://eona.netlify.app/)! If you, howe
 ## Credits
 Notetaking App: [Obsidian](https://obsidian.md/)  
 Map Maker: [Inkarnate Pro](https://inkarnate.com/)  
-Sigil Creater: [World Spinner](https://worldspinner.com/heraldry/device_editor/)
+Nation Sigil Creator: [World Spinner](https://worldspinner.com/heraldry/device_editor/)
