@@ -2,7 +2,7 @@
 
 ![A map of Ezavriel](https://github.com/rhysstever/Eona/blob/main/Images/Ezavriel_Maps/Ezavriel_Labeled.jpg)
 
-This repo is where I am storing notes for my homebrew Dungeons and Dragons world, Eona. I am using [Obsidian](https://obsidian.md/) to organize everything, and it mainly uses markdown for each note file.
+This repo stores all notes for my homebrew Dungeons and Dragons world, Eona. I am using [Obsidian](https://obsidian.md/) to organize everything, and it mainly uses markdown for each note file.
 
 I outline continents, major nations, points of interest, key people, and much more within Eona. I also keep track of campaigns and one-shots I run within this setting. If you are a player in any of these adventures, please refrain from looking within the Adventures folder.
 
