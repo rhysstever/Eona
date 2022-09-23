@@ -16,7 +16,7 @@ A large open square with several promenades extending out from it. The square it
 Most of the Yhoran population resides in what is named Bloomfield. They live as farmers, crafters, dockhands, and other simple laborers. Some farmers have homestead outside of the city walls, which is still considered Bloomfield. 
 
 ## Government
-The Yhora family has maintained a monarchy for over two millennia. 
+The Yhora family has maintained a monarchy for over two millennia. They rule not only the city of Yhora but the entire [[Yhoran Empire]]. The king has a council of masters that help him delegate tasks throughout the city and empire.  
 
 ## Defense
 The core of the city is surrounded by stone walls. There are three gated entrances to the city: north, to the main road; east, towards the outer harbor; and southwest, towards the inner harbor. 

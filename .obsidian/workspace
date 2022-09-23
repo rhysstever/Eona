@@ -7,8 +7,12 @@
         "id": "30549cb81af0a318",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Settlements/Opira.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,7 +62,7 @@
       {
         "id": "232f5b5eed3c011d",
         "type": "tabs",
-        "dimension": 55.49815498154981,
+        "dimension": 55.4981549815498,
         "children": [
           {
             "id": "be9af2271137137f",
@@ -66,6 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Settlements/Opira.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +168,7 @@
       {
         "id": "8777fa7532decd67",
         "type": "tabs",
-        "dimension": 44.50184501845019,
+        "dimension": 44.5018450184502,
         "children": [
           {
             "id": "62b0630b2baf43b0",
@@ -171,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Settlements/Opira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Settlements/Opira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Settlements/Opira.md"
+              }
             }
           }
         ],
@@ -220,15 +229,15 @@
   },
   "active": "30549cb81af0a318",
   "lastOpenFiles": [
-    "Settlements/Ithilmore.md",
-    "Nations/Kandallo.md",
-    "Settlements/Kanta.md",
     "Settlements/Yhora (City).md",
-    "Settlements/Yalos.md",
-    "Nations/Yhoran Empire.md",
-    "People/King Xuan Vander Yhora.md",
-    "Events/Discovery of the Khitonian River.md",
-    "People/Jaayfin Oakroot II.md",
-    "Adventures/Campaigns/Whispers In Opira/Session Notes/Session 3 - Questions to be Answered.md"
+    "Settlements/Ithilmore.md",
+    "Continents/Ezavriel.md",
+    "Images/Ezavriel_Maps/Ezavriel_Labeled.jpg",
+    "Images/Ezavriel_Maps/Ezavriel_Structures.jpg",
+    "Images/Ezavriel_Maps/Ezavriel_Unlabeled.jpg",
+    "Images/Ezavriel_Maps/Ezavriel_Labeled_Political_1452.jpg",
+    "Timeline of Ezavriel.md",
+    "Nations/Kandallo.md",
+    "Settlements/Kanta.md"
   ]
 }

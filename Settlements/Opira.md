@@ -17,7 +17,7 @@ Opira ("OH-PEER-RUH") is a large port city and the capital of the [[Opirian Alli
 
 ### Vendor's Row
 - Trade district
-- Long roads that cut through the city
+- Long roads that cuts through the city
 
 ### Keep Opira
 - Opirian representatives live and govern the city
