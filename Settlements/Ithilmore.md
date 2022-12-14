@@ -3,9 +3,13 @@ dg-publish: false
 ---
 
 # Ithilmore
-Ithilmore ("EH-THILL-MORE") is a large shire built around a massive tree that resides in the heart of the [[Willowdust Woods]]. It is the capital of [[Kandallo]]. 
+Ithilmore ("EH-THILL-MORE") is a large city built inside and around a massive tree. The city is the only major settlement and, thus, as the capitol of [[Kandallo]]. The Council of Elders govern Ithilmore, in addition to the entire nation. 
+
+The tree, named Eona's Hearth by Kandallans, is what the city is most known for. The tree itself stands hundreds of feet tall and sits at the heart of the [[Willowdust Woods]]. Due to its shear size, Eona's Hearth can contain numerous houses, shops, and other buildings along its trunk and branches. 
 
 ## Population
+Most of the population of Ithilmore lives within the tree. 
+
 ### Up in the Canopy
 Up in the Canopy, or the Canopy for short, contains the elite of Ithilmore. 
 
@@ -34,6 +38,8 @@ Up in the Canopy, or the Canopy for short, contains the elite of Ithilmore.
 
 ### Underhallow
 - Ithilmore's newest district
+- Beneath the tree, amongst its roots
+- 
 - Large underdark population
 - Creation headed by [[Sontar Raloran]] to form a union between the [[Kandallo]] and the underdark people to the northwest
 

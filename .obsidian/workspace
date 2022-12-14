@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30549cb81af0a318",
+        "id": "0ce70b8b2e2d45e1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Settlements/Opira.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Settlements/Opira.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settlements/Opira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +187,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settlements/Opira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,9 +208,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Settlements/Opira.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -225,19 +216,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
-  "active": "30549cb81af0a318",
+  "active": "0ce70b8b2e2d45e1",
   "lastOpenFiles": [
-    "Settlements/Yhora (City).md",
     "Settlements/Ithilmore.md",
+    "Settlements/Khiton.md",
+    "Settlements/Opira.md",
+    "Events/Destruction of Kleciopa.md",
+    "Continents/Kleciopa.md",
     "Continents/Ezavriel.md",
-    "Images/Ezavriel_Maps/Ezavriel_Labeled.jpg",
-    "Images/Ezavriel_Maps/Ezavriel_Structures.jpg",
-    "Images/Ezavriel_Maps/Ezavriel_Unlabeled.jpg",
-    "Images/Ezavriel_Maps/Ezavriel_Labeled_Political_1452.jpg",
-    "Timeline of Ezavriel.md",
     "Nations/Kandallo.md",
-    "Settlements/Kanta.md"
+    "Continents/_Continent_Template.md",
+    "Events/_Event_Template.md",
+    "Events/Discovery of the Khitonian River.md"
   ]
 }

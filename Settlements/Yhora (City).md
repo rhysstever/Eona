@@ -21,9 +21,9 @@ The Yhora family has maintained a monarchy for over two millennia. They rule not
 ## Defense
 The core of the city is surrounded by stone walls. There are three gated entrances to the city: north, to the main road; east, towards the outer harbor; and southwest, towards the inner harbor. 
 
-Centered in the city, Yhora keep sits atop a hill, high enough to be seen anywhere within the city walls. The keep is surrounded by two stone walls, separated by a moat. 
+Centered in the city, the Yhoran Keep sits atop a hill, high enough to be seen anywhere within the city walls. The keep is surrounded by two stone walls, separated by a moat. 
 
-The Yhoran guard is revered throughout [[Ezavriel]]. They are known for their extensive training and unyielding commitment to the Yhora royal family. Most of the size and power of the guard is used outside of the city- maintaining Yhoran control in nearby towns and villages. This does not end at the gates to the city. Yhoran guard presence is most prominent in both Highgarden and Merchant's Crossing districts: protecting the city's elite and trade above all else. 
+Beyond static defenses, the city utilizes the Yhoran Guard, a vast army of soldiers. They protect the Yhora royal family, as well as the keep general law and order throughout the city.
 
 ## Commerce
 Yhora is a major hub for trade, during and after the [[Yhoran Empire]]. The city is positioned on the mouth of the [[Sea of Yhor]], allowing sea trade routes to towns along the coast of the Sea and longer routes to other nations. 
@@ -33,6 +33,11 @@ Its main exports include manufactured goods and trained soldiers, usually to sma
 Yhora imports mostly from the [[Opirian Alliance]], taking advantage of its variety of goods from different towns a part of the alliance. 
 
 ## Organizations
+### Yhoran Guard
+The Yhoran Guard are the main military force of the city. The guard is known for its large size. Within Yhora, they are mostly used to keep the peace. The guard's presence can be felt most prominent in both Highgarden and Merchant's Crossing: protecting the city's elite and trade above all else. 
+
+A small, skilled sect of the guard protects the royal family directly, and are referred to as the Palace Guard. 
+
 ### Black Rose (Hidden)
 The [[Black Rose]] is a thieves/assassins guild that hides in plain sight. It operates out of a tailor shop located in the Highgarden district. 
 
