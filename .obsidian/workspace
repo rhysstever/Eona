@@ -7,8 +7,12 @@
         "id": "0ce70b8b2e2d45e1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Adventures/Campaigns/School/Student Schedules.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Adventures/Campaigns/School/Student Schedules.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventures/Campaigns/School/Student Schedules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adventures/Campaigns/School/Student Schedules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adventures/Campaigns/School/Student Schedules.md"
+              }
             }
           }
         ],
@@ -221,6 +230,7 @@
   },
   "active": "0ce70b8b2e2d45e1",
   "lastOpenFiles": [
+    "Adventures/Adventure Ideas.md",
     "Settlements/Ithilmore.md",
     "Settlements/Khiton.md",
     "Settlements/Opira.md",
@@ -229,7 +239,6 @@
     "Continents/Ezavriel.md",
     "Nations/Kandallo.md",
     "Continents/_Continent_Template.md",
-    "Events/_Event_Template.md",
-    "Events/Discovery of the Khitonian River.md"
+    "Events/_Event_Template.md"
   ]
 }
