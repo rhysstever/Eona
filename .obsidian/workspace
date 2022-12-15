@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce70b8b2e2d45e1",
+        "id": "30549cb81af0a318",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventures/Campaigns/School/Student Schedules.md",
+            "file": "Adventures/Campaigns/School/Schedules & Courses.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Adventures/Campaigns/School/Student Schedules.md",
+                "file": "Adventures/Campaigns/School/Schedules & Courses.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Campaigns/School/Student Schedules.md",
+                "file": "Adventures/Campaigns/School/Schedules & Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Campaigns/School/Student Schedules.md",
+                "file": "Adventures/Campaigns/School/Schedules & Courses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Campaigns/School/Student Schedules.md"
+                "file": "Adventures/Campaigns/School/Schedules & Courses.md"
               }
             }
           }
@@ -228,17 +228,17 @@
     "width": 390.5,
     "collapsed": true
   },
-  "active": "0ce70b8b2e2d45e1",
+  "active": "30549cb81af0a318",
   "lastOpenFiles": [
-    "Adventures/Adventure Ideas.md",
-    "Settlements/Ithilmore.md",
-    "Settlements/Khiton.md",
-    "Settlements/Opira.md",
-    "Events/Destruction of Kleciopa.md",
+    "Adventures/Campaigns/School/Barbarian Courses.md",
+    "Adventures/Campaigns/School/Schedules & Courses.md",
+    "Adventures/Campaigns/School/Courses.md",
     "Continents/Kleciopa.md",
+    "Settlements/Opira.md",
+    "Settlements/Yhora (City).md",
+    "Settlements/Ithilmore.md",
     "Continents/Ezavriel.md",
-    "Nations/Kandallo.md",
-    "Continents/_Continent_Template.md",
-    "Events/_Event_Template.md"
+    "Images/Ezavriel_Maps/Ezavriel_Labeled.jpg",
+    "Images/Ezavriel_Maps/Ezavriel_Structures.jpg"
   ]
 }
