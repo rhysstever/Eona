@@ -48,7 +48,7 @@ Atal is a greater deity of the sun and light.
 **Pronunciation:** ("EE-OWN-UH")  
 **Alignment:** LG  
 **Symbol:** A crossed sickle and blacksmith hammer  
-**Possible Domains:** Forge, Life, Light  
+**Suggested Domains:** Forge, Life, Light  
 **Other Titles:** the First  
 
 Eona is a greater deity of the world and creation. 
@@ -57,7 +57,7 @@ Eona is a greater deity of the world and creation.
 **Pronunciation:** ("KR-EM-MEL")  
 **Alignment:** NE  
 **Symbol:** A crumbling pillar  
-**Possible Domains:** Death, Tempest, War  
+**Suggested Domains:** Death, Tempest, War  
 **Other Titles:** the Leveler  
 
 Kremmel is a greater deity of destruction.
@@ -66,7 +66,7 @@ Kremmel is a greater deity of destruction.
 **Pronunciation:** ("KEE-YEN")  
 **Alignment:** CN  
 **Symbol:** A mask and dagger  
-**Possible Domains:** Death, Trickery, Twilight  
+**Suggested Domains:** Death, Trickery, Twilight  
 **Other Titles:** the Selfish  
 
 Kyen is a greater deity of vengeance and anarchy.
@@ -75,8 +75,8 @@ Kyen is a greater deity of vengeance and anarchy.
 **Pronunciation:** ("M-EER-UH-LIN")  
 **Alignment:** N  
 **Symbol:** A circle of two four-pointed stars  
-**Possible Domains:** Arcana, Knowledge  
-**Other Titles:** the Weavermaster  
+**Suggested Domains:** Arcana, Knowledge  
+**Other Titles:** the Weavemaster  
 
 Meralin is a greater deity of magic. 
 
@@ -84,7 +84,7 @@ Meralin is a greater deity of magic.
 **Pronunciation:** ("NOCK-ZUL")  
 **Alignment:** LE  
 **Symbol:** Crossed chains  
-**Possible Domains:** Order, Trickery  
+**Suggested Domains:** Order, Trickery  
 **Other Titles:** the Undoubted One  
 
 Nokzol is a greater deity of tyranny. 
@@ -93,17 +93,17 @@ Nokzol is a greater deity of tyranny.
 **Pronunciation:** ("ORE-UHS")  
 **Alignment:** NE  
 **Symbol:** A partially corroded skull  
-**Possible Domains:** Death, Grave, Trickery  
+**Suggested Domains:** Death, Grave, Trickery  
 **Other Titles:** the Unending  
 
 Oros is a greater deity of the undead and decay. 
 
 ### Ovara the Life-bringer
-**Pronunciation:** ("OH-VAR-UH")  
+**Pronunciation:** ("OH-VARR-UH")  
 **Alignment:** CG  
 **Symbol:** A tree with a thick canopy  
-**Possible Domains:** Life, Light, Nature, Tempest  
-**Other Titles:**    
+**Suggested Domains:** Life, Light, Nature, Tempest  
+**Other Titles:** the Great Shepard    
 
 Ovara is a greater deity of life and growth. 
 
@@ -111,7 +111,7 @@ Ovara is a greater deity of life and growth.
 **Pronunciation:** ("THOR-UHS")  
 **Alignment:** LN  
 **Symbol:** A balanced scale  
-**Possible Domains:** Order  
+**Suggested Domains:** Order  
 **Other Titles:** the Noble, the Just  
 
 Thoros is a greater deity of justice. 
@@ -120,7 +120,7 @@ Thoros is a greater deity of justice.
 **Pronunciation:** ("Y-EW-NUHS")  
 **Alignment:** NG  
 **Symbol:** An open tome  
-**Possible Domains:** Arcana, Knowledge  
+**Suggested Domains:** Arcana, Knowledge  
 **Other Titles:** the World's Mentor  
 
 Unus is a greater deity of knowledge. 
@@ -129,7 +129,7 @@ Unus is a greater deity of knowledge.
 **Pronunciation:** ("V-ORD")  
 **Alignment:** N  
 **Symbol:** Two crossed swords  
-**Possible Domains:** Forge, War  
+**Suggested Domains:** Forge, War  
 **Other Titles:** the Original Smith  
 
 Vhord is a greater deity of war. 
@@ -138,7 +138,7 @@ Vhord is a greater deity of war.
 **Pronunciation:** ("YER")  
 **Alignment:** N  
 **Symbol:** A gravestone's silhouette in a full moon  
-**Possible Domains:** Death, Nature, Tempest, Twilight  
+**Suggested Domains:** Death, Nature, Tempest, Twilight  
 **Other Titles:** the Final Visitor  
 
 Yher is a greater deity of death and darkness. 
@@ -147,7 +147,7 @@ Yher is a greater deity of death and darkness.
 **Pronunciation:** ("Z-ASS")  
 **Alignment:** CE  
 **Symbol:** A blood-splattered envelope  
-**Possible Domains:** Knowledge, Trickery, Twilight  
+**Suggested Domains:** Knowledge, Trickery, Twilight  
 **Other Titles:** the Shadowed Voice
 
 Zaas is a greater deity of secrets. 

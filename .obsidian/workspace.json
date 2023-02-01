@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "21083b427c5624b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "510eddd492278ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30549cb81af0a318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Deities of Eona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d737e0454432d1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f62a68918e0211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca465a7f7a67fed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d51fa29b4db3589e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Kan",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "109c64a7db16d479",
+    "type": "split",
+    "children": [
+      {
+        "id": "232f5b5eed3c011d",
+        "type": "tabs",
+        "dimension": 55.4981549815498,
+        "children": [
+          {
+            "id": "be9af2271137137f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Religion/Deities of Eona.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#World",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "tag:#Settlement",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16750080
+                      }
+                    },
+                    {
+                      "query": "tag:#POI",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16776960
+                      }
+                    },
+                    {
+                      "query": "tag:#Organization",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    },
+                    {
+                      "query": "tag:#Event",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65535
+                      }
+                    },
+                    {
+                      "query": "tag:#Person",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8323327
+                      }
+                    },
+                    {
+                      "query": "tag:#Session_Notes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711935
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6568960
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6955257542209117,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8777fa7532decd67",
+        "type": "tabs",
+        "dimension": 44.5018450184502,
+        "children": [
+          {
+            "id": "62b0630b2baf43b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Religion/Deities of Eona.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f43d301b8880ffe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Religion/Deities of Eona.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eb423c353e78f93a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15ed7458809fa7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Religion/Deities of Eona.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5,
+    "collapsed": true
+  },
+  "active": "30549cb81af0a318",
+  "lastOpenFiles": [
+    "Events/Destruction of Kleciopa.md",
+    "Events/Discovery of the Khitonian River.md",
+    "Events/Explosion in Opira.md",
+    "Events/Founding of Yhora.md",
+    "Events/Stonewall Industries Established.md",
+    "Events/Yhoran-Opirian War.md",
+    "Events/_Event_Template.md",
+    "Religion/Deities of Eona.md",
+    "Adventures/Campaigns/School/Schedules & Courses.md",
+    "Adventures/Campaigns/School/Barbarian Courses.md"
+  ]
+}
