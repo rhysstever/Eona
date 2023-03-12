@@ -25,3 +25,7 @@ When a creature takes damage equal to, or greater than, half its Hit Point maxim
 
 [source link](https://homebrewery.naturalcrit.com/share/Byb2RoSkCx)
 
+## Intense Death Saves
+Rolling Death Saves should be a tense and climatic part of combat: someone's life is on the line. To make rolling Death Saving throws more intense, they are rolled privately and only shared with the DM. This creates suspense for the other players at the table, of not knowing how close someone is to actual death. For this to work, both the DM and the player rolling saves must not react to the results of the roll. 
+
+Source: Johnny Stanton on Dropout's Adventuring Academy (S4 E8) 
