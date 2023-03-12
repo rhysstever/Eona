@@ -25,7 +25,17 @@ When a creature takes damage equal to, or greater than, half its Hit Point maxim
 
 [source link](https://homebrewery.naturalcrit.com/share/Byb2RoSkCx)
 
-## Intense Death Saves
+## Lingering Injuries
+A creature might sustain a lingering injury under the following circumstances:
+- When it takes a critical hit.
+- When it drops to 0 hit points but isn't killed outright.
+- When it fails a death saving throw by 5 or more.
+
+The effect differs by damage type. Use the link 
+
+[source link](http://farlandworld.com/injuries.html)
+
+## Private Death Saves
 Rolling Death Saves should be a tense and climatic part of combat: someone's life is on the line. To make rolling Death Saving throws more intense, they are rolled privately and only shared with the DM. This creates suspense for the other players at the table, of not knowing how close someone is to actual death. For this to work, both the DM and the player rolling saves must not react to the results of the roll. 
 
 Source: Johnny Stanton on Dropout's Adventuring Academy (S4 E8) 
