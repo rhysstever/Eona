@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30549cb81af0a318",
+            "id": "80189af08510f233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Adventures/Optional Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Adventures/Optional Rules.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Adventures/Optional Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Deities of Eona.md",
+                "file": "Adventures/Optional Rules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Deities of Eona.md"
+                "file": "Adventures/Optional Rules.md"
               }
             }
           }
@@ -249,8 +249,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "30549cb81af0a318",
+  "active": "80189af08510f233",
   "lastOpenFiles": [
+    "Adventures/Campaigns/School/Schedules & Courses.md",
+    "Religion/Deities of Eona.md",
     "Events/Destruction of Kleciopa.md",
     "Events/Discovery of the Khitonian River.md",
     "Events/Explosion in Opira.md",
@@ -258,8 +260,6 @@
     "Events/Stonewall Industries Established.md",
     "Events/Yhoran-Opirian War.md",
     "Events/_Event_Template.md",
-    "Religion/Deities of Eona.md",
-    "Adventures/Campaigns/School/Schedules & Courses.md",
     "Adventures/Campaigns/School/Barbarian Courses.md"
   ]
 }
